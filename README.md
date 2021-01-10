@@ -1,8 +1,3 @@
----
-layout: home
-author_profile: true
----
-
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Enfycius&fontSize=70&animation=twinkling)
 
 :wave: Hello My name is Jonghyeok Kim, I am currently the leader of the PSG and APPSILON team.
