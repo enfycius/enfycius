@@ -10,13 +10,12 @@
 |     2015.11.25    |        Award        |                     Gold Award                    | Educational Research and Information Institute |
 |     2020.03 ~     |      Education      | Department of Civil and Environmental Engineering |           Hanbat National University           |
 |      2017.09      | External Activities |     Institute for Higher Education Innovation     |                Yonsei University               |
-|     2020.05.25    | External Activities |                     Translation                   |                    JavaTPoint                  |
+|     2020.05 ~     | External Activities |                     Translator                    |                    JavaTPoint                  |
 |     2019.11 ~     |   Team Activities   |                 Hacker, MOKA Team                 |             Sungkyunkwan University            |
 |     2019.12 ~     |   Team Activities   |                  Leader, PSG Team                 |                        x                       |
 |     2020.05 ~     |       Project       |      The Stellar Project(One Commit per Day)      |                    PSG Team                    |
 |     2020.10 ~     |   Team Activities   |               Leader, APPSILON Team               |                        x                       |
 |     2021.02 ~     | Research Activities |                   XAI Researcher                  |  Mathematical Sciences Lab, Hanbat Nat'l Univ. |
-
 
 ### :star: Interest
 
