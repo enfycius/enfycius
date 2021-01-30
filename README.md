@@ -13,7 +13,10 @@
 |     2020.05 ~     | External Activities |                     Translator                    |                    JavaTPoint                  |
 |     2019.11 ~     |   Team Activities   |                 Hacker, MOKA Team                 |             Sungkyunkwan University            |
 |     2019.12 ~     |   Team Activities   |                  Leader, PSG Team                 |                        x                       |
-|     2020.05 ~     |       Project       |      The Stellar Project(One Commit per Day)      |                    PSG Team                    |
+|     2020.05 ~     |       Project       | The Stellar Project<br />(One Commit per Day)     |                    PSG Team                    |
+|     2021.01 ~     |       Project       | The Demeter Project<br />(EZEN Const Web Site)    |                    PSG Team                    |
+|     2021.01 ~     |       Project       | The Booung Project<br />(PSG Notification Service)|                    PSG Team                    |
+|     2021.01 ~     |       Project       | The Zilot Project<br />(Github Generalization)    |                    PSG Team                    |
 |     2020.10 ~     |   Team Activities   |               Leader, APPSILON Team               |                        x                       |
 |     2021.02 ~     | Research Activities |                   XAI Researcher                  |  Mathematical Sciences Lab, Hanbat Nat'l Univ. |
 
