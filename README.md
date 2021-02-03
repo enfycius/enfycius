@@ -18,6 +18,7 @@
 |     2021.01 ~     |       Project       | The Demeter Project<br />(EZEN Const Web Site)    |                    PSG Team                    |
 |     2021.01 ~     |       Project       | The Booung Project<br />(PSG Notification Service)|                    PSG Team                    |
 |     2021.01 ~     |       Project       | The Zilot Project<br />(Github Generalization)    |                    PSG Team                    |
+|     2021.02 ~     |       Project       | The Pilot Project<br />(PSG Kakao Chatbot)        |                    PSG Team                    |
 |     2020.10 ~     |   Team Activities   |               Leader, APPSILON Team               |                        x                       |
 |     2021.02 ~     | Research Activities |                   XAI Researcher                  |  Mathematical Sciences Lab, Hanbat Nat'l Univ. |
 
