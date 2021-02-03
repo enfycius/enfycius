@@ -13,7 +13,7 @@
 |     2020.05 ~     | External Activities |                     Translator                    |                    JavaTPoint                  |
 |     2019.11 ~     |   Team Activities   |                 Hacker, MOKA Team                 |             Sungkyunkwan University            |
 |     2019.12 ~     |   Team Activities   |                  Leader, PSG Team                 |                        x                       |
-|     2018.08 ~     |       Project       |The Recycle Project<br />(Haesung High School Notice App)|      Jeonju Haesung High School          |
+| 2018.08 ~ 2018.09 |       Project       |The Recycle Project<br />(Haesung High School Notice App)|      Jeonju Haesung High School          |
 |     2020.05 ~     |       Project       | The Stellar Project<br />(One Commit per Day)     |                    PSG Team                    |
 |     2021.01 ~     |       Project       | The Demeter Project<br />(EZEN Const Web Site)    |                    PSG Team                    |
 |     2021.01 ~     |       Project       | The Booung Project<br />(PSG Notification Service)|                    PSG Team                    |
