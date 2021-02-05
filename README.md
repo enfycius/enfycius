@@ -137,4 +137,4 @@ Techs that I've used at least once
 
 ![Grade](https://img.shields.io/badge/grade-4.408%2F4.5-green)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=enfycius&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=enfycius&theme=react)
