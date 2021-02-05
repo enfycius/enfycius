@@ -125,6 +125,7 @@ Techs that I've used at least once
 ![OS](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white)
 ![OS](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=Fedora&logoColor=white)
 ![OS](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white)
 
 ### :mailbox_with_mail: Contacts
 
