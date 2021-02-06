@@ -129,7 +129,7 @@ Techs that I've used at least once
 
 ### :mailbox_with_mail: Contacts
 
-[![Badge](http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/)](https://www.instagram.com/___dev00/) [![Badge](http://img.shields.io/badge/-Tech%20Blog-FF4040?style=flat&logo=github&link=https://alpox.kr)](https://enfycius.github.io/) [![Badge](http://img.shields.io/badge/-Github-00BFBF?style=flat&logo=github&link=https://alpox.kr)](https://github.com/enfycius/) 
+[![Badge](http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/)](https://www.instagram.com/___dev00/) [![Badge](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/12530988/bluescreen) [![Badge](http://img.shields.io/badge/-Tech%20Blog-2088FF?style=flat&logo=github&link=https://alpox.kr)](https://enfycius.github.io/) [![Badge](http://img.shields.io/badge/-Github-00BFBF?style=flat&logo=github&link=https://alpox.kr)](https://github.com/enfycius/) 
 
 ### :information_desk_person: Info
 
