@@ -23,10 +23,43 @@
 |     2021.02 ~     | Research Activities |                   XAI Researcher                  |  Mathematical Sciences Lab, Hanbat Nat'l Univ. |
 
 
-### :boom: Works
+### :rainbow: Works
 
 - [Haesung Notice App](https://play.google.com/store/apps/details?id=com.jhspt.recycleproj "Recycle Project")
 - [PSG Website](http://psg.or.kr/ "Stellar Project")
+
+### :boom: Projects
+
+#### [The Stellar Project](https://github.com/psgstellar/Stellar "The Stellar Project")
+
+![Open](https://img.shields.io/github/issues/psgstellar/Stellar) ![Close](https://img.shields.io/github/issues-closed/psgstellar/Stellar) ![Open_P](https://img.shields.io/github/issues-pr/psgstellar/Stellar) ![Close_P](https://img.shields.io/github/issues-pr-closed/psgstellar/Stellar) 
+
+![Contributor](https://img.shields.io/github/contributors/psgstellar/Stellar) ![Activity](https://img.shields.io/github/commit-activity/m/psgstellar/Stellar) ![Last](https://img.shields.io/github/last-commit/psgstellar/Stellar/development)
+
+
+#### [The Pilot Project](https://github.com/psgstellar/Pilot "The Pilot Project")
+
+![Open](https://img.shields.io/github/issues/psgstellar/Pilot) ![Close](https://img.shields.io/github/issues-closed/psgstellar/Pilot) ![Open_P](https://img.shields.io/github/issues-pr/psgstellar/Pilot) ![Close_P](https://img.shields.io/github/issues-pr-closed/psgstellar/Pilot)
+ 
+![Contributor](https://img.shields.io/github/contributors/psgstellar/Pilot) ![Activity](https://img.shields.io/github/commit-activity/m/psgstellar/Pilot) ![Last](https://img.shields.io/github/last-commit/psgstellar/Pilot/development)
+
+#### [The Zilot Project](https://github.com/psgstellar/Zilot "The Zilot Project")
+
+![Open](https://img.shields.io/github/issues/psgstellar/Zilot) ![Close](https://img.shields.io/github/issues-closed/psgstellar/Zilot) ![Open_P](https://img.shields.io/github/issues-pr/psgstellar/Zilot) ![Close_P](https://img.shields.io/github/issues-pr-closed/psgstellar/Zilot)
+ 
+![Contributor](https://img.shields.io/github/contributors/psgstellar/Zilot) ![Activity](https://img.shields.io/github/commit-activity/m/psgstellar/Zilot) ![Last](https://img.shields.io/github/last-commit/psgstellar/Zilot/development)
+
+#### [The Demeter Project](https://github.com/psgstellar/Demeter "The Demeter Project")
+
+![Open](https://img.shields.io/github/issues/psgstellar/Demeter) ![Close](https://img.shields.io/github/issues-closed/psgstellar/Demeter) ![Open_P](https://img.shields.io/github/issues-pr/psgstellar/Demeter) ![Close_P](https://img.shields.io/github/issues-pr-closed/psgstellar/Demeter) 
+ 
+![Contributor](https://img.shields.io/github/contributors/psgstellar/Demeter) ![Activity](https://img.shields.io/github/commit-activity/m/psgstellar/Demeter) ![Last](https://img.shields.io/github/last-commit/psgstellar/Demeter/development)
+
+#### [The Booung Project](https://github.com/psgstellar/Demeter "The Booung Project")
+
+![Open](https://img.shields.io/github/issues/psgstellar/Booung) ![Close](https://img.shields.io/github/issues-closed/psgstellar/Booung) ![Open_P](https://img.shields.io/github/issues-pr/psgstellar/Booung) ![Close_P](https://img.shields.io/github/issues-pr-closed/psgstellar/Booung)
+ 
+![Contributor](https://img.shields.io/github/contributors/psgstellar/Booung) ![Activity](https://img.shields.io/github/commit-activity/m/psgstellar/Booung) ![Last](https://img.shields.io/github/last-commit/psgstellar/Booung/development)
 
 ### :star: Interest
 
