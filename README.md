@@ -63,11 +63,11 @@
 
 ### :fire: Side Projects
 
-#### [The Push-Me Project](https://github.com/psgstellar/Demeter "The Push-Me Project")
+#### [The Push-Me Project](https://github.com/enfycius/JHs "The JHs Project")
 
-![Open](https://img.shields.io/github/issues/enfycius/Push-Me) ![Close](https://img.shields.io/github/issues-closed/enfycius/Push-Me) ![Open_P](https://img.shields.io/github/issues-pr/enfycius/Push-Me) ![Close_P](https://img.shields.io/github/issues-pr-closed/enfycius/Push-Me) 
+![Open](https://img.shields.io/github/issues/enfycius/JHs) ![Close](https://img.shields.io/github/issues-closed/enfycius/JHs) ![Open_P](https://img.shields.io/github/issues-pr/enfycius/JHs) ![Close_P](https://img.shields.io/github/issues-pr-closed/enfycius/JHs) 
  
-![Contributor](https://img.shields.io/github/contributors/enfycius/Push-Me) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/Push-Me) ![Last](https://img.shields.io/github/last-commit/enfycius/Push-Me/development)
+![Contributor](https://img.shields.io/github/contributors/enfycius/JHs) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/JHs) ![Last](https://img.shields.io/github/last-commit/enfycius/JHs/development)
 
 ### :star: Interest
 
