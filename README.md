@@ -63,7 +63,7 @@
 
 ### :fire: Side Projects
 
-#### [The Push-Me Project](https://github.com/enfycius/JHs "The JHs Project")
+#### [The JHs Project](https://github.com/enfycius/JHs "The JHs Project")
 
 ![Open](https://img.shields.io/github/issues/enfycius/JHs) ![Close](https://img.shields.io/github/issues-closed/enfycius/JHs) ![Open_P](https://img.shields.io/github/issues-pr/enfycius/JHs) ![Close_P](https://img.shields.io/github/issues-pr-closed/enfycius/JHs) 
  
