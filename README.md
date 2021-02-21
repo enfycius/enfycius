@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Enfycius&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Enfycius&fontSize=70)
 
 :wave: Hello My name is Jonghyeok Kim, I am currently the leader of the PSG and APPSILON team.
 
@@ -182,3 +182,5 @@ Techs that I've used at least once
 ![Grade](https://img.shields.io/badge/grade-4.408%2F4.5-green)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=enfycius&theme=react)
+
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&text=Enfycius&fontSize=70)
