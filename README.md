@@ -11,8 +11,11 @@
 |     2020.03 ~     |      Education      | Department of Civil and Environmental Engineering |           Hanbat National University           |
 |      2017.09      | External Activities |     Institute for Higher Education Innovation     |                Yonsei University               |
 |     2020.05 ~     | External Activities |                     Translator                    |                    JavaTPoint                  |
+|     2014.01.31 ~  |   Team Activities   |                 Leader, You Hyeok Team            |                        x                       |
 |     2019.11 ~     |   Team Activities   |                 Hacker, MOKA Team                 |             Sungkyunkwan University            |
-|     2019.12 ~     |   Team Activities   |                  Leader, PSG Team                 |                        x                       |
+|     2019.12 ~     |   Team Activities   |                 Leader, PSG Team                  |                        x                       |
+| 2020.10 ~ 2021.02 |   Team Activities   |               Leader, APPSILON Team               |                        x                       |
+|     2021.02 ~     |   Team Activities   |               Hacker, Dropper Lab                 |                    Halliance                   |
 | 2018.08 ~ 2018.09 |       Project       |The Recycle Project<br />(Haesung High School Notice App)|      Jeonju Haesung High School          |
 |     2020.05 ~     |       Project       | The Stellar Project<br />(One Commit per Day)     |                    PSG Team                    |
 |     2021.01 ~     |       Project       | The Demeter Project<br />(EZEN Const Web Site)    |                    PSG Team                    |
@@ -20,7 +23,6 @@
 |     2021.01 ~     |       Project       | The Zilot Project<br />(Github Generalization)    |                    PSG Team                    |
 |     2021.02 ~     |       Project       | The Pilot Project<br />(PSG Kakao Chatbot)        |                    PSG Team                    |
 |     2021.02 ~     |       Project       | The JHs Project<br />(JongHyeok's OS)             |                        x                       |
-|     2020.10 ~     |   Team Activities   |               Leader, APPSILON Team               |                        x                       |
 |     2021.02 ~     | Research Activities |                   XAI Researcher                  |  Mathematical Sciences Lab, Hanbat Nat'l Univ. |
 
 
