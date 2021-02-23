@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Enfycius&fontSize=70)
 
-:wave: Hello My name is Jonghyeok Kim, I am currently the leader of the PSG and APPSILON team.
+:wave: Hello My name is Jonghyeok Kim, I am currently the leader of the PSG and You Hyeok team.
 
 ### :runner: Career
 
