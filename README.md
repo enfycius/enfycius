@@ -31,7 +31,7 @@
 - [Haesung Notice App](https://play.google.com/store/apps/details?id=com.jhspt.recycleproj "Recycle Project")
 - [PSG Website](http://psg.or.kr/ "Stellar Project")
 
-### :boom: Projects
+### :boom: Team Projects (PSG)
 
 #### [The Stellar Project](https://github.com/psgstellar/Stellar "The Stellar Project")
 
@@ -63,6 +63,14 @@
 ![Open](https://img.shields.io/github/issues/psgstellar/Booung) ![Close](https://img.shields.io/github/issues-closed/psgstellar/Booung) ![Open_P](https://img.shields.io/github/issues-pr/psgstellar/Booung) ![Close_P](https://img.shields.io/github/issues-pr-closed/psgstellar/Booung)
  
 ![Contributor](https://img.shields.io/github/contributors/psgstellar/Booung) ![Activity](https://img.shields.io/github/commit-activity/m/psgstellar/Booung) ![Last](https://img.shields.io/github/last-commit/psgstellar/Booung/development)
+
+### :boom: Team Projects (YouHyeok)
+
+#### [The Semyorka Project](https://github.com/YouHyeok/Semyorka "The Semyorka Project")
+
+![Open](https://img.shields.io/github/issues/YouHyeok/Semyorka) ![Close](https://img.shields.io/github/issues-closed/YouHyeok/Semyorka) ![Open_P](https://img.shields.io/github/issues-pr/YouHyeok/Semyorka) ![Close_P](https://img.shields.io/github/issues-pr-closed/YouHyeok/Semyorka) 
+
+![Contributor](https://img.shields.io/github/contributors/YouHyeok/Semyorka) ![Activity](https://img.shields.io/github/commit-activity/m/YouHyeok/Semyorka) ![Last](https://img.shields.io/github/last-commit/YouHyeok/Semyorka/development)
 
 ### :fire: Side Projects
 
