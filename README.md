@@ -15,7 +15,7 @@
 |     2019.11 ~     |   Team Activities   |                 Hacker, MOKA Team                 |             Sungkyunkwan University            |
 |     2019.12 ~     |   Team Activities   |                 Leader, PSG Team                  |                        x                       |
 | 2020.10 ~ 2021.02 |   Team Activities   |               Leader, APPSILON Team               |                        x                       |
-|     2021.02 ~     |   Team Activities   |               Hacker, Dropper Lab                 |                    Halliance                   |
+|     2021.02 ~     |   Team Activities   |               Researcher, Dropper Lab             |                    Halliance                   |
 |     2021.02 ~     |   Team Activities   |               App Developer, 과제 다했니             |                    과제 다했니                    |
 | 2018.08 ~ 2018.09 |       Project       |The Recycle Project<br />(Haesung High School Notice App)|      Jeonju Haesung High School          |
 |     2020.05 ~     |       Project       | The Stellar Project<br />(One Commit per Day)     |                    PSG Team                    |
