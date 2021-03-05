@@ -24,7 +24,7 @@
 |     2021.01 ~     |       Project       | The Zilot Project<br />(Github Generalization)    |                    PSG Team                    |
 |     2021.02 ~     |       Project       | The Pilot Project<br />(PSG Kakao Chatbot)        |                    PSG Team                    |
 |     2021.02 ~     |       Project       | The JHs Project<br />(JongHyeok's OS)             |                        x                       |
-|     2021.02 ~     |       Project       | The Apollo Project<br />(Hanbat-Assignment-Viewer)|                        x                       |
+|     2021.03 ~     |       Project       | The Apollo Project<br />(Hanbat-Assignment-Viewer)|                        x                       |
 |     2021.02 ~     | Research Activities |                   XAI Researcher                  |  Mathematical Sciences Lab, Hanbat Nat'l Univ. |
 
 
@@ -82,7 +82,7 @@
  
 ![Contributor](https://img.shields.io/github/contributors/enfycius/JHs) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/JHs) ![Last](https://img.shields.io/github/last-commit/enfycius/JHs/development)
 
-#### [The Apollo Project](https://github.com/enfycius/JHs "The Apollo Project")
+#### [The Apollo Project](https://github.com/enfycius/Apollo "The Apollo Project")
 
 ![Open](https://img.shields.io/github/issues/enfycius/Apollo) ![Close](https://img.shields.io/github/issues-closed/enfycius/Apollo) ![Open_P](https://img.shields.io/github/issues-pr/enfycius/Apollo) ![Close_P](https://img.shields.io/github/issues-pr-closed/enfycius/Apollo) 
  
