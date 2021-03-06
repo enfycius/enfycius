@@ -25,6 +25,7 @@
 |     2021.02 ~     |       Project       | The Pilot Project<br />(PSG Kakao Chatbot)        |                    PSG Team                    |
 |     2021.02 ~     |       Project       | The JHs Project<br />(JongHyeok's OS)             |                        x                       |
 |     2021.03 ~     |       Project       | The Apollo Project<br />(Hanbat-Assignment-Viewer)|                        x                       |
+|     2021.03 ~     |       Project       | The Pigbar Donut Project<br />(Information)       |                    과제 다했니                    |
 |     2021.02 ~     | Research Activities |                   XAI Researcher                  |  Mathematical Sciences Lab, Hanbat Nat'l Univ. |
 
 
@@ -73,6 +74,12 @@
 ![Open](https://img.shields.io/github/issues/YouHyeok/Semyorka) ![Close](https://img.shields.io/github/issues-closed/YouHyeok/Semyorka) ![Open_P](https://img.shields.io/github/issues-pr/YouHyeok/Semyorka) ![Close_P](https://img.shields.io/github/issues-pr-closed/YouHyeok/Semyorka) 
 
 ![Contributor](https://img.shields.io/github/contributors/YouHyeok/Semyorka) ![Activity](https://img.shields.io/github/commit-activity/m/YouHyeok/Semyorka) ![Last](https://img.shields.io/github/last-commit/YouHyeok/Semyorka/development)
+
+#### [The Pigbar Donut Project](https://github.com/YouHyeok/Pigbar-Donut "The Pigbar Donut Project")
+
+![Open](https://img.shields.io/github/issues/YouHyeok/Pigbar-Donut) ![Close](https://img.shields.io/github/issues-closed/YouHyeok/Pigbar-Donut) ![Open_P](https://img.shields.io/github/issues-pr/YouHyeok/Pigbar-Donut) ![Close_P](https://img.shields.io/github/issues-pr-closed/YouHyeok/Pigbar-Donut) 
+
+![Contributor](https://img.shields.io/github/contributors/YouHyeok/Pigbar-Donut) ![Activity](https://img.shields.io/github/commit-activity/m/YouHyeok/Pigbar-Donut) ![Last](https://img.shields.io/github/last-commit/YouHyeok/Pigbar-Donut/development)
 
 ### :fire: Side Projects
 
