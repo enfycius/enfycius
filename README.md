@@ -28,6 +28,7 @@
 |     2021.03 ~     |       Project       | The Apollo Project<br />(Hanbat-Assignment-Viewer)|                        x                       |
 |     2021.03 ~     |       Project       | The Pigbar Donut Project<br />(Information)       |                    과제 다했니                    |
 |     2021.02 ~     | Research Activities |                   XAI Researcher                  |  Mathematical Sciences Lab, Hanbat Nat'l Univ. |
+|     2021.03.22 ~ 2021.06.11 | Extracurricular Activities |  Math Assistant                  |  Nomad College, Hanbat Nat'l Univ.             |
 
 
 ### :rainbow: Works
