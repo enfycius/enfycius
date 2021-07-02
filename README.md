@@ -1,6 +1,12 @@
+---
+layout: about
+permalink: /about/
+author_profile: true
+---
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Enfycius&fontSize=70)
 
-:wave: Hello My name is Jonghyeok Kim, I am currently the leader of the PSG and You Hyeok team.
+:wave: Hello My name is Jonghyeok Kim, I am currently the leader of YouHyeok team.
 
 ### :runner: Career
 
@@ -11,9 +17,9 @@
 |     2020.03 ~     |      Education      | Department of Civil and Environmental Engineering |           Hanbat National University           |
 |      2017.09      | External Activities |     Institute for Higher Education Innovation     |                Yonsei University               |
 |     2020.05 ~     | External Activities |                     Translator                    |                    JavaTPoint                  |
-|     2014.01.31 ~  |   Team Activities   |                 Leader, You Hyeok Team            |                        x                       |
+|     2014.01.31 ~  |   Team Activities   |                 Leader, YouHyeok Team             |                        x                       |
 |     2019.11 ~     |   Team Activities   |                 Hacker, MOKA Team                 |             Sungkyunkwan University            |
-|     2019.12 ~     |   Team Activities   |                 Leader, PSG Team                  |                        x                       |
+| 2019.12 ~ 2021.07 |   Team Activities   |                 Leader, PSG Team                  |                        x                       |
 | 2020.10 ~ 2021.02 |   Team Activities   |               Leader, APPSILON Team               |                        x                       |
 |     2021.02 ~     |   Team Activities   |               Researcher, Dropper Lab             |                    Halliance                   |
 |     2021.02 ~     |   Team Activities   |               App Developer, 과제 다했니             |                    과제 다했니                    |
@@ -28,7 +34,7 @@
 |     2021.03 ~     |       Project       | The Apollo Project<br />(Hanbat-Assignment-Viewer)|                        x                       |
 |     2021.03 ~     |       Project       | The Pigbar Donut Project<br />(Information)       |                    과제 다했니                    |
 |     2021.02 ~     | Research Activities |                   XAI Researcher                  |  Mathematical Sciences Lab, Hanbat Nat'l Univ. |
-|     2021.03.22 ~ 2021.06.11 | Extracurricular Activities |  Math Assistant                  |  Nomad College, Hanbat Nat'l Univ.             |
+|     2021.03.22 ~ 2021.06.11 | Extracurricular Activities |  Math Assistant                  |  Nomad College, Hanbat Nat'l Univ.             | 
 
 
 ### :rainbow: Works
@@ -208,6 +214,6 @@ Techs that I've used at least once
 
 ![Grade](https://img.shields.io/badge/grade-4.408%2F4.5-green)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=enfycius&theme=react)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=enfycius&theme=default)
 
 ![Footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&text=Enfycius&fontSize=70)
