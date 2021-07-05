@@ -212,7 +212,7 @@ Techs that I've used at least once
 
 ![Open](https://img.shields.io/github/issues/enfycius/enfycius.github.io) ![Close](https://img.shields.io/github/issues-closed/enfycius/enfycius.github.io)
 
-![Grade](https://img.shields.io/badge/grade-4.408%2F4.5-green)
+![Grade](https://img.shields.io/badge/grade-4.388%2F4.5-green)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=enfycius&theme=default)
 
