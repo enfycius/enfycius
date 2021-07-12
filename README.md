@@ -16,20 +16,21 @@
 | 2019.12 ~ 2021.07 |   Team Activities   |                 Leader, PSG Team                  |                        x                       |
 | 2020.10 ~ 2021.02 |   Team Activities   |               Leader, APPSILON Team               |                        x                       |
 |     2021.02 ~     |   Team Activities   |               Researcher, Dropper Lab             |                    Halliance                   |
-|     2021.02 ~     |   Team Activities   |               App Developer, 과제 다했니             |                    과제 다했니                    |
+| 2021.02 ~ 2021.07 |   Team Activities   |               App Developer, 과제 다했니             |                    과제 다했니                    |
 | 2018.08 ~ 2018.09 |       Project       |The Recycle Project<br />(Haesung High School Notice App)|      Jeonju Haesung High School          |
-|     2020.05 ~     |       Project       | The Stellar Project<br />(One Commit per Day)     |                    PSG Team                    |
-|     2021.01 ~     |       Project       | The Demeter Project<br />(EZEN Const Web Site)    |                    PSG Team                    |
-|     2021.01 ~     |       Project       | The Booung Project<br />(PSG Notification Service)|                    PSG Team                    |
-|     2021.01 ~     |       Project       | The Zilot Project<br />(Github Generalization)    |                    PSG Team                    |
-|     2021.02 ~     |       Project       | The Pilot Project<br />(PSG Kakao Chatbot)        |                    PSG Team                    |
-|     2021.02 ~     |       Project       | The Semyorka Project<br />(YouHyeok Official Website)|                 YouHyeok                    | 
+| 2020.05 ~ 2021.07 |       Project       | The Stellar Project<br />(One Commit per Day)     |                    PSG Team                    |
+|     2021.01 ~     |       Project       | The Demeter Project<br />(EZEN Const Web Site)    |                        x                       |
+| 2021.01 ~ 2021.07 |       Project       | The Booung Project<br />(PSG Notification Service)|                    PSG Team                    |
+| 2021.01 ~ 2021.05 |       Project       | The Zilot Project<br />(Github Generalization)    |                    PSG Team                    |
+| 2021.02 ~ 2021.07 |       Project       | The Pilot Project<br />(PSG Kakao Chatbot)        |                    PSG Team                    |
+| 2021.02 ~ 2021.07 |       Project       | The Semyorka Project<br />(YouHyeok Official Website)|                 YouHyeok                    | 
 |     2021.02 ~     |       Project       | The JHs Project<br />(JongHyeok's OS)             |                        x                       |
 |     2021.03 ~     |       Project       | The Apollo Project<br />(Hanbat-Assignment-Viewer)|                        x                       |
-|     2021.03 ~     |       Project       | The Pigbar Donut Project<br />(Information)       |                    과제 다했니                    |
+|     2021.07 ~     |       Project       | The Eulixes Project<br />(Photo Editing Software) |                        x                       |
+| 2021.03 ~ 2021.07 |       Project       | The Pigbar Donut Project<br />(Information)       |                    과제 다했니                    |
 |     2021.02 ~     | Research Activities | Resolving an Inverse Problem based on Deep Neural Networks | Mathematical Sciences Lab, Hanbat Nat'l Univ. |
 |     2021.07 ~     | Research Activities | Image Processing based on Deep Neural Networks for Detecting a Fender | Construction Information Technology Lab, Hanbat Nat'l Univ. |
-|     2021.03.22 ~ 2021.06.17 | Extracurricular Activities | Math Assistant | Nomad College, Hanbat Nat'l Univ. | 
+| 2021.03.22 ~ 2021.06.17 | Extracurricular Activities | Math Assistant | Nomad College, Hanbat Nat'l Univ. | 
 
 
 ### :rainbow: Works
@@ -97,6 +98,12 @@
 ![Open](https://img.shields.io/github/issues/enfycius/Apollo) ![Close](https://img.shields.io/github/issues-closed/enfycius/Apollo) ![Open_P](https://img.shields.io/github/issues-pr/enfycius/Apollo) ![Close_P](https://img.shields.io/github/issues-pr-closed/enfycius/Apollo) 
  
 ![Contributor](https://img.shields.io/github/contributors/enfycius/Apollo) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/Apollo) ![Last](https://img.shields.io/github/last-commit/enfycius/Apollo/development)
+
+#### [The Eulixes Project](https://github.com/enfycius/Eulixes "The Eulixes Project")
+
+![Open](https://img.shields.io/github/issues/enfycius/Eulixes) ![Close](https://img.shields.io/github/issues-closed/enfycius/Eulixes) ![Open_P](https://img.shields.io/github/issues-pr/enfycius/Eulixes) ![Close_P](https://img.shields.io/github/issues-pr-closed/enfycius/Eulixes) 
+ 
+![Contributor](https://img.shields.io/github/contributors/enfycius/Eulixes) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/Eulixes) ![Last](https://img.shields.io/github/last-commit/enfycius/Eulixes/development)
 
 ### :star: Interest
 
