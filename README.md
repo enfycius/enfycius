@@ -26,7 +26,7 @@
 | 2021.02 ~ 2021.07 |       Project       | The Semyorka Project<br />(YouHyeok Official Website)|                 YouHyeok                    | 
 |     2021.02 ~     |       Project       | The JHs Project<br />(JongHyeok's OS)             |                        x                       |
 |     2021.03 ~     |       Project       | The Apollo Project<br />(Hanbat-Assignment-Viewer)|                        x                       |
-|     2021.07 ~     |       Project       | The Eulixes Project<br />(Photo Editing Software) |                        x                       |
+|     2021.07 ~     |       Project       | The Ulixes Project<br />(Photo Editing Software)  |                        x                       |
 | 2021.03 ~ 2021.07 |       Project       | The Pigbar Donut Project<br />(Information)       |                    과제 다했니                    |
 |     2021.02 ~     | Research Activities | Resolving an Inverse Problem based on Deep Neural Networks | Mathematical Sciences Lab, Hanbat Nat'l Univ. |
 |     2021.07 ~     | Research Activities | Image Processing based on Deep Neural Networks for Detecting a Fender | Construction Information Technology Lab, Hanbat Nat'l Univ. |
@@ -99,11 +99,11 @@
  
 ![Contributor](https://img.shields.io/github/contributors/enfycius/Apollo) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/Apollo) ![Last](https://img.shields.io/github/last-commit/enfycius/Apollo/development)
 
-#### [The Eulixes Project](https://github.com/enfycius/Eulixes "The Eulixes Project")
+#### [The Ulixes Project](https://github.com/enfycius/Ulixes "The Ulixes Project")
 
-![Open](https://img.shields.io/github/issues/enfycius/Eulixes) ![Close](https://img.shields.io/github/issues-closed/enfycius/Eulixes) ![Open_P](https://img.shields.io/github/issues-pr/enfycius/Eulixes) ![Close_P](https://img.shields.io/github/issues-pr-closed/enfycius/Eulixes) 
+![Open](https://img.shields.io/github/issues/enfycius/Ulixes) ![Close](https://img.shields.io/github/issues-closed/enfycius/Ulixes) ![Open_P](https://img.shields.io/github/issues-pr/enfycius/Ulixes) ![Close_P](https://img.shields.io/github/issues-pr-closed/enfycius/Ulixes) 
  
-![Contributor](https://img.shields.io/github/contributors/enfycius/Eulixes) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/Eulixes) ![Last](https://img.shields.io/github/last-commit/enfycius/Eulixes/development)
+![Contributor](https://img.shields.io/github/contributors/enfycius/Ulixes) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/Ulixes) ![Last](https://img.shields.io/github/last-commit/enfycius/Ulixes/development)
 
 ### :star: Interest
 
