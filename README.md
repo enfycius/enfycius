@@ -11,6 +11,7 @@
 |     2021.12.10    |        Award        |                  President's Award                |           Hanbat National University           |
 |     2021.12.20    |        Award        |                 Encouragement Award               |           Hanbat National University           |
 |     2020.03 ~     |      Education      | Department of Civil and Environmental Engineering |           Hanbat National University           |
+|     2021.10 ~     |         Club        |             Vice-chairman, import(Coding Club)    |           Hanbat National University           |
 |      2017.09      | External Activities |     Institute for Higher Education Innovation     |                Yonsei University               |
 |     2020.05 ~     | External Activities |                     Translator                    |                    JavaTPoint                  |
 |     2014.01.31 ~  |   Team Activities   |                 Leader, YouHyeok Team             |                        x                       |
