@@ -22,15 +22,15 @@
 | 2021.02 ~ 2021.07 |   Team Activities   |               App Developer, 과제 다했니             |                    과제 다했니                    |
 | 2018.08 ~ 2018.09 |       Project       |The Recycle Project<br />(Haesung High School Notice App)|      Jeonju Haesung High School          |
 | 2020.05 ~ 2021.07 |       Project       | The Stellar Project<br />(One Commit per Day)     |                    PSG Team                    |
-|     2021.01 ~     |       Project       | The Demeter Project<br />(EZEN Const Web Site)    |                        x                       |
+|     2021.01 ~     |       Project       | The Demeter Project<br />(EZEN Const Web Site)    |           Ezen Construction Company            |
 | 2021.01 ~ 2021.07 |       Project       | The Booung Project<br />(PSG Notification Service)|                    PSG Team                    |
 | 2021.01 ~ 2021.05 |       Project       | The Zilot Project<br />(Github Generalization)    |                    PSG Team                    |
 | 2021.02 ~ 2021.07 |       Project       | The Pilot Project<br />(PSG Kakao Chatbot)        |                    PSG Team                    |
 | 2021.02 ~ 2021.07 |       Project       | The Semyorka Project<br />(YouHyeok Official Website)|                 YouHyeok                    | 
 |     2021.02 ~     |       Project       | The JHs Project<br />(JongHyeok's OS)             |                        x                       |
 |     2021.03 ~     |       Project       | The Apollo Project<br />(Hanbat-Assignment-Viewer)|                        x                       |
-|     2021.07 ~     |       Project       | The Ulixes Project<br />(Photo Editing Software)  |                        x                       |
 |     2021.07 ~     |       Project       | The Nemesis Project<br />                         |                        x                       |
+|     2021.07 ~     |       Project       | The Ulixes Project<br />(Photo Editing Software)  | Construction Information Technology Lab, Hanbat Nat'l Univ. |
 | 2021.03 ~ 2021.07 |       Project       | The Pigbar Donut Project<br />(Information)       |                    과제 다했니                    |
 |     2021.02 ~     | Research Activities | Resolving an Inverse Problem based on Deep Neural Networks | Mathematical Sciences Lab, Hanbat Nat'l Univ. |
 | 2021.07 ~ 2021.08 | Research Activities | Summer Internships(Image Classification with toy sets)     | Construction Information Technology Lab, Hanbat Nat'l Univ. |
@@ -217,7 +217,7 @@ Techs that I've used at least once
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fenfycius%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false) ![Hits](https://img.shields.io/github/followers/enfycius?label=Follow)
 
-![Open](https://img.shields.io/github/issues/enfycius/enfycius.github.io) ![Close](https://img.shields.io/github/issues-closed/enfycius/enfycius.github.io)
+![Open](https://img.shields.io/github/issues/enfycius/ulixes) ![Close](https://img.shields.io/github/issues-closed/enfycius/ulixes)
 
 ![Grade](https://img.shields.io/badge/grade-4.404%2F4.5-green)
 
