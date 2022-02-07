@@ -30,6 +30,7 @@
 |     2021.02 ~     |       Project       | The JHs Project<br />(JongHyeok's OS)             |                        x                       |
 |     2021.03 ~     |       Project       | The Apollo Project<br />(Hanbat-Assignment-Viewer)|                        x                       |
 |     2021.07 ~     |       Project       | The Nemesis Project<br />                         |                        x                       |
+|     2022.02 ~     |       Project       | The Zeus Project<br />                            |                        x                       |
 |     2021.07 ~     |       Project       | The Ulixes Project<br />(Photo Editing Software)  | Construction Information Technology Lab, Hanbat Nat'l Univ. |
 | 2021.03 ~ 2021.07 |       Project       | The Pigbar Donut Project<br />(Information)       |                    과제 다했니                    |
 |     2021.02 ~     | Research Activities | Resolving an Inverse Problem based on Deep Neural Networks | Mathematical Sciences Lab, Hanbat Nat'l Univ. |
