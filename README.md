@@ -29,9 +29,9 @@
 | 2021.01 ~ 2021.07 |       Project       | The Booung Project<br />(PSG Notification Service)|                    PSG Team                    |
 | 2021.01 ~ 2021.05 |       Project       | The Zilot Project<br />(Github Generalization)    |                    PSG Team                    |
 | 2021.02 ~ 2021.07 |       Project       | The Pilot Project<br />(PSG Kakao Chatbot)        |                    PSG Team                    |
+|     2022.01 ~     |       Project       | The Hyades Project<br />(PSG Platform(Such as Notion)) |               PSG Team                    |
+|     2022.02 ~     |       Project       | The petBook Project<br />(Animal Info)            |                    PSG Team                    |
 | 2021.02 ~ 2021.07 |       Project       | The Semyorka Project<br />(YouHyeok Official Website)|                 YouHyeok                    | 
-|     2021.02 ~     |       Project       | The JHs Project<br />(JongHyeok's OS)             |                        x                       |
-|     2021.03 ~     |       Project       | The Apollo Project<br />(Hanbat-Assignment-Viewer)|                        x                       |
 |     2021.07 ~     |       Project       | The Nemesis Project<br />                         |                        x                       |
 |     2022.02 ~     |       Project       | The Zeus Project<br />                            |                        x                       |
 |     2021.07 ~     |       Project       | The Ulixes Project<br />(Photo Editing Software)  | Construction Information Technology Lab, Hanbat Nat'l Univ. |
@@ -39,7 +39,7 @@
 |     2021.02 ~     | Research Activities | Resolving an Inverse Problem based on Deep Neural Networks | Mathematical Sciences Lab, Hanbat Nat'l Univ. |
 | 2021.07 ~ 2021.08 | Research Activities | Summer Internships(Image Classification with toy sets)     | Construction Information Technology Lab, Hanbat Nat'l Univ. |
 | 2021.08 ~ 2021.12 | Research Activities | Image Processing based on Deep Neural Networks for Detecting a Fender | Construction Information Technology Lab, Hanbat Nat'l Univ. |
-| 2021.03.22 ~ 2021.06.17 | Extracurricular Activities | Math Assistant | Nomad College, Hanbat Nat'l Univ. | 
+| 2021.03.22 ~ 2021.06.17 | Extracurricular Activities | Math Assistant | Nomad College, Hanbat Nat'l Univ. |  
 
 
 ### :rainbow: Works
