@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Enfycius&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Enfycius&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Stay%20Hungry,%20Stay%20Foolish&descAlignY=55&descAlign=62)
 
 :wave: Hello My name is Jonghyeok Kim, I am currently the leader of YouHyeok team.
 
@@ -227,5 +227,3 @@ Techs that I've used at least once
 ![Grade](https://img.shields.io/badge/grade-4.404%2F4.5-green)
 
 ![Enfycius's Github Stats](https://github-readme-stats.vercel.app/api?username=enfycius&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)
-
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&text=Enfycius&fontSize=70)
