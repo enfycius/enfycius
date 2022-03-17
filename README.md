@@ -39,6 +39,7 @@
 |     2021.02 ~     | Research Activities | Resolving an Inverse Problem based on Deep Neural Networks | Mathematical Sciences Lab, Hanbat Nat'l Univ. |
 | 2021.07 ~ 2021.08 | Research Activities | Summer Internships(Image Classification with toy sets)     | Construction Information Technology Lab, Hanbat Nat'l Univ. |
 | 2021.08 ~ 2021.12 | Research Activities | Image Processing based on Deep Neural Networks for Detecting a Fender | Construction Information Technology Lab, Hanbat Nat'l Univ. |
+|  | Papers | Development of Fender Segmentation System for Port Structures using Vision sensor and Deep learning (Approved) | Journal of the Korea Institute for Structural Maintenance and Inspection |
 | 2021.03.22 ~ 2021.06.17 | Extracurricular Activities | Math Assistant | Nomad College, Hanbat Nat'l Univ. |  
 
 
