@@ -119,7 +119,11 @@
 ### :star: Interest
 
 - Computer Vision
-- XAI
+- Development of Mapping System
+- Semantic Image Segmentation for Autonomous Driving
+- Object Detection
+- Image Classification
+- Morozov's Discrepancy Principle for Inverse Problem
 
 ### :hammer: Tech Stack
 
