@@ -21,7 +21,7 @@
 | 2020.10 ~ 2021.02 |   Team Activities   |               Leader, APPSILON Team               |                        x                       |
 |     2021.02 ~     |   Team Activities   | Researcher, [Dropper Lab](https://dropper.tech)   |                    Halliance                   |
 | 2021.02 ~ 2021.07 |   Team Activities   |               App Developer, 과제 다했니             |                    과제 다했니                    |
-|     2022.01 ~     |       Start-up      |                        CTO                        |                    주민의 캠핑                    |
+|     2022.01 ~     |   Start-up, Club    |                    나만의 알바, CTO                  | Hanbat National University Start-up Support Foundation |
 |     2021.01 ~     |       Start-up      |                  Developer, LABis                 | UNIST, [KOSME](https://start.kosmes.or.kr/yh_mai001_001.do) |
 | 2018.08 ~ 2018.09 |       Project       |The Recycle Project<br />(Haesung High School Notice App)|      Jeonju Haesung High School          |
 | 2020.05 ~ 2021.07 |       Project       | The Stellar Project<br />(One Commit per Day)     |                    PSG Team                    |
