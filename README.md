@@ -1,17 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Enfycius&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Stay%20Hungry,%20Stay%20Foolish&descAlignY=55&descAlign=62)
 
-:wave: Hello My name is Jonghyeok Kim, I am currently the leader of YouHyeok team.
+:wave: Hello, I'm Jong Hyeok Kim, an undergraduate researcher at the construction IT lab at Hanbat National University and the lab at the Department of Basic Science. Based on deep learning, we are conducting research to detect Fender and determine whether it is damaged or not. I am also trying to solve the Inverse Problem by using the method in another lab.
 
 ### :runner: Career
 
 |        Date       |         Type        |                      Contents                     |                  Organization                  |
 |:-----------------:|:-------------------:|:-------------------------------------------------:|:----------------------------------------------:|
+|     2020.03 ~     |      Education      | Department of Civil and Environmental Engineering |           Hanbat National University           |
 | 2014.03 ~ 2017.03 |   Gifted Education  |                    Certificated                   | Educational Research and Information Institute |
 |     2015.11.25    |        Award        |                     Gold Award                    | Educational Research and Information Institute |
 |     2021.12.10    |        Award        |                  President's Award                |           Hanbat National University           |
 |     2021.12.20    |        Award        |                 Encouragement Award               |           Hanbat National University           |
-|     2020.03 ~     |      Education      | Department of Civil and Environmental Engineering |           Hanbat National University           |
-|     2021.10 ~     |         Club        | Vice-chairman, [import(Coding Club)](https://import-hanbat.com/) |           Hanbat National University          |
+| 2021.06.23 ~ 2021.09.09 |     Competition     |      Open Source Software Developer Competition   | [Open Source Software Support Center](https://www.oss.kr/) |
+|     2021.10 ~     |         Club        | Vice-chairman, [import(Coding Club)](https://import-hanbat.com/) |           Hanbat National University[<sup>1</sup>](#1)          |
 |      2017.09      | External Activities |     Institute for Higher Education Innovation     |                Yonsei University               |
 | 2020.05 ~ 2020.12 | External Activities |                     Translator                    |                    JavaTPoint                  |
 |     2014.01.31 ~  |   Team Activities   |                 Leader, YouHyeok Team             |                        x                       |
@@ -21,8 +22,8 @@
 | 2020.10 ~ 2021.02 |   Team Activities   |               Leader, APPSILON Team               |                        x                       |
 |     2021.02 ~     |   Team Activities   | Researcher, [Dropper Lab](https://dropper.tech)   |                    Halliance                   |
 | 2021.02 ~ 2021.07 |   Team Activities   |               App Developer, 과제 다했니             |                    과제 다했니                    |
-|     2022.01 ~     |   Start-up, Club    |                    나만의 알바, CTO                  | Hanbat National University Start-up Support Foundation |
-|     2021.01 ~     |       Start-up      |                  Developer, LABis                 | UNIST, [KOSME](https://start.kosmes.or.kr/yh_mai001_001.do) |
+|     2022.01 ~     |   Start-up, Club    |                    나만의 알바, CTO                  | Hanbat National University Start-up Support Foundation[<sup>2</sup>](#2) |
+|     2021.01 ~     |       Start-up      |                  Developer, LABis                 | UNIST[<sup>3</sup>](#3), [KOSME](https://start.kosmes.or.kr/yh_mai001_001.do) |
 | 2018.08 ~ 2018.09 |       Project       |The Recycle Project<br />(Haesung High School Notice App)|      Jeonju Haesung High School          |
 | 2020.05 ~ 2021.07 |       Project       | The Stellar Project<br />(One Commit per Day)     |                    PSG Team                    |
 |     2021.01 ~     |       Project       | The Demeter Project<br />(EZEN Const Web Site)    |           Ezen Construction Company            |
@@ -37,18 +38,33 @@
 |     2021.07 ~     |       Project       | The Ulixes Project<br />(Photo Editing Software)  | Construction Information Technology Lab, Hanbat Nat'l Univ. |
 | 2021.03 ~ 2021.07 |       Project       | The Pigbar Donut Project<br />(Information)       |                    과제 다했니                    |
 |     2021.02 ~     | Research Activities | Resolving an Inverse Problem based on Deep Neural Networks | Mathematical Sciences Lab, Hanbat Nat'l Univ. |
-| 2021.07 ~ 2021.08 | Research Activities | Summer Internships(Image Classification with toy sets)     | Construction Information Technology Lab, Hanbat Nat'l Univ. |
-| 2021.08 ~ 2021.12 | Research Activities | Image Processing based on Deep Neural Networks for Detecting a Fender | Construction Information Technology Lab, Hanbat Nat'l Univ. |
-|     2021.12 ~     | Research Activities | Real-time Fenders Detection and Mapping System using Streo Vision and GPS | Construction Information Technology Lab, Hanbat Nat'l Univ. |
-| 2022.04 | Papers | [Development of Fender Segmentation System for Port Structures using Vision sensor and Deep learning](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) | Journal of the Korea Institute for Structural Maintenance and Inspection |
+| 2021.07 ~ 2021.08 | Research Activities | Summer Internships(Image Classification with toy sets)     | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
+| 2021.08 ~ 2021.12 | Research Activities | Image Processing based on Deep Neural Networks for Detecting a Fender | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
+|     2021.12 ~     | Research Activities | Real-time Fenders Detection and Mapping System using Streo Vision and GPS | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
+|     2021.06 ~     | Research Activities | Object Detection for Multiple Types of Fenders | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
+| 2022.04 | Papers | [Development of Fender Segmentation System for Port Structures using Vision sensor and Deep learning](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) | Journal of the Korea Institute for Structural Maintenance and Inspection[<sup>5</sup>](#5) |
 | 2021.03.22 ~ 2021.06.17 | Extracurricular Activities | Math Assistant | Nomad College, Hanbat Nat'l Univ. |  
 
+<a id="1">[1]</a> Room 216, S12, 125, Dongseo-daero, Yuseong-gu, Daejeon, 34158, Republic of Korea
+
+<a id="2">[2]</a> Room 608, S5, 125, Dongseo-daero, Yuseong-gu, Daejeon, 34158, Republic of Korea
+
+<a id="3">[3]</a> 50, UNIST-gil, Eonyang-eup, Ulju-gun, Ulsan, Republic of Korea
+
+<a id="4">[4]</a> Room 218, S8, 125, Dongseo-daero, Yuseong-gu, Daejeon, 34158, Republic of Korea
+
+<a id="5">[5]</a> Room 505, 15, Beobwon-ro 2-gil, Seocho-gu, Seoul, Republic of Korea
+
+---
 
 ### :rainbow: Works
 
 - [Haesung Notice App](https://play.google.com/store/apps/details?id=com.jhspt.recycleproj "Recycle Project")
 - [PSG Website](http://psg.or.kr/ "Stellar Project")
 - [Import Hanbat Website](https://import-hanbat.com/ "Import Hanbat")
+- [The Zeus Project](https://ezenconst.co.kr/ "The Zeus Project")
+
+---
 
 ### :boom: Team Projects (PSG)
 
@@ -58,64 +74,41 @@
 
 ![Contributor](https://img.shields.io/github/contributors/psgstellar/Stellar) ![Activity](https://img.shields.io/github/commit-activity/m/psgstellar/Stellar) ![Last](https://img.shields.io/github/last-commit/psgstellar/Stellar/development)
 
+### :boom: Club Studying (Import)
 
-#### [The Pilot Project](https://github.com/psgstellar/Pilot "The Pilot Project")
+#### [Studying MLDL](https://github.com/DoWuJo/MLDL "Studying MLDL")
 
-![Open](https://img.shields.io/github/issues/psgstellar/Pilot) ![Close](https://img.shields.io/github/issues-closed/psgstellar/Pilot) ![Open_P](https://img.shields.io/github/issues-pr/psgstellar/Pilot) ![Close_P](https://img.shields.io/github/issues-pr-closed/psgstellar/Pilot)
+![Open](https://img.shields.io/github/issues/DoWuJo/MLDL) ![Close](https://img.shields.io/github/issues-closed/DoWuJo/MLDL) ![Open_P](https://img.shields.io/github/issues-pr/DoWuJo/MLDL) ![Close_P](https://img.shields.io/github/issues-pr-closed/DoWuJo/MLDL)
  
-![Contributor](https://img.shields.io/github/contributors/psgstellar/Pilot) ![Activity](https://img.shields.io/github/commit-activity/m/psgstellar/Pilot) ![Last](https://img.shields.io/github/last-commit/psgstellar/Pilot/development)
+![Contributor](https://img.shields.io/github/contributors/DoWuJo/MLDL) ![Activity](https://img.shields.io/github/commit-activity/m/DoWuJo/MLDL) ![Last](https://img.shields.io/github/last-commit/DoWuJo/MLDL/main)
 
-#### [The Zilot Project](https://github.com/psgstellar/Zilot "The Zilot Project")
+### :boom: Competition Projects
 
-![Open](https://img.shields.io/github/issues/psgstellar/Zilot) ![Close](https://img.shields.io/github/issues-closed/psgstellar/Zilot) ![Open_P](https://img.shields.io/github/issues-pr/psgstellar/Zilot) ![Close_P](https://img.shields.io/github/issues-pr-closed/psgstellar/Zilot)
+#### [The Candy Project](https://github.com/enfycius/Candy "The Candy Project")
+
+![Open](https://img.shields.io/github/issues/enfycius/Candy) ![Close](https://img.shields.io/github/issues-closed/enfycius/Candy) ![Open_P](https://img.shields.io/github/issues-pr/enfycius/Candy) ![Close_P](https://img.shields.io/github/issues-pr-closed/enfycius/Candy)
  
-![Contributor](https://img.shields.io/github/contributors/psgstellar/Zilot) ![Activity](https://img.shields.io/github/commit-activity/m/psgstellar/Zilot) ![Last](https://img.shields.io/github/last-commit/psgstellar/Zilot/development)
+![Contributor](https://img.shields.io/github/contributors/enfycius/Candy) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/Candy) ![Last](https://img.shields.io/github/last-commit/enfycius/Candy/main)
 
-#### [The Demeter Project](https://github.com/psgstellar/Demeter "The Demeter Project")
-
-![Open](https://img.shields.io/github/issues/psgstellar/Demeter) ![Close](https://img.shields.io/github/issues-closed/psgstellar/Demeter) ![Open_P](https://img.shields.io/github/issues-pr/psgstellar/Demeter) ![Close_P](https://img.shields.io/github/issues-pr-closed/psgstellar/Demeter) 
- 
-![Contributor](https://img.shields.io/github/contributors/psgstellar/Demeter) ![Activity](https://img.shields.io/github/commit-activity/m/psgstellar/Demeter) ![Last](https://img.shields.io/github/last-commit/psgstellar/Demeter/development)
-
-#### [The Booung Project](https://github.com/psgstellar/Demeter "The Booung Project")
-
-![Open](https://img.shields.io/github/issues/psgstellar/Booung) ![Close](https://img.shields.io/github/issues-closed/psgstellar/Booung) ![Open_P](https://img.shields.io/github/issues-pr/psgstellar/Booung) ![Close_P](https://img.shields.io/github/issues-pr-closed/psgstellar/Booung)
- 
-![Contributor](https://img.shields.io/github/contributors/psgstellar/Booung) ![Activity](https://img.shields.io/github/commit-activity/m/psgstellar/Booung) ![Last](https://img.shields.io/github/last-commit/psgstellar/Booung/development)
-
-### :boom: Team Projects (YouHyeok)
-
-#### [The Semyorka Project](https://github.com/YouHyeok/Semyorka "The Semyorka Project")
-
-![Open](https://img.shields.io/github/issues/YouHyeok/Semyorka) ![Close](https://img.shields.io/github/issues-closed/YouHyeok/Semyorka) ![Open_P](https://img.shields.io/github/issues-pr/YouHyeok/Semyorka) ![Close_P](https://img.shields.io/github/issues-pr-closed/YouHyeok/Semyorka) 
-
-![Contributor](https://img.shields.io/github/contributors/YouHyeok/Semyorka) ![Activity](https://img.shields.io/github/commit-activity/m/YouHyeok/Semyorka) ![Last](https://img.shields.io/github/last-commit/YouHyeok/Semyorka/development)
-
-#### [The Pigbar Donut Project](https://github.com/YouHyeok/Pigbar-Donut "The Pigbar Donut Project")
-
-![Open](https://img.shields.io/github/issues/YouHyeok/Pigbar-Donut) ![Close](https://img.shields.io/github/issues-closed/YouHyeok/Pigbar-Donut) ![Open_P](https://img.shields.io/github/issues-pr/YouHyeok/Pigbar-Donut) ![Close_P](https://img.shields.io/github/issues-pr-closed/YouHyeok/Pigbar-Donut) 
-
-![Contributor](https://img.shields.io/github/contributors/YouHyeok/Pigbar-Donut) ![Activity](https://img.shields.io/github/commit-activity/m/YouHyeok/Pigbar-Donut) ![Last](https://img.shields.io/github/last-commit/YouHyeok/Pigbar-Donut/development)
-
-### :fire: Side Projects
-
-#### [The JHs Project](https://github.com/enfycius/JHs "The JHs Project")
-
-![Open](https://img.shields.io/github/issues/enfycius/JHs) ![Close](https://img.shields.io/github/issues-closed/enfycius/JHs) ![Open_P](https://img.shields.io/github/issues-pr/enfycius/JHs) ![Close_P](https://img.shields.io/github/issues-pr-closed/enfycius/JHs) 
- 
-![Contributor](https://img.shields.io/github/contributors/enfycius/JHs) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/JHs) ![Last](https://img.shields.io/github/last-commit/enfycius/JHs/development)
-
-#### [The Apollo Project](https://github.com/enfycius/Apollo "The Apollo Project")
-
-![Open](https://img.shields.io/github/issues/enfycius/Apollo) ![Close](https://img.shields.io/github/issues-closed/enfycius/Apollo) ![Open_P](https://img.shields.io/github/issues-pr/enfycius/Apollo) ![Close_P](https://img.shields.io/github/issues-pr-closed/enfycius/Apollo) 
- 
-![Contributor](https://img.shields.io/github/contributors/enfycius/Apollo) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/Apollo) ![Last](https://img.shields.io/github/last-commit/enfycius/Apollo/development)
+### :page_with_curl: Lab Projects
 
 #### [The Ulixes Project](https://github.com/enfycius/Ulixes "The Ulixes Project")
 
 ![Open](https://img.shields.io/github/issues/enfycius/Ulixes) ![Close](https://img.shields.io/github/issues-closed/enfycius/Ulixes) ![Open_P](https://img.shields.io/github/issues-pr/enfycius/Ulixes) ![Close_P](https://img.shields.io/github/issues-pr-closed/enfycius/Ulixes) 
  
 ![Contributor](https://img.shields.io/github/contributors/enfycius/Ulixes) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/Ulixes) ![Last](https://img.shields.io/github/last-commit/enfycius/Ulixes/development)
+
+### :fire: Side Projects
+
+#### [The Quick Project](https://github.com/enfycius/The-Quick-Project "The Quick Project")
+
+![Open](https://img.shields.io/github/issues/enfycius/The-Quick-Project) ![Close](https://img.shields.io/github/issues-closed/enfycius/The-Quick-Project) ![Open_P](https://img.shields.io/github/issues-pr/enfycius/The-Quick-Project) ![Close_P](https://img.shields.io/github/issues-pr-closed/enfycius/The-Quick-Project)
+ 
+![Contributor](https://img.shields.io/github/contributors/enfycius/The-Quick-Project) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/The-Quick-Project) ![Last](https://img.shields.io/github/last-commit/enfycius/The-Quick-Project/main)
+
+#### The Zeus Project
+
+---
 
 ### :star: Interest
 
@@ -125,6 +118,8 @@
 - Object Detection
 - Image Classification
 - Morozov's Discrepancy Principle for Inverse Problem
+
+---
 
 ### :hammer: Tech Stack
 
@@ -220,16 +215,32 @@ Techs that I've used at least once
 ![OS](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white)
 
+---
+
 ### :mailbox_with_mail: Contacts
 
 [![Badge](http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/)](https://www.instagram.com/___dev00/) [![Badge](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/12530988/bluescreen) [![Badge](http://img.shields.io/badge/-Tech%20Blog-2088FF?style=flat&logo=github&link=https://alpox.kr)](https://enfycius.github.io/) [![Badge](http://img.shields.io/badge/-Github-00BFBF?style=flat&logo=github&link=https://alpox.kr)](https://github.com/enfycius/) 
+
+---
 
 ### :information_desk_person: Info
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fenfycius%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false) ![Hits](https://img.shields.io/github/followers/enfycius?label=Follow)
 
-![Open](https://img.shields.io/github/issues/enfycius/ulixes) ![Close](https://img.shields.io/github/issues-closed/enfycius/ulixes)
+![Open](https://img.shields.io/github/issues/enfycius/enfycius) ![Close](https://img.shields.io/github/issues-closed/enfycius/enfycius)
 
 ![Grade](https://img.shields.io/badge/grade-4.404%2F4.5-green)
 
+---
+
+### :seedling: Github Status
+
 ![Enfycius's Github Stats](https://github-readme-stats.vercel.app/api?username=enfycius&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)
+
+---
+
+### :four_leaf_clover: Baekjoon Tier
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hexk0131)](https://solved.ac/hexk0131/)
+
+---
