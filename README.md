@@ -106,7 +106,7 @@
  
 ![Contributor](https://img.shields.io/github/contributors/enfycius/The-Quick-Project) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/The-Quick-Project) ![Last](https://img.shields.io/github/last-commit/enfycius/The-Quick-Project/main)
 
-#### The Zeus Project
+#### The Zeus Project (Private)
 
 ---
 
