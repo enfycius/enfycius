@@ -110,7 +110,7 @@
 
 ---
 
-### :star: Interest
+### :star: Interests
 
 - Computer Vision
 - Development of Mapping System
