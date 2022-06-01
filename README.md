@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Enfycius&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Stay%20Hungry,%20Stay%20Foolish&descAlignY=55&descAlign=62)
 
-:wave: Hello, I'm JongHyeok Kim, an undergraduate researcher at the construction IT lab at Hanbat National University and the lab at the Department of Basic Science. Based on deep learning, we are conducting research to detect Fender and determine whether it is damaged or not. I am also trying to solve the Inverse Problem by using the method in another lab.
+:wave: Hello, I'm JongHyeok Kim, an undergraduate researcher at the construction IT lab and the lab at the Department of Basic Science, Hanbat National University. Based on deep learning, we are conducting research to detect Fender and determine whether it is damaged or not. I am also trying to solve the Inverse Problem by using the method in another lab.
 
 ### :runner: Career
 
