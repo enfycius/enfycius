@@ -42,6 +42,7 @@
 | 2021.08 ~ 2021.12 | Research Activities | Image Processing based on Deep Neural Networks for Detecting a Fender | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
 |     2021.12 ~     | Research Activities | Real-time Fenders Detection and Mapping System using Streo Vision and GPS | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
 |     2021.06 ~     | Research Activities | Object Detection for Multiple Types of Fenders | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
+|     2022.06 ~     | Research Activities | Laboratory leader | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
 | 2022.04 | Papers | [Development of Fender Segmentation System for Port Structures using Vision sensor and Deep learning](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) | Journal of the Korea Institute for Structural Maintenance and Inspection[<sup>5</sup>](#5) |
 | 2021.03.22 ~ 2021.06.17 | Extracurricular Activities | Math Assistant | Nomad College, Hanbat Nat'l Univ. |  
 
