@@ -75,7 +75,7 @@
 
 ![Contributor](https://img.shields.io/github/contributors/psgstellar/Stellar) ![Activity](https://img.shields.io/github/commit-activity/m/psgstellar/Stellar) ![Last](https://img.shields.io/github/last-commit/psgstellar/Stellar/development)
 
-### :boom: Club Studying (Import)
+### :clubs: Club Studying (Import)
 
 #### [Studying MLDL](https://github.com/DoWuJo/MLDL "Studying MLDL")
 
@@ -91,7 +91,7 @@
  
 ![Contributor](https://img.shields.io/github/contributors/enfycius/Candy) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/Candy) ![Last](https://img.shields.io/github/last-commit/enfycius/Candy/main)
 
-### :page_with_curl: Lab Projects
+### :telescope: Lab Projects
 
 #### [The Ulixes Project](https://github.com/enfycius/Ulixes "The Ulixes Project")
 
