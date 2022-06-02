@@ -234,6 +234,12 @@ Techs that I've used at least once
 
 ---
 
+### :mushroom: Github Trophy
+
+![Enfycius's Github Trophy](https://github-profile-trophy.vercel.app/?username=enfycius&theme=monokai&no-bg=true&no-frame=true&rank=-C,-B)
+
+---
+
 ### :seedling: Github Status
 
 ![Enfycius's Github Stats](https://github-readme-stats.vercel.app/api?username=enfycius&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)
