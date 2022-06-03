@@ -240,6 +240,12 @@ Techs that I've used at least once
 
 ---
 
+### :octocat: Github Activity Graph
+
+![Enfycius's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=enfycius&theme=react-dark&hide_border=true&radius=5)
+
+---
+
 ### :seedling: Github Status
 
 ![Enfycius's Github Stats](https://github-readme-stats.vercel.app/api?username=enfycius&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)
