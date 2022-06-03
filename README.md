@@ -234,15 +234,15 @@ Techs that I've used at least once
 
 ---
 
-### :mushroom: Github Trophy
-
-![Enfycius's Github Trophy](https://github-profile-trophy.vercel.app/?username=enfycius&theme=monokai&no-bg=true&no-frame=true&rank=-C,-B)
-
----
-
 ### :octocat: Github Activity Graph
 
 ![Enfycius's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=enfycius&theme=react-dark&hide_border=true&radius=5)
+
+---
+
+### :mushroom: Github Trophy
+
+![Enfycius's Github Trophy](https://github-profile-trophy.vercel.app/?username=enfycius&theme=monokai&no-bg=true&no-frame=true&rank=-C,-B)
 
 ---
 
