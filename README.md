@@ -15,11 +15,11 @@
 |     2021.10 ~     |         Club        | Vice-chairman, [import(Coding Club)](https://import-hanbat.com/) |           Hanbat National University[<sup>1</sup>](#1)          |
 |      2017.09      | External Activities |     Institute for Higher Education Innovation     |                Yonsei University               |
 | 2020.05 ~ 2020.12 | External Activities |                     Translator                    |                    JavaTPoint                  |
-|     2014.01.31 ~  |   Team Activities   |                 Leader, YouHyeok Team             |                        x                       |
+|     2014.01.31 ~  |   Team Activities   |                 Leader, YouHyeok Team             |                       N/A                      |
 |     2019.11 ~     |   Team Activities   |                 Hacker, MOKA Team                 |             Sungkyunkwan University            |
-| 2019.12 ~ 2021.07 |   Team Activities   |                 Leader, PSG Team                  |                        x                       |
-|     2022.01 ~     |   Team Activities   |                 Leader, Project Team              |                        x                       |
-| 2020.10 ~ 2021.02 |   Team Activities   |               Leader, APPSILON Team               |                        x                       |
+| 2019.12 ~ 2021.07 |   Team Activities   |                 Leader, PSG Team                  |                       N/A                      |
+|     2022.01 ~     |   Team Activities   |                 Leader, Project Team              |                       N/A                      |
+| 2020.10 ~ 2021.02 |   Team Activities   |               Leader, APPSILON Team               |                       N/A                      |
 |     2021.02 ~     |   Team Activities   | Researcher, [Dropper Lab](https://dropper.tech)   |                    Halliance                   |
 | 2021.02 ~ 2021.07 |   Team Activities   |               App Developer, 과제 다했니             |                    과제 다했니                    |
 |     2022.01 ~     |   Start-up, Club    |                    나만의 알바, CTO                  | Hanbat National University Start-up Support Foundation[<sup>2</sup>](#2) |
@@ -33,8 +33,8 @@
 |     2022.01 ~     |       Project       | The Hyades Project<br />(PSG Platform(Such as Notion)) |               PSG Team                    |
 |     2022.02 ~     |       Project       | The petBook Project<br />(Animal Info)            |                    PSG Team                    |
 | 2021.02 ~ 2021.07 |       Project       | The Semyorka Project<br />(YouHyeok Official Website)|                 YouHyeok                    | 
-|     2021.07 ~     |       Project       | The Nemesis Project<br />                         |                        x                       |
-|     2022.02 ~     |       Project       | The Zeus Project<br />                            |                        x                       |
+|     2021.07 ~     |       Project       | The Nemesis Project<br />                         |                       N/A                      |
+|     2022.02 ~     |       Project       | The Zeus Project<br />                            |                       N/A                      |
 |     2021.07 ~     |       Project       | The Ulixes Project<br />(Photo Editing Software)  | Construction Information Technology Lab, Hanbat Nat'l Univ. |
 | 2021.03 ~ 2021.07 |       Project       | The Pigbar Donut Project<br />(Information)       |                    과제 다했니                    |
 |     2021.02 ~     | Research Activities | Resolving an Inverse Problem based on Deep Neural Networks | Mathematical Sciences Lab, Hanbat Nat'l Univ. |
