@@ -2,6 +2,8 @@
 
 :wave: Hello, I'm JongHyeok Kim, an undergraduate researcher at the construction IT lab and the lab at the Department of Basic Science, Hanbat National University. Based on deep learning, we are conducting research to detect Fender and determine whether it is damaged or not. I am also trying to solve the Inverse Problem by using the method in another lab.
 
+Originally, I used to take a walk when I had problems that were not solved or blocked, but recently, I have often driven with [my recently purchased car](./images/my_car.png).
+
 ### :runner: Career
 
 |        Date       |         Type        |                      Contents                     |                  Organization                  |
