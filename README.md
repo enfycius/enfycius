@@ -11,8 +11,9 @@
 |     2015.11.25    |        Award        |                     Gold Award                    | Educational Research and Information Institute |
 |     2021.12.10    |        Award        |                  President's Award                |           Hanbat National University           |
 |     2021.12.20    |        Award        |                 Encouragement Award               |           Hanbat National University           |
+| 2022.06.28 ~ 2022.08.18 |        Award        |           Encouragement Award               |         Korea Land&Housing Corporation         |
 | 2021.06.23 ~ 2021.09.09 |     Competition     |      Open Source Software Developer Competition   | [Open Source Software Support Center](https://www.oss.kr/) |
-|     2021.10 ~     |         Club        | Vice-chairman, [import(Coding Club)](https://import-hanbat.com/) |           Hanbat National University[<sup>1</sup>](#1)          |
+|  2021.10 ~ 2022.09.10   |         Club        | Vice-chairman, [import(Coding Club)](https://import-hanbat.com/) |           Hanbat National University[<sup>1</sup>](#1)          |
 |      2017.09      | External Activities |     Institute for Higher Education Innovation     |                Yonsei University               |
 | 2020.05 ~ 2020.12 | External Activities |                     Translator                    |                    JavaTPoint                  |
 |     2014.01.31 ~  |   Team Activities   |                 Leader, YouHyeok Team             |                       N/A                      |
@@ -44,6 +45,7 @@
 |     2021.06 ~     | Research Activities | Object Detection for Multiple Types of Fenders | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
 |     2022.06 ~     | Research Activities | Laboratory leader | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
 | 2022.04 | Papers | [Development of Fender Segmentation System for Port Structures using Vision sensor and Deep learning](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) | Journal of the Korea Institute for Structural Maintenance and Inspection[<sup>5</sup>](#5) |
+|         | Papers | [Development of a Construction Robot for Evaluation of Assembly Performance of Modular Steel Structures](https://www.coseik.or.kr/conferences/133/schedule/) | Journal of the Computational Structural Engineering Institute of Korea |
 | 2021.03.22 ~ 2021.06.17 | Extracurricular Activities | Math Assistant | Nomad College, Hanbat Nat'l Univ. |  
 
 > <a id="1">[1]</a> Room 216, S12, 125, Dongseo-daero, Yuseong-gu, Daejeon, 34158, Republic of Korea
@@ -236,7 +238,7 @@ Techs that I've used at least once
 
 ![Open](https://img.shields.io/github/issues/enfycius/enfycius) ![Close](https://img.shields.io/github/issues-closed/enfycius/enfycius)
 
-![Grade](https://img.shields.io/badge/grade-4.404%2F4.5-green)
+![Grade](https://img.shields.io/badge/grade-4.364%2F4.5-green)
 
 ---
 
