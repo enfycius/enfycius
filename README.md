@@ -49,7 +49,7 @@ Originally, I used to take a walk when I had problems that were not solved or bl
 |     2021.06 ~     | Research Activities | Object Detection for Multiple Types of Fenders | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
 |     2022.06 ~     | Research Activities | Laboratory leader | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
 | 2022.04 | Papers | [Development of Fender Segmentation System for Port Structures using Vision sensor and Deep learning](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) | Journal of the Korea Institute for Structural Maintenance and Inspection[<sup>5</sup>](#5) |
-|         | Papers | [Development of a Construction Robot for Evaluation of Assembly Performance of Modular Steel Structures](https://www.coseik.or.kr/conferences/133/schedule/) | Journal of the Computational Structural Engineering Institute of Korea |
+| 2022.11 | Posters | [Development of a Construction Robot for Evaluation of Assembly Performance of Modular Steel Structures](./images/poster.JPG) | Journal of the Computational Structural Engineering Institute of Korea |
 | 2021.03.22 ~ 2021.06.17 | Extracurricular Activities | Math Assistant | Nomad College, Hanbat Nat'l Univ. |  
 
 > <a id="1">[1]</a> Room 216, S12, 125, Dongseo-daero, Yuseong-gu, Daejeon, 34158, Republic of Korea
