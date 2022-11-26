@@ -14,6 +14,8 @@ Originally, I used to take a walk when I had problems that were not solved or bl
 |     2021.12.10    |        Award        |                  President's Award                |           Hanbat National University           |
 |     2021.12.20    |        Award        |                 Encouragement Award               |           Hanbat National University           |
 | 2022.06.28 ~ 2022.08.18 |        Award        |           Encouragement Award               |         Korea Land&Housing Corporation         |
+|     2022.11.25    |        Award        |                  Excellence Award                 |           Hanbat National University           |
+|     2022.11.25    |        Award        |                  Excellence Award                 |           Hanbat National University           |
 | 2021.06.23 ~ 2021.09.09 |     Competition     |      Open Source Software Developer Competition   | [Open Source Software Support Center](https://www.oss.kr/) |
 |  2021.10 ~ 2022.09.10   |         Club        | Vice-chairman, [import(Coding Club)](https://import-hanbat.com/) |           Hanbat National University[<sup>1</sup>](#1)          |
 |      2017.09      | External Activities |     Institute for Higher Education Innovation     |                Yonsei University               |
