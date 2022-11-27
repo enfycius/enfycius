@@ -4,6 +4,10 @@
 
 Originally, I used to take a walk when I had problems that were not solved or blocked, but recently, I have often driven with [my recently purchased car](./images/my_car.png).
 
+Also, I have recently met my ex-girlfriend(a senior in mathematics at Jeonbuk National University), whom I dated and broke up with from middle school to high school.
+
+This is my dream space and space for her:heart:.
+
 ### :runner: Career
 
 |        Date       |         Type        |                      Contents                     |                  Organization                  |
