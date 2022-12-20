@@ -255,7 +255,7 @@ Techs that I've used at least once
 
 ### :octocat: Github Activity Graph
 
-![Enfycius's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=enfycius&theme=react-dark&hide_border=true&radius=5)
+![Enfycius's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=enfycius&theme=react-dark&hide_border=true&radius=5)
 
 ---
 
