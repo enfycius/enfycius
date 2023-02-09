@@ -2,7 +2,7 @@
 
 :wave: Hello, I'm JongHyeok Kim, an undergraduate researcher at the construction IT lab and the lab at the Department of Basic Science, Hanbat National University. Based on deep learning, we are conducting research to detect Fender and determine whether it is damaged or not. I am also trying to solve the Inverse Problem by using the method in another lab.
 
-Originally, I used to take a walk when I had problems that were not solved or blocked, but recently, I have often driven with [my recently purchased car](./images/my_car.png).
+Originally, I used to take a walk when I had problems that were not solved or blocked, but recently, I have often driven with [my recently purchased car](./assets/images/my_car.png).
 
 Also, I have recently met my ex-girlfriend(a senior in mathematics at Jeonbuk National University), whom I dated and broke up with from middle school to high school.
 
@@ -47,7 +47,7 @@ This is my dream space and space for her:heart:.
 |     2021.07 ~     |       Project       | The Ulixes Project<br />(Photo Editing Software)  | Construction Information Technology Lab, Hanbat Nat'l Univ. |
 | 2021.03 ~ 2021.07 |       Project       | The Pigbar Donut Project<br />(Information)       |                    과제 다했니                    |
 | 2021.07 ~ 2021.08 | Internships | Image Classification with toy sets     | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
-| 2023.02 (Expected) | Internships |       | [Coastal Hydrodynamics Lab, Korea Univ.](http://coastal.korea.ac.kr/) |
+| 2023.01.27 ~  | Internships |       | [Coastal Hydrodynamics Lab, Korea Univ.](http://coastal.korea.ac.kr/) |
 | 2021.02 ~ 2022.08 | Research Activities | Resolving an Inverse Problem based on Deep Neural Networks | Mathematical Sciences Lab, Hanbat Nat'l Univ. |
 | 2021.08 ~ 2021.12 | Research Activities | Image Processing based on Deep Neural Networks for Detecting a Fender | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
 | 2021.12 ~ 2023.01 | Research Activities | Real-time Fenders Detection and Mapping System using Streo Vision and GPS | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
@@ -55,7 +55,7 @@ This is my dream space and space for her:heart:.
 | 2022.06 ~ 2023.01 | Research Activities | Laboratory Leader | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
 |     2023.01 ~     | Research Activities | Supporter, Developer | Hydraulic and Ecology-Environment Lab, Hanbat Nat'l Univ.[<sup>7</sup>](#7) |
 | 2022.04 | Papers | [Development of Fender Segmentation System for Port Structures using Vision sensor and Deep learning](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) | Journal of the Korea Institute for Structural Maintenance and Inspection[<sup>5</sup>](#5) |
-| 2022.11 | Posters | [Development of a Construction Robot for Evaluation of Assembly Performance of Modular Steel Structures](./images/poster.JPG) | Journal of the Computational Structural Engineering Institute of Korea[<sup>6</sup>](#6) |
+| 2022.11 | Posters | [Development of a Construction Robot for Evaluation of Assembly Performance of Modular Steel Structures](./assets/images/poster.JPG) | Journal of the Computational Structural Engineering Institute of Korea[<sup>6</sup>](#6) |
 | 2021.03.22 ~ 2021.06.17 | Extracurricular Activities | Math Assistant | Nomad College, Hanbat Nat'l Univ. |  
 
 > <a id="1">[1]</a> Room 216, S12, 125, Dongseo-daero, Yuseong-gu, Daejeon, 34158, Republic of Korea
@@ -253,7 +253,7 @@ Techs that I've used at least once
 
 ![Open](https://img.shields.io/github/issues/enfycius/enfycius) ![Close](https://img.shields.io/github/issues-closed/enfycius/enfycius)
 
-![Grade](https://img.shields.io/badge/grade-4.364%2F4.5-green)
+![Grade](https://img.shields.io/badge/grade-4.365%2F4.5-green)
 
 ---
 
@@ -266,6 +266,12 @@ Techs that I've used at least once
 ### :mushroom: Github Trophy
 
 ![Enfycius's Github Trophy](https://github-profile-trophy.vercel.app/?username=enfycius&theme=monokai&no-bg=true&no-frame=true&rank=-C,-B)
+
+---
+
+### :ocean: Github Contributions
+
+![Enfycius's Github Contributions](./assets/svg/enfycius.svg)
 
 ---
 
