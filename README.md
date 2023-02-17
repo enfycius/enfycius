@@ -55,7 +55,7 @@ This is my dream space and space for her:heart:.
 | 2022.06 ~ 2023.01 | Research Activities | Laboratory Leader | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
 |     2023.01 ~     | Research Activities | Supporter, Developer | Hydraulic and Ecology-Environment Lab, Hanbat Nat'l Univ.[<sup>6</sup>](#6) |
 | 2022.04 | Papers | [Development of Fender Segmentation System for Port Structures using Vision sensor and Deep learning](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) | Journal of the Korea Institute for Structural Maintenance and Inspection[<sup>7</sup>](#7) |
-| 2022.11 | Posters | [Development of a Construction Robot for Evaluation of Assembly Performance of Modular Steel Structures](./assets/images/poster.JPG) | Journal of the Computational Structural Engineering Institute of Korea[<sup>8</sup>](#8) |
+| 2022.11 | Posters[<sup>8</sup>](#8) | [Development of a Construction Robot for Evaluation of Assembly Performance of Modular Steel Structures](./assets/images/poster.JPG) | Journal of the Computational Structural Engineering Institute of Korea[<sup>9</sup>](#9) |
 | 2021.03.22 ~ 2021.06.17 | Extracurricular Activities | Math Assistant | Nomad College, Hanbat Nat'l Univ. |  
 
 > <a id="1">[1]</a> Room 216, S12, 125, Dongseo-daero, Yuseong-gu, Daejeon, 34158, Republic of Korea
@@ -72,7 +72,9 @@ This is my dream space and space for her:heart:.
 
 > <a id="7">[7]</a> Room 505, 15, Beobwon-ro 2-gil, Seocho-gu, Seoul, Republic of Korea
 
-> <a id="8">[8]</a> Room 808, Building 1 of the Korea Science and Technology Center, 22, Teheran-ro 7-gil, Gangnam-gu, Seoul
+> <a id="8">[8]</a> Tower B. B1F, 1153, Misiryeongyet-gil, Toseong-myeon, Goseong-gun, Gangwon-do, Republic of Korea
+
+> <a id="9">[9]</a> Room 808, Building 1 of the Korea Science and Technology Center, 22, Teheran-ro 7-gil, Gangnam-gu, Seoul
 
 ---
 
