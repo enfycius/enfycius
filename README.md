@@ -17,7 +17,7 @@ This is my dream space and space for her:heart:.
 |     2015.11.25    |        Award        |                     Gold Award                    | Educational Research and Information Institute |
 |     2021.12.10    |        Award        |                  President's Award                |           Hanbat National University           |
 |     2021.12.20    |        Award        |                 Encouragement Award               |           Hanbat National University           |
-| 2022.06.28 ~ 2022.08.18 |        Award        |           Encouragement Award               |         Korea Land&Housing Corporation         |
+| 2022.06.28 ~ 2022.08.18 |        Award        |           [Encouragement Award](./assets/images/LH.png)               |         Korea Land&Housing Corporation         |
 |     2022.11.25    |        Award        |                  Excellence Award                 |           Hanbat National University           |
 |     2022.11.25    |        Award        |                  Excellence Award                 |           Hanbat National University           |
 | 2021.06.23 ~ 2021.09.09 |     Competition     |      Open Source Software Developer Competition   | [Open Source Software Support Center](https://www.oss.kr/) |
@@ -46,16 +46,16 @@ This is my dream space and space for her:heart:.
 |     2022.02 ~     |       Project       | The Zeus Project<br />                            |                       N/A                      |
 |     2021.07 ~     |       Project       | The Ulixes Project<br />(Photo Editing Software)  | Construction Information Technology Lab, Hanbat Nat'l Univ. |
 | 2021.03 ~ 2021.07 |       Project       | The Pigbar Donut Project<br />(Information)       |                    과제 다했니                    |
-| 2021.07 ~ 2021.08 | Internships | Image Classification with toy sets     | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
-| 2023.01.27 ~  | Internships |       | [Coastal Hydrodynamics Lab, Korea Univ.](http://coastal.korea.ac.kr/) |
+| 2021.07 ~ 2021.08 | Offline Internships | Image Classification with toy sets     | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
+| 2023.01.27 ~  | [Offline Internships](./assets/images/internships/KU/) | Analysis of the extended Boussinesq equations | [Coastal Hydrodynamics Lab, Korea Univ.](http://coastal.korea.ac.kr/)[<sup>5</sup>](#5) |
 | 2021.02 ~ 2022.08 | Research Activities | Resolving an Inverse Problem based on Deep Neural Networks | Mathematical Sciences Lab, Hanbat Nat'l Univ. |
 | 2021.08 ~ 2021.12 | Research Activities | Image Processing based on Deep Neural Networks for Detecting a Fender | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
 | 2021.12 ~ 2023.01 | Research Activities | Real-time Fenders Detection and Mapping System using Streo Vision and GPS | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
 | 2021.06 ~ 2023.01 | Research Activities | Object Detection for Multiple Types of Fenders | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
 | 2022.06 ~ 2023.01 | Research Activities | Laboratory Leader | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
-|     2023.01 ~     | Research Activities | Supporter, Developer | Hydraulic and Ecology-Environment Lab, Hanbat Nat'l Univ.[<sup>7</sup>](#7) |
-| 2022.04 | Papers | [Development of Fender Segmentation System for Port Structures using Vision sensor and Deep learning](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) | Journal of the Korea Institute for Structural Maintenance and Inspection[<sup>5</sup>](#5) |
-| 2022.11 | Posters | [Development of a Construction Robot for Evaluation of Assembly Performance of Modular Steel Structures](./assets/images/poster.JPG) | Journal of the Computational Structural Engineering Institute of Korea[<sup>6</sup>](#6) |
+|     2023.01 ~     | Research Activities | Supporter, Developer | Hydraulic and Ecology-Environment Lab, Hanbat Nat'l Univ.[<sup>6</sup>](#6) |
+| 2022.04 | Papers | [Development of Fender Segmentation System for Port Structures using Vision sensor and Deep learning](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) | Journal of the Korea Institute for Structural Maintenance and Inspection[<sup>7</sup>](#7) |
+| 2022.11 | Posters | [Development of a Construction Robot for Evaluation of Assembly Performance of Modular Steel Structures](./assets/images/poster.JPG) | Journal of the Computational Structural Engineering Institute of Korea[<sup>8</sup>](#8) |
 | 2021.03.22 ~ 2021.06.17 | Extracurricular Activities | Math Assistant | Nomad College, Hanbat Nat'l Univ. |  
 
 > <a id="1">[1]</a> Room 216, S12, 125, Dongseo-daero, Yuseong-gu, Daejeon, 34158, Republic of Korea
@@ -66,11 +66,13 @@ This is my dream space and space for her:heart:.
 
 > <a id="4">[4]</a> Room 218, S8, 125, Dongseo-daero, Yuseong-gu, Daejeon, 34158, Republic of Korea
 
-> <a id="5">[5]</a> Room 505, 15, Beobwon-ro 2-gil, Seocho-gu, Seoul, Republic of Korea
+> <a id="5">[5]</a> Eng. Bldg. Rm. 233, 73-15, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea
 
-> <a id="6">[6]</a> Room 808, Building 1 of the Korea Science and Technology Center, 22, Teheran-ro 7-gil, Gangnam-gu, Seoul
+> <a id="6">[6]</a> Room 217, S8, 125, Dongseo-daero, Yuseong-gu, Daejeon, 34158, Republic of Korea
 
-> <a id="7">[7]</a> Room 217, S8, 125, Dongseo-daero, Yuseong-gu, Daejeon, 34158, Republic of Korea
+> <a id="7">[7]</a> Room 505, 15, Beobwon-ro 2-gil, Seocho-gu, Seoul, Republic of Korea
+
+> <a id="8">[8]</a> Room 808, Building 1 of the Korea Science and Technology Center, 22, Teheran-ro 7-gil, Gangnam-gu, Seoul
 
 ---
 
