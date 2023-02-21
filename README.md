@@ -53,7 +53,7 @@ This is my dream space and space for her:heart:.
 | 2021.12 ~ 2023.01 | Research Activities | Real-time Fenders Detection and Mapping System using Streo Vision and GPS | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
 | 2021.06 ~ 2023.01 | Research Activities | Object Detection for Multiple Types of Fenders | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
 | 2022.06 ~ 2023.01 | Research Activities | Laboratory Leader | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>4</sup>](#4) |
-|     2023.01 ~     | Research Activities | Supporter, Developer | Hydraulic and Ecology-Environment Lab, Hanbat Nat'l Univ.[<sup>6</sup>](#6) |
+| 2023.01 ~ 2023.02.20 | Research Activities | Supporter, Developer | Hydraulic and Ecology-Environment Lab, Hanbat Nat'l Univ.[<sup>6</sup>](#6) |
 | 2022.04 | Papers | [Development of Fender Segmentation System for Port Structures using Vision sensor and Deep learning](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) | Journal of the Korea Institute for Structural Maintenance and Inspection[<sup>7</sup>](#7) |
 | 2022.11 | [Posters](https://www.coseik.or.kr/boards/notice/28995/detail/news/notice/)[<sup>8</sup>](#8) | [Development of a Construction Robot for Evaluation of Assembly Performance of Modular Steel Structures](./assets/images/poster.JPG) | Journal of the Computational Structural Engineering Institute of Korea[<sup>9</sup>](#9) |
 | 2021.03.22 ~ 2021.06.17 | Extracurricular Activities | Math Assistant | Nomad College, Hanbat Nat'l Univ. |  
