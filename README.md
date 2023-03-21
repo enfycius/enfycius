@@ -33,10 +33,10 @@ This is my dream space and space for her:heart:.
 | 2020.10 ~ 2021.02 |   Team Activities   |               Leader, APPSILON Team               |                       N/A                      |
 |     2021.02 ~     |   Team Activities   | Researcher, [Dropper Lab](https://dropper.tech)   |                    Halliance                   |
 | 2021.02 ~ 2021.07 |   Team Activities   |               App Developer, 과제 다했니             |                    과제 다했니                    |
-|     2022.01 ~     |   Start-up, Club    |                    나만의 알바, CTO                  | Hanbat National University Start-up Support Foundation[<sup>2</sup>](#2) |
+|     2022.01 ~     |   Start-up, Club    |                    나만의 알바, CTO                  | Hanbat National University Start-up Support Foundation[<sup>2</sup>](#2), [KOSME](https://start.kosmes.or.kr/yh_mai001_001.do) |
 |     2021.01 ~     |       Start-up      |                  Developer, [LABis](https://www.saramin.co.kr/zf_user/company-info/view?csn=eWUwRXJzSm02Sm5OMUZISDFNbXVsQT09)                 | UNIST[<sup>3</sup>](#3), [KOSME](https://start.kosmes.or.kr/yh_mai001_001.do) |
 | 2023.03 |   Work Experience   |                  Lecturer (C, Python, SQL)                 | [Hyosung Computer Academy](https://comgopa.co.kr/)[<sup>4</sup>](#4) |
-|     2023.03 ~     |   Work Experience   |                  Lecturer (C, Python, C++, Java) (15,000 KRW per Hour)                 | N/A |
+|     2023.03 ~     |   Work Experience   |                  Lecturer (C, Python, C++, Java) (₩ 15K per Hour)                 | N/A |
 | 2018.08 ~ 2018.09 |       Project       |The Recycle Project<br />(Haesung High School Notice App)|      Jeonju Haesung High School          |
 | 2020.05 ~ 2021.07 |       Project       | The Stellar Project<br />(One Commit per Day)     |                    PSG Team                    |
 |     2021.01 ~     |       Project       | The Demeter Project<br />(EZEN Const Web Site)    |           Ezen Construction Company            |
@@ -50,7 +50,7 @@ This is my dream space and space for her:heart:.
 |     2022.02 ~     |       Project       | The Zeus Project<br />                            |                       N/A                      |
 | 2021.07 ~ 2023.01 |       Project       | The Ulixes Project<br />(Photo Editing Software for Image Augmentation)  | Construction Information Technology Lab, Hanbat Nat'l Univ. |
 | 2021.03 ~ 2021.07 |       Project       | The Pigbar Donut Project<br />(Information)       |                    과제 다했니                    |
-|     2021.03       |       Project       | Development of Instructor Management System<br />(Based on Spring Boot, EgovFramework, MariaDB)       |                    LABis                    |
+|     2021.03       |       Project       | Development of Instructor Management System<br />(Based on Spring Boot, EgovFramework, MariaDB)<br />(₩ 4,000K ~ 7,000K per one copy)       |                    LABis                    |
 | 2021.07 ~ 2021.08 | Offline Internships | Image Classification with toy sets     | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
 | 2023.01.27 ~ 2023.02.20 | [Offline Internships](./assets/images/internships/KU/) | Analysis of the extended Boussinesq equations | [Coastal Hydrodynamics Lab, Korea Univ.](http://coastal.korea.ac.kr/)[<sup>6</sup>](#6) |
 | 2021.02 ~ 2022.08 | Research Activities | Resolving an Inverse Problem based on Deep Neural Networks | Mathematical Sciences Lab, Hanbat Nat'l Univ. |
