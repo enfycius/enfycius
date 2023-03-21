@@ -48,6 +48,7 @@ This is my dream space and space for her:heart:.
 |     2022.02 ~     |       Project       | The Zeus Project<br />                            |                       N/A                      |
 | 2021.07 ~ 2023.01 |       Project       | The Ulixes Project<br />(Photo Editing Software for Image Augmentation)  | Construction Information Technology Lab, Hanbat Nat'l Univ. |
 | 2021.03 ~ 2021.07 |       Project       | The Pigbar Donut Project<br />(Information)       |                    과제 다했니                    |
+|     2021.03       |       Project       | Development of Instructor Management System<br />(Based on Spring Boot, EgovFramework, MariaDB)       |                    LABis                    |
 | 2021.07 ~ 2021.08 | Offline Internships | Image Classification with toy sets     | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
 | 2023.01.27 ~ 2023.02.20 | [Offline Internships](./assets/images/internships/KU/) | Analysis of the extended Boussinesq equations | [Coastal Hydrodynamics Lab, Korea Univ.](http://coastal.korea.ac.kr/)[<sup>6</sup>](#6) |
 | 2021.02 ~ 2022.08 | Research Activities | Resolving an Inverse Problem based on Deep Neural Networks | Mathematical Sciences Lab, Hanbat Nat'l Univ. |
