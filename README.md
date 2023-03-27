@@ -51,15 +51,15 @@ This is my dream space and space for her:heart:.
 | 2021.07 ~ 2023.01 |       Project       | The Ulixes Project<br />(Photo Editing Software for Image Augmentation)  | Construction Information Technology Lab, Hanbat Nat'l Univ. |
 | 2021.03 ~ 2021.07 |       Project       | The Pigbar Donut Project<br />(Information)       |                    과제 다했니                    |
 |     2023.03       |       Project       | Development of Instructor Management System<br />(Based on Spring Boot, EgovFramework, MariaDB)<br />(₩ 4,000K ~ 7,000K per one copy)       |                    LABis                    |
-| 2021.07 ~ 2021.08 | Offline Internships | Image Classification with toy sets     | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
-| 2023.01.27 ~ 2023.02.20 | [Offline Internships](./assets/images/internships/KU/) | Analysis of the extended Boussinesq equations | [Coastal Hydrodynamics Lab, Korea Univ.](http://coastal.korea.ac.kr/)[<sup>6</sup>](#6) |
+| 2021.07 ~ 2021.08 | Offline Internships | Image Classification with Toy Sets     | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
+| 2023.01.27 ~ 2023.02.20 | [Offline Internships](./assets/images/internships/KU/) | Analysis of the Extended Boussinesq Equations | [Coastal Hydrodynamics Lab, Korea Univ.](http://coastal.korea.ac.kr/)[<sup>6</sup>](#6) |
 | 2021.02 ~ 2022.08 | Research Activities | Resolving an Inverse Problem based on Deep Neural Networks | Mathematical Sciences Lab, Hanbat Nat'l Univ. |
 | 2021.08 ~ 2021.12 | Research Activities | Image Processing based on Deep Neural Networks for Detecting a Fender | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
 | 2021.12 ~ 2023.01 | Research Activities | Real-time Fenders Detection and Mapping System using Streo Vision and GPS | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
 | 2021.06 ~ 2023.01 | Research Activities | Object Detection for Multiple Types of Fenders | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
 | 2022.06 ~ 2023.01 | Research Activities | Laboratory Leader | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
 |     2023.01 ~     | Research Activities | Supporter, Developer | Hydraulic and Ecology-Environment Lab, Hanbat Nat'l Univ.[<sup>7</sup>](#7) |
-| 2022.04 | Papers | [Development of Fender Segmentation System for Port Structures using Vision sensor and Deep learning](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) | Journal of the Korea Institute for Structural Maintenance and Inspection[<sup>8</sup>](#8) |
+| 2022.04 | Papers | [Development of Fender Segmentation System for Port Structures using Vision Sensor and Deep Learning](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) | Journal of the Korea Institute for Structural Maintenance and Inspection[<sup>8</sup>](#8) |
 | 2022.11 | [Posters](https://www.coseik.or.kr/boards/notice/28995/detail/news/notice/)[<sup>9</sup>](#9) | [Development of a Construction Robot for Evaluation of Assembly Performance of Modular Steel Structures](./assets/images/poster.JPG) | Journal of the Computational Structural Engineering Institute of Korea[<sup>10</sup>](#10) |
 | 2021.03.22 ~ 2021.06.17 | Extracurricular Activities | Math Assistant | Nomad College, Hanbat Nat'l Univ. |  
 
@@ -147,12 +147,9 @@ This is my dream space and space for her:heart:.
 
 ### :star: Interests
 
-- Computer Vision
-- Development of Mapping System
-- Semantic Image Segmentation for Autonomous Driving
-- Object Detection
-- Image Classification
-- Morozov's Discrepancy Principle for Inverse Problem
+- Coastal Engineering
+- Mathematical Modeling
+- Development of Wave Prediction Technology
 
 ---
 
