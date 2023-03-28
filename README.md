@@ -36,7 +36,7 @@ This is my dream space and space for her:heart:.
 |     2022.01 ~     |   Start-up, Club    |                    나만의 알바, CTO                  | Hanbat National University Start-up Support Foundation[<sup>2</sup>](#2), [KOSME](https://start.kosmes.or.kr/yh_mai001_001.do) |
 |     2021.01 ~     |       Start-up      |                  Developer, [LABis](https://www.saramin.co.kr/zf_user/company-info/view?csn=eWUwRXJzSm02Sm5OMUZISDFNbXVsQT09)                 | UNIST[<sup>3</sup>](#3), [KOSME](https://start.kosmes.or.kr/yh_mai001_001.do) |
 | 2023.03 |   Work Experience   |                  Lecturer (C, Python, SQL)                 | [Hyosung Computer Academy](https://comgopa.co.kr/)[<sup>4</sup>](#4) |
-|     2023.03 ~     |   Work Experience   |                  Lecturer (C, Python, C++, Java) (₩ 15K ~ 20K per Hour)                 | N/A |
+|     2023.03 ~     |   Work Experience   |                  Lecturer (C, Python, C++, Java) (₩ 15K ~ 30K per Hour)                 | N/A |
 | 2018.08 ~ 2018.09 |       Project       |The Recycle Project<br />(Haesung High School Notice App)|      Jeonju Haesung High School          |
 | 2020.05 ~ 2021.07 |       Project       | The Stellar Project<br />(One Commit per Day)     |                    PSG Team                    |
 |     2021.01 ~     |       Project       | The Demeter Project<br />(EZEN Const Web Site)    |           Ezen Construction Company            |
@@ -149,7 +149,7 @@ This is my dream space and space for her:heart:.
 
 - Coastal Engineering
 - Mathematical Modeling
-- Development of Wave Prediction Technology
+- Development of Wave Prediction Technology with AI-based Models
 
 ---
 
