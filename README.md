@@ -23,7 +23,7 @@ This is my dream space and space for her:heart:.
 | 2021.06.23 ~ 2021.09.09 |     Competition     |      Open Source Software Developer Competition   | [Open Source Software Support Center](https://www.oss.kr/) |
 |  2021.10 ~ 2022.09.10   |         Club        | Vice-chairman, [import(Coding Club)](https://import-hanbat.com/) |           Hanbat National University[<sup>1</sup>](#1)          |
 |  2023.03 ~ 2024.02   | On-Campus Activities | [소중한 봉사단 2기](http://www.ccnnews.co.kr/news/articleView.html?idxno=288342) |           Hanbat National University[<sup>1</sup>](#1)          |
-|  2023.03 ~ 2024.02   | On-Campus Activities | Editor, [Hanbat Herald](https://www.hanbat.ac.kr/news/index.do) |           Hanbat National University[<sup>1</sup>](#1)          |
+|  2023.03 ~ 2024.02   | On-Campus Activities | [Editor](/assets/images/herald/) |           [Hanbat Herald]((https://www.hanbat.ac.kr/news/index.do)), Hanbat National University[<sup>1</sup>](#1)          |
 |      2017.09      | External Activities |     Institute for Higher Education Innovation     |                Yonsei University               |
 | 2020.05 ~ 2020.12 | External Activities |                     Translator                    |                    JavaTPoint                  |
 |     2014.01.31 ~  |   Team Activities   |                 Leader, YouHyeok Team             |                       N/A                      |
