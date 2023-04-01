@@ -176,6 +176,9 @@ This is my dream space and space for only her :heart:.
 ### :star: Interests
 
 - Coastal Engineering
+- River Engineering
+- Computer Simulation (Fluid Dynamics Simulation)
+- Cloud Computing
 - Mathematical Modeling
 - Development of Wave Prediction Technology with AI-based Models
 
