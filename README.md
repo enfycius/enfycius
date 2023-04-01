@@ -1,12 +1,38 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Enfycius&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Stay%20Hungry,%20Stay%20Foolish&descAlignY=55&descAlign=62)
 
-:wave: Hello, I'm JongHyeok Kim, an undergraduate researcher at the construction IT lab and the lab at the Department of Basic Science, Hanbat National University. Based on deep learning, we are conducting research to detect Fender and determine whether it is damaged or not. I am also trying to solve the Inverse Problem by using the method in another lab.
+:wave: Hello, I'm JongHyeok Kim, an senior undergraduate student at Hanbat National University.
+
+Previously, I investigated Deep Learning at the Construction IT Labs and at the Department of Basic Science, Hanbat National University.
+
+Especially, based on Deep Learning, in the former lab, we'd been conducting research to detect extent of damage to the mooring facility until early 2023. As well as, as part of that research, I developed a ROS-based construction robot to perform such tasks in 2022. In the latter lab, An inverse problem, in science, is the process of calculating from a set of observations the causal factors that produced them, was selected as the topic of our research and we were studying it using Deep Neural Network (DNN) for about a year and a half. Even though it didn't result in any tangible breakthroughs, it was a rare glimpse into the intersection of artificial intelligence and math.
+
+Currently, I have been conducting various research attempts in the field of civil engineering, which is my main major, in the fields of coastal and harbor, hydrodynamics, and river engineering by combining computer simulation and artificial intelligence. In addition, I have recently joined various programs such as "소중한 봉사단", "Herald" and so forth at Hanbat National University to strengthen my skills.
+
+### 💡 Tip
+
+If you're having trouble solving the problem, try the following, as I did.
 
 Originally, I used to take a walk when I had problems that were not solved or blocked, but recently, I have often driven with [my recently purchased car](./assets/images/my_car.png).
 
-Also, I have recently met my ex-girlfriend(a senior in mathematics at Jeonbuk National University), whom I dated and broke up with from middle school to high school.
+> Taking a walk is the best solution for a healthy body and a healthy mind.
 
-This is my dream space and space for her:heart:.
+> Driving with the windows open will bring you back to a clear mind with fresh air!
+
+### :fountain: Acknowledgements
+
+First of all, I would like to express my sincere gratitude to Professor [Jaemin Shin](https://sites.google.com/site/jaeminshin3/), who laid the foundation for all my learning.
+
+Next, I would like to express my sincere gratitude to my professors in the Department of Civil Engineering at Hanbat National University for their encouragement and assistance in helping me learn civil engineering smoothly.
+
+In particular, I would like to thank Prof. [Haemin Jeon](https://haeminjeon.wixsite.com/hbnu), who has been very helpful in my career. To whom I will be eternally grateful. 
+
+Also, I would also like to express my sincere gratitude to Prof. [Jongseok Lee](http://cafe.hanbat.ac.kr/cafe/19961001/) for always believing in, supporting me and caring about me. 
+
+Moreover, I would like to thank Professor [Taehwa Jung](https://sites.google.com/site/taehwajung/) for not only recognizing my potential and providing me with opportunities, such as arranging an internships at Korea University during the winter vacation, but also for always reminding me of the truth of learning.
+
+Finally, I would like to thank my old crush, Lee Da-yoon, who is now my girlfriend again, for always being there to support me whenever I am struggling.
+
+This is my dream space and space for only her :heart:.
 
 ### :runner: Career
 
