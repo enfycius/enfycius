@@ -27,6 +27,7 @@ This is my dream space and space for her:heart:.
 |  2023.03 ~ 2024.02   | On-Campus Activities | [Editor](/assets/images/herald/) |           [Hanbat Herald]((https://www.hanbat.ac.kr/news/index.do)), Hanbat National University[<sup>1</sup>](#1)          |
 |      2017.09      | External Activities |     Institute for Higher Education Innovation     |                Yonsei University               |
 | 2020.05 ~ 2020.12 | External Activities |                     Translator                    |                    JavaTPoint                  |
+|     2022.05 ~      | External Activities |     One Week One Blog Post     |                Non-Profit Organization               |
 |     2014.01.31 ~  |   Team Activities   |                 Leader, YouHyeok Team             |                       N/A                      |
 |     2019.11 ~     |   Team Activities   |                 Hacker, MOKA Team                 |             Sungkyunkwan University            |
 | 2019.12 ~ 2021.07 |   Team Activities   |                 Leader, PSG Team                  |                       N/A                      |
