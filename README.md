@@ -12,7 +12,7 @@ Currently, I have been conducting various research attempts in the field of civi
 
 If you're having trouble solving the problem, try the following, as I did.
 
-Originally, I used to take a walk when I had problems that were not solved or blocked, but recently, I have often driven with [my recently purchased car](./assets/images/my_car.png).
+Originally, I used to take a walk when I had problems that were not solved or blocked, but recently, I have often driven with [my recently purchased car](./assets/images/my_car/).
 
 > Taking a walk is the best solution for a healthy body and a healthy mind.
 
