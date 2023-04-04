@@ -18,6 +18,6 @@
 
 ### 23.04.03
 
-![Herald](https://youtu.be/Dy7W8Y9v5RE)
+[![Herald](http://img.youtube.com/vi/Dy7W8Y9v5RE/0.jpg)](https://youtu.be/Dy7W8Y9v5RE)
 
-![Herald](https://youtu.be/i7ypKdm7ETQ)
+[![Herald](http://img.youtube.com/vi/i7ypKdm7ETQ/0.jpg)](https://youtu.be/i7ypKdm7ETQ)
