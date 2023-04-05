@@ -30,10 +30,6 @@ Also, I would also like to express my sincere gratitude to Prof. [Jongseok Lee](
 
 Moreover, I would like to thank Professor [Taehwa Jung](https://sites.google.com/site/taehwajung/) for not only recognizing my potential and providing me with opportunities, such as arranging an internships at Korea University during the winter vacation, but also for always reminding me of the truth of learning.
 
-Finally, I would like to thank my old crush, Lee Da-yoon, who is now my girlfriend again, for always being there to support me whenever I am struggling.
-
-This is my dream space and space for only her :heart:.
-
 ### :runner: Career
 
 |        Date       |         Type        |                      Contents                     |                  Organization                  |
