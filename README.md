@@ -8,6 +8,12 @@ Especially, based on Deep Learning, in the former lab, we'd been conducting rese
 
 Currently, I have been conducting various research attempts in the field of civil engineering, which is my main major, in the fields of coastal and harbor, hydrodynamics, and river engineering by combining computer simulation and artificial intelligence. In addition, I have recently joined various programs such as "소중한 봉사단", "Herald" and so forth at Hanbat National University to strengthen my skills.
 
+Also, I recently started coding tutoring. I have about 9 students so far. I mainly teach students the Python language and partly Android, as well as Machine learning and Deep learning.
+
+I see teaching as another learning opportunity and a chance to be at the forefront of education. 
+
+> Teaching is the beginning of enlightenment !
+
 ### 💡 Tip
 
 If you're having trouble solving the problem, try the following, as I did.
