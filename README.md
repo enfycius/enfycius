@@ -42,6 +42,10 @@ Finally, I would like to thank my old crush, Lee Da-yoon, who is now my girlfrie
 
 This is my dream space and space for only her ❤️.
 
+### :memo: References
+
+> My timeline can be found [here](https://enfycius.github.io/_enfycius/timeline).
+
 ### :runner: Career
 
 |        Date       |         Type        |                      Contents                     |                  Organization                  |
