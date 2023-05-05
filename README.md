@@ -46,6 +46,8 @@ This is my dream space and space for only her ❤️.
 
 > My timeline can be found [here](https://enfycius.github.io/_enfycius/timeline).
 
+#### 🎓 [Google Scholar](https://scholar.google.com/citations?user=6lUHV9sAAAAJ&hl=ko)
+
 ### :runner: Career
 
 |        Date       |         Type        |                      Contents                     |                  Organization                  |
