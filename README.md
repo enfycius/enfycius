@@ -48,12 +48,12 @@ This is my dream space and space for only her ❤️.
 |:-----------------:|:-------------------:|:-------------------------------------------------:|:----------------------------------------------:|
 |     2020.03 ~     |      Education      | Department of Civil and Environmental Engineering |           Hanbat National University           |
 | 2014.03 ~ 2017.03 |   Gifted Education  |                    Certificated                   | Educational Research and Information Institute |
-|     2015.11.25    |        Award        |                     Gold Award                    | Educational Research and Information Institute |
-|     2021.12.10    |        Award        |                  President's Award                |           Hanbat National University           |
-|     2021.12.20    |        Award        |                 Encouragement Award               |           Hanbat National University           |
-| 2022.06.28 ~ 2022.08.18 |        Award        |           [Encouragement Award](./assets/images/LH.png)               |         Korea Land&Housing Corporation         |
-|     2022.11.25    |        Award        |                  Excellence Award                 |           Hanbat National University           |
-|     2022.11.25    |        Award        |                  Excellence Award                 |           Hanbat National University           |
+|     2015.11.25    |        Award        |                     Gold Prize                    | Educational Research and Information Institute |
+|     2021.12.10    |        Award        |                  President's Prize                |           Hanbat National University           |
+|     2021.12.20    |        Award        |                 Encouragement Prize               |           Hanbat National University           |
+| 2022.06.28 ~ 2022.08.18 |        Award        |           [Encouragement Prize](./assets/images/LH.png)               |         Korea Land&Housing Corporation         |
+|     2022.11.25    |        Award        |                  Excellence Prize                 |           Hanbat National University           |
+|     2022.11.25    |        Award        |                  Excellence Prize                 |           Hanbat National University           |
 | 2021.06.23 ~ 2021.09.09 |     Competition     |      Open Source Software Developer Competition   | [Open Source Software Support Center](https://www.oss.kr/) |
 |  2021.10 ~ 2022.09.10   |         Club        | Vice-chairman, [import(Coding Club)](https://import-hanbat.com/) |           Hanbat National University[<sup>1</sup>](#1)          |
 |     2023.03 ~     |         Club        | AI Developer, [Miracle](https://www.instagram.com/team_miracle_hbnu/) |           Hanbat National University[<sup>1</sup>](#1)          |
