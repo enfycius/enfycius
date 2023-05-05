@@ -14,6 +14,8 @@ I see teaching as another learning opportunity and a chance to be at the forefro
 
 > Teaching is the beginning of enlightenment !
 
+---
+
 ### 💡 Tip
 
 If you're having trouble solving the problem, try the following, as I did.
@@ -23,6 +25,8 @@ Originally, I used to take a walk when I had problems that were not solved or bl
 > Taking a walk is the best solution for a healthy body and a healthy mind.
 
 > Driving with the windows open will bring you back to a clear mind with fresh air!
+
+---
 
 ### :fountain: Acknowledgements
 
@@ -42,11 +46,15 @@ Finally, I would like to thank my old crush, Lee Da-yoon, who is now my girlfrie
 
 This is my dream space and space for only her ❤️.
 
+---
+
 ### :memo: References
 
 > My timeline can be found [here](https://enfycius.github.io/_enfycius/timeline).
 
 #### 🎓 [Google Scholar](https://scholar.google.com/citations?user=6lUHV9sAAAAJ&hl=ko)
+
+---
 
 ### :runner: Career
 
