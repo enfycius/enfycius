@@ -26,6 +26,8 @@ Originally, I used to take a walk when I had problems that were not solved or bl
 
 ### :fountain: Acknowledgements
 
+> Getting the opportunity to learn from a Guru in a field is one of the greatest joys and blessings in life.
+
 First of all, I would like to express my sincere gratitude to Professor [Jaemin Shin](https://sites.google.com/site/jaeminshin3/), who laid the foundation for all my learning.
 
 Next, I would like to express my sincere gratitude to my professors in the Department of Civil Engineering at Hanbat National University for their encouragement and assistance in helping me learn civil engineering smoothly.
