@@ -63,7 +63,7 @@ This is my dream space and space for only her ❤️.
 |     2020.03 ~     |      Education      | Department of Civil and Environmental Engineering |           Hanbat National University           |
 | 2014.03 ~ 2017.03 |   Gifted Education  |                    Certificated                   | Educational Research and Information Institute |
 |     2015.11.25    |        Award        |                     Gold Prize                    | Educational Research and Information Institute |
-|     2021.12.10    |        Award        |                  President's Prize                |           Hanbat National University           |
+|     2021.12.10    |        Award        |                  President's Award                |           Hanbat National University           |
 |     2021.12.20    |        Award        |                 Encouragement Prize               |           Hanbat National University           |
 | 2022.06.28 ~ 2022.08.18 |        Award        |           [Encouragement Prize](./assets/images/LH.png)               |         Korea Land&Housing Corporation         |
 |     2022.11.25    |        Award        |                  Excellence Prize                 |           Hanbat National University           |
