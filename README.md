@@ -69,6 +69,7 @@ This is my dream space and space for only her ❤️.
 |     2022.11.25    |        Award        |                  Excellence Prize                 |           Hanbat National University           |
 |     2022.11.25    |        Award        |                  Excellence Prize                 |           Hanbat National University           |
 | 2021.06.23 ~ 2021.09.09 |     Competition     |      Open Source Software Developer Competition   | [Open Source Software Support Center](https://www.oss.kr/) |
+| 2023.05.19 ~ 2023.05.21 |     Competition     |      Glitch Hackathon   | Trinity |
 |  2021.10 ~ 2022.09.10   |         Club        | Vice-chairman, [import(Coding Club)](https://import-hanbat.com/) |           Hanbat National University[<sup>1</sup>](#1)          |
 |     2023.03 ~     |         Club        | AI Developer, [Miracle](https://www.instagram.com/team_miracle_hbnu/) |           Hanbat National University[<sup>1</sup>](#1)          |
 |  2023.03 ~ 2024.02   | On-Campus Activities | [소중한 봉사단 2기](http://www.ccnnews.co.kr/news/articleView.html?idxno=288342) |           Hanbat National University[<sup>1</sup>](#1)          |
@@ -101,6 +102,7 @@ This is my dream space and space for only her ❤️.
 | 2021.07 ~ 2023.01 |       Project       | The Ulixes Project<br />(Photo Editing Software for Image Augmentation)  | Construction Information Technology Lab, Hanbat Nat'l Univ. |
 | 2021.03 ~ 2021.07 |       Project       | The Pigbar Donut Project<br />(Information)       |                    과제 다했니                    |
 |     2023.03       |       Project       | Development of Instructor Management System<br />(Based on Spring Boot, EgovFramework, MariaDB)<br />(₩ 4,000K ~ 7,000K per one copy)       |                    LABis                    |
+|     2023.05       |       Project       | Development of a Shopping Malls <br />(Based on ReactJS, Typescript)<br />(₩ 100K ~ 150K per one copy)       |                    LABis                    |
 | 2021.07 ~ 2021.08 | Offline Internships | Image Classification with Toy Sets     | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
 | 2023.01.27 ~ 2023.02.20 | [Offline Internships](./assets/images/internships/KU/) | Analysis of the Extended Boussinesq Equations | [Coastal Hydrodynamics Lab, Korea Univ.](http://coastal.korea.ac.kr/)[<sup>6</sup>](#6) |
 | 2021.02 ~ 2022.08 | Research Activities | Resolving an Inverse Problem based on Deep Neural Networks | Mathematical Sciences Lab, Hanbat Nat'l Univ. |
