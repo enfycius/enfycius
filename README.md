@@ -26,6 +26,10 @@ Originally, I used to take a walk when I had problems that were not solved or bl
 
 > Driving with the windows open will bring you back to a clear mind with fresh air!
 
+### 🧘 Faith
+
+I've always been fascinated by the idea of pioneering a field by oneself, without anyone else's help. If I had to pick one trait that is most important to me, I would say it is capacity of staying the flow.
+
 ---
 
 ### :fountain: Acknowledgements
