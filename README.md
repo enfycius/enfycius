@@ -32,6 +32,8 @@ I've always been fascinated by the idea of pioneering a field by oneself, withou
 
 From the moment we are born with a brain, I think that the most important activity of being human is using it.
 
+I basically enjoy interacting with people, and the pleasure I get from that is immeasurable.
+
 ---
 
 ### :fountain: Acknowledgements
