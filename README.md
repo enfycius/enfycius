@@ -30,6 +30,8 @@ Originally, I used to take a walk when I had problems that were not solved or bl
 
 I've always been fascinated by the idea of pioneering a field by oneself, without anyone else's help. If I had to pick one trait that is most important to me, I would say it is capacity of staying the flow.
 
+From the moment we are born with a brain, I think that the most important activity of being human is using it.
+
 ---
 
 ### :fountain: Acknowledgements
