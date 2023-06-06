@@ -2,13 +2,13 @@
 
 :wave: Hello, I'm JongHyeok Kim, an senior undergraduate student at Hanbat National University.
 
-Previously, I investigated Deep Learning at the Construction IT Labs and at the Department of Basic Science, Hanbat National University.
+Previously, I investigated deep learning at the construction it labs and at the department of basic science, Hanbat National University.
 
-Especially, based on Deep Learning, in the former lab, we'd been conducting research to detect extent of damage to the mooring facility until early 2023. As well as, as part of that research, I developed a ROS-based construction robot to perform such tasks in 2022. In the latter lab, An inverse problem, in science, is the process of calculating from a set of observations the causal factors that produced them, was selected as the topic of our research and we were studying it using Deep Neural Network (DNN) for about a year and a half. Even though it didn't result in any tangible breakthroughs, it was a rare glimpse into the intersection of artificial intelligence and math.
+Especially, based on deep learning, in the former lab, we'd been conducting research to detect extent of damage to the mooring facility until early 2023. As well as, as part of that research, I developed a ROS-based construction robot to perform such tasks in 2022. In the latter lab, An inverse problem, in science, is the process of calculating from a set of observations the causal factors that produced them, was selected as the topic of our research and we were studying it using **Deep Neural Network (DNN)** for about a year and a half. Even though it didn't result in any tangible breakthroughs, it was a rare glimpse into the intersection of artificial intelligence and math.
 
 Currently, I have been conducting various research attempts in the field of civil engineering, which is my main major, in the fields of coastal and harbor, hydrodynamics, and river engineering by combining computer simulation and artificial intelligence. In addition, I have recently joined various programs such as "소중한 봉사단", "Herald", and so forth at Hanbat National University to strengthen my skills.
 
-Also, I recently started coding tutoring. I have about 9 students so far. I mainly teach students the Python language and partly Android, as well as Machine learning and Deep learning.
+Also, I recently started coding tutoring. I have about 9 students so far. I mainly teach students the Python language and partly android, as well as machine learning and deep learning.
 
 I see teaching as another learning opportunity and a chance to be at the forefront of education. 
 
