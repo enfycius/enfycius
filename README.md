@@ -6,7 +6,7 @@ Previously, I investigated deep learning at the construction it labs and at the 
 
 Especially, based on deep learning, in the former lab, we'd been conducting research to detect extent of damage to the mooring facility until early 2023. As well as, as part of that research, I developed a ROS-based construction robot to perform such tasks in 2022. In the latter lab, An inverse problem, in science, is the process of calculating from a set of observations the causal factors that produced them, was selected as the topic of our research and we were studying it using **Deep Neural Network (DNN)** for about a year and a half. Even though it didn't result in any tangible breakthroughs, it was a rare glimpse into the intersection of artificial intelligence and math.
 
-Currently, I have been conducting various research attempts in the field of civil engineering, which is my main major, in the fields of coastal and harbor, hydrodynamics, and river engineering by combining computer simulation and artificial intelligence. In addition, I have recently joined various programs such as "소중한 봉사단", "Herald", and so forth at Hanbat National University to strengthen my skills.
+Currently, I have been conducting various research attempts in the field of civil engineering, which is my main major and interests, in the fields of ConstructionIT, ROS-based robot, and sensor fusion by combining computer vision and artificial intelligence. In addition, I have recently joined various programs such as "소중한 봉사단", "Herald", and so forth at Hanbat National University to strengthen my skills.
 
 Also, I recently started coding tutoring. I have about 9 students so far. I mainly teach students the Python language and partly android, as well as machine learning and deep learning.
 
@@ -52,7 +52,7 @@ Moreover, I would like to thank Professor [Taehwa Jung](https://sites.google.com
 
 Finally, I would like to thank my old crush, Lee Da-yoon, who is now my girlfriend again, for always being there to support me whenever I am struggling.
 
-This is my dream space and space for only her ❤️.
+This is my dream space, future and space for only her ❤️.
 
 ---
 
@@ -81,7 +81,7 @@ This is my dream space and space for only her ❤️.
 |  2021.10 ~ 2022.09.10   |         Club        | Vice-chairman, [import(Coding Club)](https://import-hanbat.com/) |           Hanbat National University[<sup>1</sup>](#1)          |
 |     2023.03 ~     |         Club        | AI Developer, [Miracle](https://www.instagram.com/team_miracle_hbnu/) |           Hanbat National University[<sup>1</sup>](#1)          |
 |  2023.03 ~ 2024.02   | On-Campus Activities | [소중한 봉사단 2기](http://www.ccnnews.co.kr/news/articleView.html?idxno=288342) |           Hanbat National University[<sup>1</sup>](#1)          |
-|  2023.03 ~ 2024.02   | On-Campus Activities | [Editor](/assets/images/herald/) |           [Hanbat Herald]((https://www.hanbat.ac.kr/news/index.do)), Hanbat National University[<sup>1</sup>](#1)          |
+|  2023.03 ~ 2024.02   | On-Campus Activities | [Cub Reporter](/assets/images/herald/) |           [Hanbat Herald]((https://www.hanbat.ac.kr/news/index.do)), Hanbat National University[<sup>1</sup>](#1)          |
 |      2017.09      | External Activities |     Institute for Higher Education Innovation     |                Yonsei University               |
 | 2020.05 ~ 2020.12 | External Activities |                     Translator                    |                    JavaTPoint                  |
 |     2022.05 ~      | External Activities |     One Week One Blog Post     |                Non-Profit Organization               |
@@ -207,12 +207,10 @@ This is my dream space and space for only her ❤️.
 
 ### :star: Interests
 
-- Coastal Engineering
-- River Engineering
-- Computer Simulation (Fluid Dynamics Simulation)
-- Cloud Computing
-- Mathematical Modeling
-- Development of Wave Prediction Technology with AI-based Models
+- ConstructionIT
+- Applications of computer vision and machine learning 
+- Sensor fusion and tracking
+- Development of construction robot based on ROS with various AI models
 
 ---
 
