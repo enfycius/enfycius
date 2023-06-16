@@ -18,7 +18,9 @@ I see teaching as another learning opportunity and a chance to be at the forefro
 
 ### :rose: Our Journey at Herald
 
-![main](.,/../assets/images/herald/main.jpeg)
+![home](./assets/images/herald/home.jpeg)
+
+![main](./assets/images/herald/main.jpeg)
 
 ---
 
