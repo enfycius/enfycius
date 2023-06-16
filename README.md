@@ -16,6 +16,12 @@ I see teaching as another learning opportunity and a chance to be at the forefro
 
 ---
 
+### :rose: Our Journey at Herald
+
+![main](.,/../assets/images/herald/main.jpeg)
+
+---
+
 ### 💡 Tip
 
 If you're having trouble solving the problem, try the following, as I did.
@@ -25,6 +31,8 @@ Originally, I used to take a walk when I had problems that were not solved or bl
 > Taking a walk is the best solution for a healthy body and a healthy mind.
 
 > Driving with the windows open will bring you back to a clear mind with fresh air!
+
+---
 
 ### 🧘 Faith
 
@@ -330,7 +338,7 @@ Techs that I've used at least once
 
 ### :octocat: Github Activity Graph
 
-![Enfycius's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=enfycius&theme=react-dark&hide_border=true&radius=5)
+![Enfycius's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enfycius&theme=react-dark&hide_border=true&radius=5)
 
 ---
 
