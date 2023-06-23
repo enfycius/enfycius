@@ -12,6 +12,8 @@ Also, I recently started coding tutoring. I have about 9 students so far. I main
 
 I see teaching as another learning opportunity and a chance to be at the forefront of education. 
 
+Recently, I rejoined the previous ConstructionIT lab, where I am getting ready for the 14th LH competition.
+
 > Teaching is the beginning of enlightenment !
 
 ---
