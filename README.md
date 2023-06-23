@@ -70,7 +70,7 @@ This is my dream space, future and space for only her ❤️.
 
 > My timeline can be found [here](https://enfycius.github.io/_enfycius/timeline).
 
-> My timetable and plans for future can be found [here](https://enfycius.github.io/_enfycius/timeline).
+> My timetable and plans for future can be found [here](https://enfycius.github.io/_enfycius/plans).
 
 #### :books: [CV](http://gofile.me/77sqf/W5NsVExoI)
 
