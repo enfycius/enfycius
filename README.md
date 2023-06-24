@@ -2,7 +2,7 @@
 
 :wave: Hello, I'm JongHyeok Kim, an senior undergraduate student at Hanbat National University.
 
-Previously, I investigated deep learning at the construction it labs and at the department of basic science, Hanbat National University.
+Previously, I investigated deep learning at the ConstructionIT lab and at the department of basic science, Hanbat National University.
 
 Especially, based on deep learning, in the former lab, we'd been conducting research to detect extent of damage to the mooring facility until early 2023. As well as, as part of that research, I developed a ROS-based construction robot to perform such tasks in 2022. In the latter lab, An inverse problem, in science, is the process of calculating from a set of observations the causal factors that produced them, was selected as the topic of our research and we were studying it using **Deep Neural Network (DNN)** for about a year and a half. Even though it didn't result in any tangible breakthroughs, it was a rare glimpse into the intersection of artificial intelligence and math.
 
