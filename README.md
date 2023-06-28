@@ -24,6 +24,8 @@ Recently, I rejoined the previous ConstructionIT lab, where I am getting ready f
 
 ![main](./assets/images/herald/main.jpeg)
 
+> I love these members. I sincerely hope that they will continue to strive in various fields and reach their dreams.
+
 ---
 
 ### 💡 Tip
