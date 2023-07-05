@@ -340,7 +340,7 @@ Techs that I've used at least once
 
 ![Open](https://img.shields.io/github/issues/enfycius/enfycius) ![Close](https://img.shields.io/github/issues-closed/enfycius/enfycius)
 
-![Grade](https://img.shields.io/badge/grade-4.365%2F4.5-green)
+![Grade](https://img.shields.io/badge/grade-4.382%2F4.5-green)
 
 ---
 
