@@ -103,6 +103,7 @@ This is my dream space, future and space for only her ❤️.
 |      2017.09      | External Activities |     Institute for Higher Education Innovation     |                Yonsei University               |
 | 2020.05 ~ 2020.12 | External Activities |                     Translator                    |                    JavaTPoint                  |
 |     2022.05 ~      | External Activities |     One Week One Blog Post     |                Non-Profit Organization               |
+| 2023.07.24 ~ 2023.08.31 | External Activities | [Hana Power on Challenge](./assets/images/hana_univ/) | [Hana Financial Group](https://www.hanapoweron.com/) |
 |     2014.01.31 ~  |   Team Activities   |                 Leader, YouHyeok Team             |                       N/A                      |
 |     2019.11 ~     |   Team Activities   |                 Hacker, MOKA Team                 |             Sungkyunkwan University            |
 | 2019.12 ~ 2021.07 |   Team Activities   |                 Leader, PSG Team                  |                       N/A                      |
@@ -114,7 +115,7 @@ This is my dream space, future and space for only her ❤️.
 |     2022.01 ~     |       Start-up      |                  Developer, [LABis](https://www.saramin.co.kr/zf_user/company-info/view?csn=eWUwRXJzSm02Sm5OMUZISDFNbXVsQT09)                 | UNIST[<sup>3</sup>](#3), [KOSME](https://start.kosmes.or.kr/yh_mai001_001.do) |
 | 2023.03 |   Work Experience   |                  Lecturer (C, Python, SQL)                 | [Hyosung Computer Academy](https://comgopa.co.kr/)[<sup>4</sup>](#4) |
 |     2023.03 ~     |   Work Experience   |                  Lecturer (C, Python, C++, Java) (₩ 15K ~ 30K per Hour)                 | N/A |
-| 2018.08 ~ 2018.09 |       Project       |The Recycle Project<br />(Haesung High School Notice App)|      Jeonju Haesung High School          |
+| 2018.08 ~ 2018.09 |       Project       | The Recycle Project<br />(Haesung High School Notice App) |      Jeonju Haesung High School          |
 | 2020.05 ~ 2021.07 |       Project       | The Stellar Project<br />(One Commit per Day)     |                    PSG Team                    |
 |     2021.01 ~     |       Project       | The Demeter Project<br />(EZEN Const Web Site)    |           Ezen Construction Company            |
 | 2021.01 ~ 2021.07 |       Project       | The Booung Project<br />(PSG Notification Service)|                    PSG Team                    |
