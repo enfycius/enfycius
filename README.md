@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Enfycius&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Stay%20Hungry,%20Stay%20Foolish&descAlignY=55&descAlign=62)
 
-:wave: Hello, I'm JongHyeok Kim, an senior undergraduate student at Hanbat National University.
+:wave: Hello, I'm JongHyeok Kim, an senior undergraduate student at Hanbat National University in South Korea.
 
 Previously, I investigated deep learning at the ConstructionIT lab and at the department of basic science, Hanbat National University.
 
