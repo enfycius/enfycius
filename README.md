@@ -174,6 +174,13 @@ This is my dream space, future and space for only her ❤️.
 
 ---
 
+### :paperclip: Publications
+
+* Kim, J., Lee, S., Kim, M., & Na, J. (2023). Study on a Machine Learning-Based Water Level Prediction Model of Gapcheon Mannyeon Bridge for Lowland Flood Prevention. Journal of The Korean Society of Hazard Mitigation. (Expected)
+* Min, J., Yu, B., Kim, J., & Jeon, H. (2022). Development of Fender Segmentation System for Port Structures using Vision Sensor and Deep Learning. Journal of the Korea institute for structural maintenance and inspection, 26(2), 28-36.
+
+---
+
 ### :boom: Team Projects (PSG)
 
 #### [The Stellar Project](https://github.com/psgstellar/Stellar "The Stellar Project")
