@@ -76,7 +76,7 @@ This is my dream space, future and space for only her ❤️.
 
 > My timetable and plans for future can be found [here](https://enfycius.github.io/_enfycius/plans).
 
-#### :books: [CV](https://221.159.102.58:5001/d/s/u0Zlkc1DKRvl2zj6zhR4KfJawigqZmAC/chOPt9kqCBnASpPOCd8HRfnf0w9Ws2BE-B9CAXaNHkQo)
+#### :books: [CV](http://gofile.me/77sqf/r2NVYVCfl)
 
 #### 🎓 [Google Scholar](https://scholar.google.com/citations?user=6lUHV9sAAAAJ&hl=ko)
 
