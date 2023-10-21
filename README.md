@@ -32,7 +32,9 @@ Recently, I rejoined the previous ConstructionIT lab, where I am getting ready f
 
 If you're having trouble solving the problem, try the following, as I did.
 
-Originally, I used to take a walk when I had problems that were not solved or blocked, but recently, I have often driven with [my recently purchased car](./assets/images/my_car/).
+Originally, I used to take a walk when I had problems that were not solved or blocked, but recently, I have often driven with [my recently purchased car](./assets/images/my_car/)
+
+![My Car](./assets/images/my_car/my_car.png)
 
 > Taking a walk is the best solution for a healthy body and a healthy mind.
 
@@ -77,6 +79,10 @@ This is my dream space, future and space for only her ❤️.
 > My timetable and plans for future can be found [here](https://enfycius.github.io/_enfycius/plans).
 
 #### :books: [CV](http://gofile.me/77sqf/r2NVYVCfl)
+
+![CV](./assets/images/qr/cv.png)
+
+
 
 #### 🎓 [Google Scholar](https://scholar.google.com/citations?user=6lUHV9sAAAAJ&hl=ko)
 
