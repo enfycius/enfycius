@@ -202,11 +202,13 @@ This is my dream space, future and space for only her ❤️.
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 인공지능소프트웨어학과 학부과정, 한밭대학교 기계공학과 학부과정, <sup>3</sup> 한밭대학교 건설환경공학과 부교수
 
-> \* Both authors contributed equally to this work.
+> <sup>*</sup> Both authors contributed equally to this work.
 
 * Min, J.<sup>1</sup>, Yu, B.<sup>2</sup>, Kim, J.<sup>3</sup>, & Jeon, H.<sup>4*</sup> (2022). Development of Fender Segmentation System for Port Structures using Vision Sensor and Deep Learning. Journal of the Korea Institute for Structural Maintenance and Inspection, 26(2), 28-36.
 
-> <sup>1</sup> 한국건설기술연구원 구조연구본부 수석연구원, <sup>2</sup> (주)스트라드비전 연구원, <sup>3</sup> 한밭대학교 건설환경공학과 학부생, <sup>4</sup> 한밭대학교 건설환경공학과 부교수, <sup>*</sup> 교신저자: hjeon@hanbat.ac.kr
+> <sup>1</sup> 한국건설기술연구원 구조연구본부 수석연구원, <sup>2</sup> (주)스트라드비전 연구원, <sup>3</sup> 한밭대학교 건설환경공학과 학부생, <sup>4</sup> 한밭대학교 건설환경공학과 부교수
+
+> <sup>*</sup> 교신저자: hjeon@hanbat.ac.kr
 
 * Kim, J. <sup>1</sup> (2023, July). Walking Trails around S-Buildings. The Hanbat Herald. [https://www.hanbat.ac.kr/thumbnail/dwld/news/THE_HANBAT_HERALD_No.30.pdf](https://www.hanbat.ac.kr/thumbnail/dwld/news/THE_HANBAT_HERALD_No.30.pdf)
 
