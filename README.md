@@ -18,6 +18,16 @@ Recently, I rejoined the previous ConstructionIT lab, where I am getting ready f
 
 ---
 
+### :whale2: My First Job, LabIS
+
+![Labis](./assets/images/labis/team.JPG)
+
+> I have worked at LabIS as Back-End, AI Develeper until now.
+
+> Also, we have created an AI model that converts text into 3D, and we're currently developing a 2D AI model that modifies webtoon images.
+
+---
+
 ### :rose: Our Journey at Herald
 
 ![home](./assets/images/herald/home.jpeg)
@@ -103,7 +113,7 @@ This is my dream space, future and space for only her ❤️.
 | 2021.06.23 ~ 2021.09.09 |     Competition     |      Open Source Software Developer Competition   | [Open Source Software Support Center](https://www.oss.kr/) |
 | 2023.05.19 ~ 2023.05.21 |     Competition     |      Glitch Hackathon   | Trinity |
 |  2021.10 ~ 2022.09.10   |         Club        | Vice-chairman, [import(Coding Club)](https://import-hanbat.com/) |           Hanbat National University[<sup>1</sup>](#1)          |
-|     2023.03 ~     |         Club        | AI Developer, [Miracle](https://www.instagram.com/team_miracle_hbnu/) |           Hanbat National University[<sup>1</sup>](#1)          |
+|      2023.03 ~ 2023.10     |         Club        | AI Developer, [Miracle](https://www.instagram.com/team_miracle_hbnu/) |           Hanbat National University[<sup>1</sup>](#1)          |
 |  2023.03 ~ 2024.02   | On-Campus Activities | [소중한 봉사단 2기](http://www.ccnnews.co.kr/news/articleView.html?idxno=288342) |           Hanbat National University[<sup>1</sup>](#1)          |
 |  2023.03 ~ 2024.02   | On-Campus Activities | [Cub Reporter](/assets/images/herald/) |           [Hanbat Herald]((https://www.hanbat.ac.kr/news/index.do)), Hanbat National University[<sup>1</sup>](#1)          |
 |      2017.09      | External Activities |     Institute for Higher Education Innovation     |                Yonsei University               |
