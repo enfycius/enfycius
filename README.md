@@ -200,7 +200,7 @@ This is my dream space, future and space for only her ❤️.
 
 * Kim, J.<sup>1</sup>, Lee, S.<sup>2*</sup>, Kim, M.<sup>2*</sup>, & Na, J.<sup>3†</sup> (2023). Study on a Machine Learning-Based Water Level Prediction Model of Gapcheon Mannyeon Bridge for Lowland Flood Prevention. Journal of The Korean Society of Hazard Mitigation. (Expected)
 
-> <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 인공지능소프트웨어학과 학부과정, 한밭대학교 기계공학과 학부과정, <sup>3</sup> 한밭대학교 건설환경공학과 부교수
+> <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 인공지능소프트웨어학과 학부과정, 한밭대학교 기계공학과 학부과정, <sup>3</sup> 한밭대학교 창의융합학과 학부과정
 
 > <sup>*</sup> Both authors contributed equally to this work.
 
