@@ -194,7 +194,10 @@ This is my dream space, future and space for only her ❤️.
 
 ### :paperclip: Publications
 
-* Kim, J., & Jeon, H (2023). Multi-Directional Cement-Based Sensors with CNT@CIP Nanohybrids for Enhanced Sensing and Reliability. Journal of the Korea Institute for Structural Maintenance and Inspection. (Expected)
+* Kim, J.<sup>1</sup>, Bang, J.<sup>2</sup>, & Jeon, H.<sup>3†</sup> (2023). Multi-Directional Cement-Based Sensors with CNT@CIP Nanohybrids for Enhanced Sensing and Reliability. Journal of the Korea Institute for Structural Maintenance and Inspection. (Expected)
+
+> <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 충북대학교 토목공학부 박사과정, <sup>3</sup> 한밭대학교 건설환경공학과 부교수
+
 * Kim, J., Lee, S., Kim, M., & Na, J. (2023). Study on a Machine Learning-Based Water Level Prediction Model of Gapcheon Mannyeon Bridge for Lowland Flood Prevention. Journal of The Korean Society of Hazard Mitigation. (Expected)
 * Min, J., Yu, B., Kim, J., & Jeon, H. (2022). Development of Fender Segmentation System for Port Structures using Vision Sensor and Deep Learning. Journal of the Korea Institute for Structural Maintenance and Inspection, 26(2), 28-36.
 * Kim, J. (2023, July). Walking Trails around S-Buildings. The Hanbat Herald. [https://www.hanbat.ac.kr/thumbnail/dwld/news/THE_HANBAT_HERALD_No.30.pdf](https://www.hanbat.ac.kr/thumbnail/dwld/news/THE_HANBAT_HERALD_No.30.pdf)
