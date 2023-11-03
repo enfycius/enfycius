@@ -232,7 +232,7 @@ This is my dream space, future and space for only her ❤️.
 
 ![Contributor](https://img.shields.io/github/contributors/psgstellar/Stellar) ![Activity](https://img.shields.io/github/commit-activity/m/psgstellar/Stellar) ![Last](https://img.shields.io/github/last-commit/psgstellar/Stellar/development)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-style&logo=java&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-style&logo=openjdk&logoColor=white) 
 
 ![Spring](https://img.shields.io/badge/SPRING-white?style=flat-style&logo=spring&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
@@ -248,7 +248,7 @@ This is my dream space, future and space for only her ❤️.
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-style&logo=android&logoColor=white) 
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-style&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-style&logo=kotlin&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-style&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-style&logo=kotlin&logoColor=white) 
 
 ![SpringBoot](https://img.shields.io/badge/SPRING-BOOT-%ff1709?style=flat-style&logo=spring-boot&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![SpringREST](https://img.shields.io/badge/SPRINGBOOT-REST-ff1709?style=flat-style&logo=spring-boot&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
@@ -356,7 +356,7 @@ Techs that I've used at least once
 
 ![Stack](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Stack](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Stack](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Stack](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Stack](https://img.shields.io/badge/CSharp-1572B6?style=flat-square&logo=C%20Sharp&logoColor=white)
 ![Stack](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.NET&logoColor=white)
 
