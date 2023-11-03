@@ -242,7 +242,7 @@ This is my dream space, future and space for only her ❤️.
  
 ![Contributor](https://img.shields.io/github/contributors/enfycius/Candy) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/Candy) ![Last](https://img.shields.io/github/last-commit/enfycius/Candy/main)
 
-> 동기부여 교육 앱 (공개SW 개발자 대회 출품작)
+> 동기부여 교육 앱 (2021 공개SW 개발자 대회 출품작)
 
 ### :telescope: Lab Projects
 
