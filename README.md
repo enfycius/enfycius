@@ -289,6 +289,8 @@ This is my dream space, future and space for only her ❤️.
 - Sensor fusion and tracking
 - Development of construction robot based on ROS with various AI models
 
+> 지금 현재 한밭대학교 건설IT 연구실에서 위의 관심주제들로 연구중
+
 ---
 
 ### :hammer: Tech Stack
