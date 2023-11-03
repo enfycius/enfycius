@@ -232,13 +232,7 @@ This is my dream space, future and space for only her ❤️.
 
 ![Contributor](https://img.shields.io/github/contributors/psgstellar/Stellar) ![Activity](https://img.shields.io/github/commit-activity/m/psgstellar/Stellar) ![Last](https://img.shields.io/github/last-commit/psgstellar/Stellar/development)
 
-### :clubs: Club Studying (Import)
-
-#### [Studying MLDL](https://github.com/DoWuJo/MLDL "Studying MLDL")
-
-![Open](https://img.shields.io/github/issues/DoWuJo/MLDL) ![Close](https://img.shields.io/github/issues-closed/DoWuJo/MLDL) ![Open_P](https://img.shields.io/github/issues-pr/DoWuJo/MLDL) ![Close_P](https://img.shields.io/github/issues-pr-closed/DoWuJo/MLDL)
- 
-![Contributor](https://img.shields.io/github/contributors/DoWuJo/MLDL) ![Activity](https://img.shields.io/github/commit-activity/m/DoWuJo/MLDL) ![Last](https://img.shields.io/github/last-commit/DoWuJo/MLDL/main)
+> 스터디그룹 내 스터디원들의 1일 1커밋을 체크해주는 전자정부프레임워크 기반 프로젝트
 
 ### :boom: Competition Projects
 
@@ -248,6 +242,8 @@ This is my dream space, future and space for only her ❤️.
  
 ![Contributor](https://img.shields.io/github/contributors/enfycius/Candy) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/Candy) ![Last](https://img.shields.io/github/last-commit/enfycius/Candy/main)
 
+> 동기부여 교육 앱 (공개SW 개발자 대회 출품작)
+
 ### :telescope: Lab Projects
 
 #### [The Ulixes Project](https://github.com/enfycius/Ulixes "The Ulixes Project")
@@ -256,11 +252,15 @@ This is my dream space, future and space for only her ❤️.
  
 ![Contributor](https://img.shields.io/github/contributors/enfycius/Ulixes) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/Ulixes) ![Last](https://img.shields.io/github/last-commit/enfycius/Ulixes/development)
 
+> CNN 모델의 데이터셋 전처리(Preprocessing) 및 증분(Augmentation)을 위한 솔루션(Solution)
+
 #### [IoU For Darknet](https://github.com/enfycius/IoU-for-Darknet "IoU For Darknet")
 
 ![Open](https://img.shields.io/github/issues/enfycius/IoU-for-Darknet) ![Close](https://img.shields.io/github/issues-closed/enfycius/IoU-for-Darknet) ![Open_P](https://img.shields.io/github/issues-pr/enfycius/IoU-for-Darknet) ![Close_P](https://img.shields.io/github/issues-pr-closed/enfycius/IoU-for-Darknet) 
  
 ![Contributor](https://img.shields.io/github/contributors/enfycius/IoU-for-Darknet) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/IoU-for-Darknet) ![Last](https://img.shields.io/github/last-commit/enfycius/IoU-for-Darknet/development)
+
+> Darknet의 IoU를 계산해주는 프로젝트
 
 ### :fire: Side Projects
 
@@ -270,7 +270,15 @@ This is my dream space, future and space for only her ❤️.
  
 ![Contributor](https://img.shields.io/github/contributors/enfycius/The-Quick-Project) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/The-Quick-Project) ![Last](https://img.shields.io/github/last-commit/enfycius/The-Quick-Project/main)
 
-#### The Zeus Project (Private)
+> 기존에 학습된 모델을 기반으로 구글에서 이미지들을 크롤링(Crawling)한 다음, 이를 클래스별로 자동으로 폴더를 생성하여 이미지들을 분류해주는 솔루션(Solution)
+
+#### [The Tom Project](https://github.com/enfycius/Tom "The Tom Project")
+
+![Open](https://img.shields.io/github/issues/enfycius/Tom) ![Close](https://img.shields.io/github/issues-closed/enfycius/Tom) ![Open_P](https://img.shields.io/github/issues-pr/enfycius/Tom) ![Close_P](https://img.shields.io/github/issues-pr-closed/enfycius/Tom)
+ 
+![Contributor](https://img.shields.io/github/contributors/enfycius/Tom) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/Tom) ![Last](https://img.shields.io/github/last-commit/enfycius/Tom/main)
+
+> Docu-Notion을 통해 노션 to 폴더로 마크다운 파일을 생성 및 이를 이동시키는 것에서 더 나아가, Github으로 커밋(Commit) 및 푸쉬(Push)를 자동으로 해주는 솔루션(Solution)
 
 ---
 
