@@ -111,7 +111,13 @@ This is my dream space, future and space for only her ❤️.
 |     2022.11.25    |        Award        |                  Excellence Prize                 |           Hanbat National University           |
 |     2022.11.25    |        Award        |                  Excellence Prize                 |           Hanbat National University           |
 | 2021.06.23 ~ 2021.09.09 |     Competition     |      Open Source Software Developer Competition   | [Open Source Software Support Center](https://www.oss.kr/) |
+| 2021.10.25 ~ 2023.12.21 |     Competition     |      Data Analytics Competition 2021   | Hanbat National University |
+| 2021.12 |     Competition     |      Capstone Design Competition 2021   | Hanbat National University |
+| 2022.06 ~ 2022.08 |     Competition     |      The 13th National Land Development Technology Competition   | Korea Land&Housing Corporation |
+| 2022.11 |     Competition     |      Capstone Design Competition 2022   | Hanbat National University |
 | 2023.05.19 ~ 2023.05.21 |     Competition     |      Glitch Hackathon   | Trinity |
+| 2023.07 ~ 2023.09 |     Competition     |      The 14th National Land Development Technology Competition   | Korea Land&Housing Corporation |
+| 2023.10.04 ~ 2023.11.22 |     Competition     |      Data Analytics Competition 2023   | Hanbat National University |
 |  2021.10 ~ 2022.09.10   |         Club        | Vice-chairman, [import(Coding Club)](https://import-hanbat.com/) |           Hanbat National University[<sup>1</sup>](#1)          |
 |      2023.03 ~ 2023.10     |         Club        | AI Developer, [Miracle](https://www.instagram.com/team_miracle_hbnu/) |           Hanbat National University[<sup>1</sup>](#1)          |
 |  2023.03 ~ 2024.02   | On-Campus Activities | [소중한 봉사단 2기](http://www.ccnnews.co.kr/news/articleView.html?idxno=288342) |           Hanbat National University[<sup>1</sup>](#1)          |
