@@ -86,6 +86,8 @@ This is my dream space, future and space for only her ❤️.
 
 Congratulations! My tutor-**Taewan Ko** and **Junhee Kim** won the bronze award in [Korea Code Fair Competitions](https://kcf.or.kr/notice/?uid=6046&mod=document).
 
+> Your hard work has paid off. Keep up the good work to get into the high school of your choice!
+
 ---
 
 ### :memo: References
