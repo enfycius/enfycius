@@ -82,6 +82,12 @@ This is my dream space, future and space for only her ❤️.
 
 ---
 
+### :newspaper_roll: Announcements
+
+Congratulations! My tutor-**Taewan Ko** and **Junhee Kim** won the bronze award in [Korea Code Fair Competitions](https://kcf.or.kr/notice/?uid=6046&mod=document).
+
+---
+
 ### :memo: References
 
 > My timeline can be found [here](https://enfycius.github.io/_enfycius/timeline).
