@@ -200,7 +200,7 @@ This is my dream space, future and space for only her ❤️.
 
 ### :paperclip: Publications
 
-* Kim, J.<sup>1</sup>, Bang, J.<sup>2</sup>, & Jeon, H.<sup>3†</sup> (2023). Multi-Directional Cement-Based Sensors with CNT@CIP Nanohybrids for Enhanced Sensing and Reliability. Journal of the Korea Institute for Structural Maintenance and Inspection. (Expected)
+* Kim, J.<sup>1</sup>, Bang, J.<sup>2</sup>, & Jeon, H.<sup>3†</sup> (2023). Multi-Directional Cement-Based Sensors with CNT@CIP Nanohybrids for Enhanced Sensing and Reliability. Journal of the Korea Institute for Structural Maintenance and Inspection. (2024.02)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 충북대학교 토목공학부 박사과정, <sup>3</sup> 한밭대학교 건설환경공학과 부교수
 
