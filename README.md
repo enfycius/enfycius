@@ -88,6 +88,10 @@ Congratulations! My tutor-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 > Your hard work has paid off. Keep up the good work to get into the high school of your choice!
 
+My tutor, **Taewan Ko** officially started working as an Android app developer at OwnLab since November 8, 2023.
+
+> I sincerely hope it's a good experience for you.
+
 ---
 
 ### :memo: References
