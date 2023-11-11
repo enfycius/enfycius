@@ -216,6 +216,8 @@ My tutor, **Taewan Ko** officially started working as an Android app developer a
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 충북대학교 토목공학부 박사과정, <sup>3</sup> 한밭대학교 건설환경공학과 부교수
 
+> <sup>†</sup> Corresponding author: hjeon@hanbat.ac.kr
+
 * Kim, J.<sup>1</sup>, Lee, S.<sup>2*</sup>, Kim, M.<sup>2*</sup>, & Na, J.<sup>3†</sup> (2023). Study on a Machine Learning-Based Water Level Prediction Model of Gapcheon Mannyeon Bridge for Lowland Flood Prevention. Journal of The Korean Society of Hazard Mitigation. (Expected)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 인공지능소프트웨어학과 학부과정, 한밭대학교 기계공학과 학부과정, <sup>3</sup> 한밭대학교 창의융합학과 학부과정
@@ -230,9 +232,11 @@ My tutor, **Taewan Ko** officially started working as an Android app developer a
 
 > <sup>*</sup> Corresponding author: hjeon@hanbat.ac.kr
 
-* Kim, J. <sup>1</sup> (2023, July). Walking Trails around S-Buildings. The Hanbat Herald. [https://www.hanbat.ac.kr/thumbnail/dwld/news/THE_HANBAT_HERALD_No.30.pdf](https://www.hanbat.ac.kr/thumbnail/dwld/news/THE_HANBAT_HERALD_No.30.pdf) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* Kim, J. <sup>1†</sup> (2023, July). Walking Trails around S-Buildings. The Hanbat Herald. [https://www.hanbat.ac.kr/thumbnail/dwld/news/THE_HANBAT_HERALD_No.30.pdf](https://www.hanbat.ac.kr/thumbnail/dwld/news/THE_HANBAT_HERALD_No.30.pdf) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정
+> 
+> <sup>†</sup> Corresponding author: 20201967@edu.hanbat.ac.kr
 
 ---
 
