@@ -212,7 +212,7 @@ My tutor, **Taewan Ko** officially started working as an Android app developer a
 
 ### :paperclip: Publications
 
-* Kim, J.<sup>1</sup>, Bang, J.<sup>2</sup>, & Jeon, H.<sup>3†</sup> (2023). Multi-Directional Cement-Based Sensors with CNT@CIP Nanohybrids for Enhanced Sensing and Reliability. Journal of the Korea Institute for Structural Maintenance and Inspection. (2024.02)
+* Kim, J.<sup>1</sup>, Bang, J.<sup>2</sup>, & Jeon, H.<sup>3†</sup> (2023). Multi-Directional Cement-Based Sensors with CNT@CIP Nanohybrids for Enhanced Sensing and Reliability. Journal of the Korea Institute for Structural Maintenance and Inspection. (2024.02) ![Accepted](https://img.shields.io/badge/Accepted-%ff1709?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 충북대학교 토목공학부 박사과정, <sup>3</sup> 한밭대학교 건설환경공학과 부교수
 
