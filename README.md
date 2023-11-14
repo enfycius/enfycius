@@ -129,7 +129,7 @@ My tutor, **Taewan Ko** officially started working as an Android app developer a
 | 2022.11 |     Competition     |      Capstone Design Competition 2022   | Hanbat National University |
 | 2023.05.19 ~ 2023.05.21 |     Competition     |      Glitch Hackathon   | Trinity |
 | 2023.07 ~ 2023.09 |     Competition     |      The 14th National Land Development Technology Competition   | Korea Land&Housing Corporation |
-| 2023.10.04 ~ 2023.11.22 |     Competition     |      Data Analytics Competition 2023   | Hanbat National University |
+| 2023.10.04 ~ 2023.11.22 |     Competition     |      [Data Analytics Competition 2023](https://github.com/enfycius/Miri-Su/blob/main/assets/pdfs/Flood%20Guardians%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_v9.pdf)   | Hanbat National University |
 |  2021.10 ~ 2022.09.10   |         Club        | Vice-chairman, [import(Coding Club)](https://import-hanbat.com/) |           Hanbat National University[<sup>1</sup>](#1)          |
 |      2023.03 ~ 2023.10     |         Club        | AI Developer, [Miracle](https://www.instagram.com/team_miracle_hbnu/) |           Hanbat National University[<sup>1</sup>](#1)          |
 |  2023.03 ~ 2024.02   | On-Campus Activities | [소중한 봉사단 2기](http://www.ccnnews.co.kr/news/articleView.html?idxno=288342) |           Hanbat National University[<sup>1</sup>](#1)          |
