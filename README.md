@@ -16,6 +16,8 @@ Recently, I rejoined the previous ConstructionIT lab, where I am getting ready f
 
 > Teaching is the beginning of enlightenment !
 
+These days I'm hosting a live broadcast on [my YouTube channel](https://www.youtube.com/@psg1787) titled "스터디윗미(Study with me)(Civil Engineering & Mathematics & Coding)".
+
 ---
 
 ### :whale2: My First Job, LabIS
