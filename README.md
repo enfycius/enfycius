@@ -40,6 +40,18 @@ These days I'm hosting a live broadcast on [my YouTube channel](https://www.yout
 
 ---
 
+### :guardsman: We are the Guardians Team
+
+![Guardians](./assets/guardians/../images/guardians/Guardians.png)
+
+We are the Guardians Team that help each other out, collaborate, and move forward.
+
+Our journey has just begun, and with every step we take, we want to enrich the past and prepare for the future.
+
+Being composed of different majors allows us to look at what we are trying to do from different perspectives, which we believe will play to our strengths.
+
+---
+
 ### 💡 Tip
 
 If you're having trouble solving the problem, try the following, as I did.
