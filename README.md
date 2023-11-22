@@ -505,7 +505,7 @@ Techs that I've used at least once
 
 ### :seedling: Github Status
 
-![Enfycius's Github Stats](https://github-readme-stats.vercel.app/api?username=enfycius&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)
+![Enfycius's Github Stats](https://github-readme-stats.vercel.app/api?username=enfycius&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
 
 ---
 
