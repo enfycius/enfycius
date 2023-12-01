@@ -373,9 +373,11 @@ My tutor, **Taewan Ko** officially started working as an Android app developer a
 - ConstructionIT
 - Applications of computer vision and machine learning 
 - Sensor fusion and tracking
+- Stereo vision
+- Depth estimation
 - Development of construction robot based on ROS with various AI models
 - Automation
-- Image Stitching based on AR
+- Image stitching based on AR
 
 > 지금 현재 한밭대학교 건설IT 연구실에서 위의 관심주제들로 연구중
 
