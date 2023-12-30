@@ -268,9 +268,9 @@ My tutor, **Taewan Ko** officially started working as an Android app developer a
 
 ![Contributor](https://img.shields.io/github/contributors/psgstellar/Stellar) ![Activity](https://img.shields.io/github/commit-activity/m/psgstellar/Stellar) ![Last](https://img.shields.io/github/last-commit/psgstellar/Stellar/development)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-style&logo=openjdk&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-style&logo=openjdk&logoColor=white) 
 
-![Spring](https://img.shields.io/badge/SPRING-white?style=flat-style&logo=spring&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+![Spring](https://img.shields.io/badge/Spring-white?style=flat-style&logo=spring&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > 스터디그룹 내 스터디원들의 1일 1커밋을 체크해주는 전자정부프레임워크 기반 프로젝트
 
@@ -284,9 +284,9 @@ My tutor, **Taewan Ko** officially started working as an Android app developer a
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-style&logo=android&logoColor=white) 
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-style&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-style&logo=kotlin&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-style&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-style&logo=kotlin&logoColor=white) 
 
-![SpringBoot](https://img.shields.io/badge/SPRING-BOOT-%ff1709?style=flat-style&logo=spring-boot&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![SpringREST](https://img.shields.io/badge/SPRINGBOOT-REST-ff1709?style=flat-style&logo=spring-boot&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+![SpringBoot](https://img.shields.io/badge/Spring-Boot-%ff1709?style=flat-style&logo=spring-boot&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![SpringREST](https://img.shields.io/badge/SpringBoot-REST-ff1709?style=flat-style&logo=spring-boot&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 
 > 동기부여 교육 앱 (2021 공개SW 개발자 대회 출품작)
@@ -299,9 +299,9 @@ My tutor, **Taewan Ko** officially started working as an Android app developer a
  
 ![Contributor](https://img.shields.io/github/contributors/enfycius/Ulixes) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/Ulixes) ![Last](https://img.shields.io/github/last-commit/enfycius/Ulixes/development)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-style&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-style&logo=python&logoColor=ffdd54) 
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-style&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-style&logo=numpy&logoColor=white)
 
 > CNN 모델의 데이터셋 전처리(Preprocessing) 및 증분(Augmentation)을 위한 솔루션(Solution)
 
@@ -311,9 +311,9 @@ My tutor, **Taewan Ko** officially started working as an Android app developer a
  
 ![Contributor](https://img.shields.io/github/contributors/enfycius/IoU-for-Darknet) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/IoU-for-Darknet) ![Last](https://img.shields.io/github/last-commit/enfycius/IoU-for-Darknet/development)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-style&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-style&logo=python&logoColor=ffdd54) 
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-style&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-style&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-style&logo=Matplotlib&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23013243.svg?style=flat-style&logo=opencv&logoColor=#5C3EE8) ![Pillow](https://img.shields.io/badge/Pillow-%23ffffff.svg?style=flat-style&logo=Pillow&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-style&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-style&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-style&logo=Matplotlib&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-%23013243.svg?style=flat-style&logo=opencv&logoColor=#5C3EE8) ![Pillow](https://img.shields.io/badge/Pillow-%23ffffff.svg?style=flat-style&logo=Pillow&logoColor=black)
 
 
 > Darknet의 IoU를 계산해주는 프로젝트
@@ -326,14 +326,13 @@ My tutor, **Taewan Ko** officially started working as an Android app developer a
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-style&logo=ios&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-style&logo=android&logoColor=white) 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-style&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-style&logo=swift&logoColor=white)   ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-style&logo=kotlin&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-style&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-style&logo=swift&logoColor=white)   ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-style&logo=kotlin&logoColor=white) 
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-style&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-style&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-style&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-style&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-style&logo=scikit-learn&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-style&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-style&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-style&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-style&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-style&logo=scikit-learn&logoColor=white) 
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-style&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-style&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-style&logo=mariadb&logoColor=white) 
+![Django](https://img.shields.io/badge/Django--%ff1709.svg?style=flat-style&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/Django-REST-ff1709?style=flat-style&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
-
-
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-style&logo=mariadb&logoColor=white) 
 
 > 대전광역시 유성구에 위치한 5개 지점의 교량들의 수위 예측 모델에 대한 연구 및 이에 대한 iOS 및 Android 기반 어플리케이션 개발
 
@@ -355,16 +354,45 @@ My tutor, **Taewan Ko** officially started working as an Android app developer a
  
 ![Contributor](https://img.shields.io/github/contributors/enfycius/Tom) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/Tom) ![Last](https://img.shields.io/github/last-commit/enfycius/Tom/develop)
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-style&logo=ubuntu&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-style&logo=ios&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-style&logo=ubuntu&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-style&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/Github-181717?style=flat-style&logo=github&logoColor=white)
 
 ![Github Pages](https://img.shields.io/badge/Github%20Pages-ffffff?style=flat-style&logo=githubpages&logoColor=black)
 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-style&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-style&logo=javascript&logoColor=#F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat-style&logo=typescript&logoColor=#3178C6)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-style&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-style&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-style&logo=javascript&logoColor=#F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat-style&logo=typescript&logoColor=#3178C6)
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-style&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-style&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Bash](https://img.shields.io/badge/bash-black.svg?style=flat-style&logo=gnubash&logoColor=#4EAA25)
+![Bash](https://img.shields.io/badge/Bash-black.svg?style=flat-style&logo=gnubash&logoColor=#4EAA25)
+
+![Django](https://img.shields.io/badge/Django--%ff1709.svg?style=flat-style&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/Django-REST-ff1709?style=flat-style&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+
 
 > Docu-Notion을 통해 노션 to 폴더로 마크다운 파일을 생성 및 이를 이동시키는 것에서 더 나아가, Github으로 커밋(Commit) 및 푸쉬(Push)를 자동으로 해주는 솔루션(Solution)
+
+### 🏖️ Outsourcing Projects
+
+#### [알바HR (알바하리)](https://github.com/enfycius/OwnLab-AClient "알바HR") 
+
+![Open](https://img.shields.io/github/issues/enfycius/OwnLab-AClient) ![Close](https://img.shields.io/github/issues-closed/enfycius/OwnLab-AClient) ![Open_P](https://img.shields.io/github/issues-pr/enfycius/OwnLab-AClient) ![Close_P](https://img.shields.io/github/issues-pr-closed/enfycius/OwnLab-AClient)
+ 
+![Contributor](https://img.shields.io/github/contributors/enfycius/OwnLab-AClient) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/OwnLab-AClient) ![Last](https://img.shields.io/github/last-commit/enfycius/OwnLab-AClient/develop)
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-style&logo=android&logoColor=white) 
+
+![Amazon EC2](https://img.shields.io/badge/Amazon-EC2-FF9900?style=flat-style&logo=amazon-ec2&logoColor=FF9900) ![Amazon S3](https://img.shields.io/badge/Amazon-S3-569A31?style=flat-style&logo=amazon-s3&logoColor=569A31) ![Amazon RDS](https://img.shields.io/badge/Amazon-RDS-527FFF?style=flat-style&logo=amazon-rds&logoColor=527FFF) 
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-style&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/Github-181717?style=flat-style&logo=github&logoColor=white)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-FFFFFF?style=flat-style&logo=kotlin&logoColor=#7F52FF) ![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat-style&logo=python&logoColor=3776AB)
+
+![Flask](https://img.shields.io/badge/Flask--%ff1709?style=flat-style&logo=flask&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![FlaskREST](https://img.shields.io/badge/Flask-REST-ff1709?style=flat-style&logo=flask&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=flat-style&logo=mysql&logoColor=4479A1)
+
+> 내 주변에 일 정말 잘하는 친구를 뽑고 싶을때? 알바HR! 
+
+> 내 알바경험으로 스펙까지 만들어주는 서비스 알바HR!
 
 ---
 
