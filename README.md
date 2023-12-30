@@ -374,6 +374,8 @@ My tutor, **Taewan Ko** officially started working as an Android app developer a
 
 #### [알바HR (알바하리)](https://github.com/enfycius/OwnLab-AClient "알바HR") 
 
+##### Total amount: ₩ 7,200K
+
 ![Open](https://img.shields.io/github/issues/enfycius/OwnLab-AClient) ![Close](https://img.shields.io/github/issues-closed/enfycius/OwnLab-AClient) ![Open_P](https://img.shields.io/github/issues-pr/enfycius/OwnLab-AClient) ![Close_P](https://img.shields.io/github/issues-pr-closed/enfycius/OwnLab-AClient)
  
 ![Contributor](https://img.shields.io/github/contributors/enfycius/OwnLab-AClient) ![Activity](https://img.shields.io/github/commit-activity/m/enfycius/OwnLab-AClient) ![Last](https://img.shields.io/github/last-commit/enfycius/OwnLab-AClient/develop)
