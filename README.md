@@ -396,6 +396,8 @@ My tutor, **Taewan Ko** officially started working as an Android app developer a
 
 > 내 알바경험으로 스펙까지 만들어주는 서비스 알바HR!
 
+> 알바HR [Google Play](https://play.google.com/store/apps/details?id=com.ownlab.ownlab_client) 출시 (24.01.02)
+
 ---
 
 ### :star: Interests
