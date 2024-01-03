@@ -232,13 +232,13 @@ My tutor, **Taewan Ko** officially started working as an Android app developer a
 
 ### :paperclip: Publications
 
-* Kim, J.<sup>1</sup>, Bang, J.<sup>2</sup>, & Jeon, H.<sup>3†</sup> (2023). Multi-Directional Cement-Based Sensors with CNT@CIP Nanohybrids for Enhanced Sensing and Reliability. Journal of the Korea Institute for Structural Maintenance and Inspection. (2024.02) ![Accepted](https://img.shields.io/badge/Accepted-%ff1709?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* Kim, J.<sup>1</sup>, Bang, J.<sup>2</sup>, & Jeon, H.<sup>3†</sup> (2023). [Multi-Directional Cement-Based Sensors with CNT@CIP Nanohybrids for Enhanced Sensing and Reliability.](https://www.jcoseik.or.kr/articles/article/0L17/) Journal of the Computational Structural Engineering Institute of Korea. (2024.02) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 충북대학교 토목공학부 박사과정, <sup>3</sup> 한밭대학교 건설환경공학과 부교수
 
 > <sup>†</sup> Corresponding author: hjeon@hanbat.ac.kr
 
-* Kim, J.<sup>1</sup>, Lee, S.<sup>2*</sup>, Kim, M.<sup>2*</sup>, & Na, J.<sup>3†</sup> (2023). Study on a Machine Learning-Based Water Level Prediction Model of Gapcheon Mannyeon Bridge for Lowland Flood Prevention. Journal of The Korean Society of Hazard Mitigation. (Expected)
+* Kim, J.<sup>1</sup>, Lee, S.<sup>2*</sup>, Kim, M.<sup>2*</sup>, & Na, J.<sup>3†</sup> (2023). Study on a Machine Learning-Based Water Level Prediction Model of Gapcheon Mannyeon Bridge for Lowland Flood Prevention. Journal of The Korean Society of Hazard Mitigation. ![Expected](https://img.shields.io/badge/Expected-C71585?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 인공지능소프트웨어학과 학부과정, 한밭대학교 기계공학과 학부과정, <sup>3</sup> 한밭대학교 창의융합학과 학부과정
 
@@ -246,7 +246,7 @@ My tutor, **Taewan Ko** officially started working as an Android app developer a
 
 > <sup>†</sup> Corresponding author: najyeol99@gmail.com
 
-* Min, J.<sup>1</sup>, Yu, B.<sup>2</sup>, Kim, J.<sup>3</sup>, & Jeon, H.<sup>4*</sup> (2022). Development of Fender Segmentation System for Port Structures using Vision Sensor and Deep Learning. Journal of the Korea Institute for Structural Maintenance and Inspection, 26(2), 28-36. ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* Min, J.<sup>1</sup>, Yu, B.<sup>2</sup>, Kim, J.<sup>3</sup>, & Jeon, H.<sup>4*</sup> (2022). [Development of Fender Segmentation System for Port Structures using Vision Sensor and Deep Learning.](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) Journal of the Korea Institute for Structural Maintenance and Inspection, 26(2), 28-36. ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한국건설기술연구원 구조연구본부 수석연구원, <sup>2</sup> (주)스트라드비전 연구원, <sup>3</sup> 한밭대학교 건설환경공학과 학부생, <sup>4</sup> 한밭대학교 건설환경공학과 부교수
 
