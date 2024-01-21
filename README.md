@@ -246,7 +246,7 @@ My tutor, **Taewan Ko** officially started working as an Android app developer a
 
 > <sup>†</sup> Corresponding author: najyeol99@gmail.com
 
-* Min, J.<sup>1</sup>, Yu, B.<sup>2</sup>, Kim, J.<sup>3</sup>, & Jeon, H.<sup>4*</sup> (2022). [Development of Fender Segmentation System for Port Structures using Vision Sensor and Deep Learning.](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) Journal of the Korea Institute for Structural `Maintenance and Inspection, 26(2), 28-36. ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* Min, J.<sup>1</sup>, Yu, B.<sup>2</sup>, Kim, J.<sup>3</sup>, & Jeon, H.<sup>4*</sup> (2022). [Development of Fender Segmentation System for Port Structures using Vision Sensor and Deep Learning.](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) Journal of the Korea Institute for Structural Maintenance and Inspection, 26(2), 28-36. ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한국건설기술연구원 구조연구본부 수석연구원, <sup>2</sup> (주)스트라드비전 연구원, <sup>3</sup> 한밭대학교 건설환경공학과 학부생, <sup>4</sup> 한밭대학교 건설환경공학과 부교수
 
