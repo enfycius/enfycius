@@ -112,6 +112,10 @@ My tutor, **Taewan Ko** officially started working as an Android app developer a
 
 > I sincerely hope it's a good experience for you.
 
+My tutor, **Daniel Son**, lives in Southern California, USA, and his sister is also taking my class, officially started working as an Android app developer at OwnLab since January 22, 2024.
+
+> I sincerely hope it's a good experience for you.
+
 ---
 
 ### :memo: References
