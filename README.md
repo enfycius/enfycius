@@ -169,7 +169,7 @@ My tutor, **Daniel Son**, lives in Southern California, USA, and his sister is a
 | 2020.10 ~ 2021.02 |   Team Activities   |               Leader, APPSILON Team               |                       N/A                      |
 |     2021.02 ~     |   Team Activities   | Researcher, [Dropper Lab](https://dropper.tech)   |                    Halliance                   |
 | 2021.02 ~ 2021.07 |   Team Activities   |               App Developer, 과제 다했니             |                    과제 다했니                    |
-|     2022.01 ~     |   Start-up, Club    |                    나만의 알바, CTO                  | Hanbat National University Start-up Support Foundation[<sup>2</sup>](#2), [KOSME](https://start.kosmes.or.kr/yh_mai001_001.do) |
+|     2022.01 ~     |   Start-up, Club    |                    OwnLab, CTO                  | Hanbat National University Start-up Support Foundation[<sup>2</sup>](#2), [KOSME](https://start.kosmes.or.kr/yh_mai001_001.do) |
 |     2022.01 ~     |       Start-up      |                  Developer, [LABis](https://www.saramin.co.kr/zf_user/company-info/view?csn=eWUwRXJzSm02Sm5OMUZISDFNbXVsQT09)                 | UNIST[<sup>3</sup>](#3), [KOSME](https://start.kosmes.or.kr/yh_mai001_001.do) |
 | 2023.03 |   Work Experience   |                  Lecturer (C, Python, SQL)                 | [Hyosung Computer Academy](https://comgopa.co.kr/)[<sup>4</sup>](#4) |
 |     2023.03 ~     |   Work Experience   |                  Lecturer (C, Python, C++, Java) (₩ 15K ~ 30K per Hour)                 | N/A |
