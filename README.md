@@ -157,7 +157,7 @@ My tutor, **Daniel Son**, lives in Southern California, USA, and his sister is a
 |  2021.10 ~ 2022.09.10   |         Club        | Vice-chairman, [import(Coding Club)](https://import-hanbat.com/) |           Hanbat National University[<sup>1</sup>](#1)          |
 |      2023.03 ~ 2023.10     |         Club        | AI Developer, [Miracle](https://www.instagram.com/team_miracle_hbnu/) |           Hanbat National University[<sup>1</sup>](#1)          |
 |  2023.03 ~ 2024.02   | On-Campus Activities | [소중한 봉사단 2기](http://www.ccnnews.co.kr/news/articleView.html?idxno=288342) |           Hanbat National University[<sup>1</sup>](#1)          |
-|  2023.03 ~ 2024.02   | On-Campus Activities | [Cub Reporter](/assets/images/herald/) |           [Hanbat Herald]((https://www.hanbat.ac.kr/news/index.do)), Hanbat National University[<sup>1</sup>](#1)          |
+|  2023.03 ~ 2024.01   | On-Campus Activities | [Cub Reporter](/assets/images/herald/) |           [Hanbat Herald]((https://www.hanbat.ac.kr/news/index.do)), Hanbat National University[<sup>1</sup>](#1)          |
 |      2017.09      | External Activities |     Institute for Higher Education Innovation     |                Yonsei University               |
 | 2020.05 ~ 2020.12 | External Activities |                     Translator                    |                    JavaTPoint                  |
 |     2022.05 ~      | External Activities |     One Week One Blog Post     |                Non-Profit Organization               |
@@ -199,7 +199,8 @@ My tutor, **Daniel Son**, lives in Southern California, USA, and his sister is a
 | 2022.06 ~ 2023.01 | Research Activities | Laboratory Leader | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
 |     2023.01 ~     | Research Activities | Supporter, Developer | Hydraulic and Ecology-Environment Lab, Hanbat Nat'l Univ.[<sup>7</sup>](#7) |
 | 2022.04 | Papers | [Development of Fender Segmentation System for Port Structures using Vision Sensor and Deep Learning](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) | Journal of the Korea Institute for Structural Maintenance and Inspection[<sup>8</sup>](#8) |
-| 2022.11 | [Posters](https://www.coseik.or.kr/boards/notice/28995/detail/news/notice/)[<sup>9</sup>](#9) | [Development of a Construction Robot for Evaluation of Assembly Performance of Modular Steel Structures](./assets/images/poster.JPG) | Journal of the Computational Structural Engineering Institute of Korea[<sup>10</sup>](#10) |
+| 2023.12 | Papers | [Analysis of Piezoresistive Properties of Cement Composites with Fly Ash and Carbon Nanotubes Using Transformer Algorithm](https://www.jcoseik.or.kr/articles/article/0L17/) | Journal of the Computational Structural Engineering Institute of Korea[<sup>9</sup>](#9) |
+| 2022.11 | [Posters](https://www.coseik.or.kr/boards/notice/28995/detail/news/notice/)[<sup>9</sup>](#10) | [Development of a Construction Robot for Evaluation of Assembly Performance of Modular Steel Structures](./assets/images/poster.JPG) | Journal of the Computational Structural Engineering Institute of Korea[<sup>9</sup>](#9) |
 | 2021.03.22 ~ 2021.06.17 | Extracurricular Activities | Math Assistant | Nomad College, Hanbat Nat'l Univ. |  
 
 > <a id="1">[1]</a> Room 216, S12, 125, Dongseo-daero, Yuseong-gu, Daejeon, 34158, Republic of Korea
@@ -218,9 +219,9 @@ My tutor, **Daniel Son**, lives in Southern California, USA, and his sister is a
 
 > <a id="8">[8]</a> Room 505, 15, Beobwon-ro 2-gil, Seocho-gu, Seoul, Republic of Korea
 
-> <a id="9">[9]</a> Tower B. B1F, 1153, Misiryeongyet-gil, Toseong-myeon, Goseong-gun, Gangwon-do, Republic of Korea
+> <a id="9">[9]</a> Room 808, Building 1 of the Korea Science and Technology Center, 22, Teheran-ro 7-gil, Gangnam-gu, Seoul
 
-> <a id="10">[10]</a> Room 808, Building 1 of the Korea Science and Technology Center, 22, Teheran-ro 7-gil, Gangnam-gu, Seoul
+> <a id="10">[10]</a> Tower B. B1F, 1153, Misiryeongyet-gil, Toseong-myeon, Goseong-gun, Gangwon-do, Republic of Korea
 
 ---
 
