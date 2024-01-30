@@ -124,7 +124,7 @@ My tutor, **Daniel Son**, lives in Southern California, USA, and his sister is a
 
 > My timetable and plans for future can be found [here](https://enfycius.github.io/_enfycius/plans).
 
-#### :books: [CV](http://gofile.me/77sqf/r2NVYVCfl)
+#### :books: [CV](http://gofile.me/77sqf/HsiXp3mNV)
 
 ![CV](./assets/images/qr/cv.png)
 
