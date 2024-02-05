@@ -401,6 +401,8 @@ My tutor, **Daniel Son**, lives in Southern California, USA, and his sister is a
 
 > 내 알바경험으로 스펙까지 만들어주는 서비스 알바HR!
 
+> 알바HR 공식 사이트 [Official Website](https://albahr.co.kr) 오픈 (24.02.05)
+
 > 알바HR [Google Play](https://play.google.com/store/apps/details?id=com.ownlab.ownlab_client) 출시 (24.01.02)
 
 ---
