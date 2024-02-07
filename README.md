@@ -554,7 +554,7 @@ Techs that I've used at least once
 
 ### :seedling: Github Status
 
-![Enfycius's Github Stats](http://youhyeok.com:3000/?username=enfycius&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
+![Enfycius's Github Stats](https://youhyeok.com:3001/badge?username=enfycius&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
 
 ---
 
