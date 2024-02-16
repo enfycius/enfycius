@@ -6,9 +6,9 @@
 
 <p align="center"> The Symbol of ENFYCIUS</p>
 
-:wave: Hello, I'm JongHyeok Kim, an senior undergraduate student at Hanbat National University in South Korea.
+:wave: Hello, I'm JongHyeok Kim, and I majored in Civil and Environmental Engineering at Hanbat National University in South Korea.
 
-Previously, I investigated deep learning at the ConstructionIT lab and at the department of basic science, Hanbat National University.
+I've been researching deep learning at the ConstructionIT lab and previously researched it at the Department of Basic Science, Hanbat National University.
 
 Especially, based on deep learning, in the former lab, we'd been conducting research to detect extent of damage to the mooring facility until early 2023. As well as, as part of that research, I developed a ROS-based construction robot to perform such tasks in 2022. In the latter lab, An inverse problem, in science, is the process of calculating from a set of observations the causal factors that produced them, was selected as the topic of our research and we were studying it using **Deep Neural Network (DNN)** for about a year and a half. Even though it didn't result in any tangible breakthroughs, it was a rare glimpse into the intersection of artificial intelligence and math.
 
@@ -104,17 +104,35 @@ This is my dream space, future and space for only her ❤️.
 
 ### :newspaper_roll: Announcements
 
-Congratulations! My tutor-**Taewan Ko** and **Junhee Kim** won the bronze award in [Korea Code Fair Competitions](https://kcf.or.kr/notice/?uid=6046&mod=document).
+I graduated from Hanbat National University on February 16, 2024, with a degree in Civil and Environmental Engineering, summa cum laude.
 
-> Your hard work has paid off. Keep up the good work to get into the high school of your choice!
+> My school life at Hanbat National University has been enjoyable throughout, and I have learned a lot of different things, which are my most precious memories.
+
+![Graduation](./assets/images/graduation/herald.jpeg)
+
+> Photo with friends from the Herald, the English-language newspaper of Hanbat National University.
+
+![Graduation with Myeong-gyu](./assets/images/graduation/graduation.JPG)
+
+> Photo with Myeong-gyu Kim, a reporter for the the Herald, the English-language newspaper of Hanbat National University.
+
+At the graduation ceremony, I received a diploma from the president of Hanbat National University as a representative of the Department of Civil and Environmental Engineering on February 16, 2024. I also received the Academic Excellence Award for graduating summa cum laude from the Department of Civil and Environmental Engineering at Hanbat National University.
+
+![President-1](./assets/images/graduation/president-1.jpeg)
+
+![President-2](./assets/images/graduation/president-2.jpeg)
+
+My tutor, **Daniel Son**, lives in Southern California, USA, and his sister is also taking my class, officially started working as an Android app developer at OwnLab since January 22, 2024.
+
+> I sincerely hope it's a good experience for you.
 
 My tutor, **Taewan Ko** officially started working as an Android app developer at OwnLab since November 8, 2023.
 
 > I sincerely hope it's a good experience for you.
 
-My tutor, **Daniel Son**, lives in Southern California, USA, and his sister is also taking my class, officially started working as an Android app developer at OwnLab since January 22, 2024.
+Congratulations! My tutor-**Taewan Ko** and **Junhee Kim** won the bronze award in [Korea Code Fair Competitions](https://kcf.or.kr/notice/?uid=6046&mod=document).
 
-> I sincerely hope it's a good experience for you.
+> Your hard work has paid off. Keep up the good work to get into the high school of your choice!
 
 ---
 
@@ -138,7 +156,7 @@ My tutor, **Daniel Son**, lives in Southern California, USA, and his sister is a
 
 |        Date       |         Type        |                      Contents                     |                  Organization                  |
 |:-----------------:|:-------------------:|:-------------------------------------------------:|:----------------------------------------------:|
-|     2020.03 ~     |      Education      | Department of Civil and Environmental Engineering |           Hanbat National University           |
+|     2020.03 ~ 2024.02    |      Education      | Department of Civil and Environmental Engineering |           Hanbat National University           |
 | 2014.03 ~ 2017.03 |   Gifted Education  |                    Certificated                   | Educational Research and Information Institute |
 |     2015.11.25    |        Award        |                     Gold Prize                    | Educational Research and Information Institute |
 |     2021.12.10    |        Award        |                  President's Award                |           Hanbat National University           |
@@ -146,6 +164,7 @@ My tutor, **Daniel Son**, lives in Southern California, USA, and his sister is a
 | 2022.06.28 ~ 2022.08.18 |        Award        |           [Encouragement Prize](./assets/images/LH.png)               |         Korea Land&Housing Corporation         |
 |     2022.11.25    |        Award        |                  Excellence Prize                 |           Hanbat National University           |
 |     2022.11.25    |        Award        |                  Excellence Prize                 |           Hanbat National University           |
+|     2024.02.16    |        Award        |                  Academic Excellence Award                 |           Hanbat National University           |
 | 2021.06.23 ~ 2021.09.09 |     Competition     |      Open Source Software Developer Competition   | [Open Source Software Support Center](https://www.oss.kr/) |
 | 2021.10.25 ~ 2023.12.21 |     Competition     |      Data Analytics Competition 2021   | Hanbat National University |
 | 2021.12 |     Competition     |      Capstone Design Competition 2021   | Hanbat National University |
