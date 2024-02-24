@@ -142,7 +142,7 @@ Congratulations! My tutor-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 > My timetable and plans for future can be found [here](https://enfycius.github.io/_enfycius/plans).
 
-#### :books: [CV](http://gofile.me/77sqf/HsiXp3mNV)
+#### :books: [CV](https://gofile.me/77sqf/JVQ9rPCSZ)
 
 ![CV](./assets/images/qr/cv.png)
 
