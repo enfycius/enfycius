@@ -154,6 +154,12 @@ Congratulations! My tutor-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 ---
 
+### :blush: Teaching & Advising
+
+**Seoyoon Lee**, **Yujoon Han**, **Youngwoo Seo**, **Taewan Ko**, **Yeonwoo Joo**, **Jihan Lim**, **Daan Yu**, **Yerin Lee**, **Wooju Lee**, **Daniel Son**, **Abigail Son**, **Heewoo Kim**, **Wonje Lee**, **Yunseo Lee**
+
+---
+
 ### :runner: Career
 
 |        Date       |         Type        |                      Contents                     |                  Organization                  |
@@ -295,6 +301,28 @@ Congratulations! My tutor-**Taewan Ko** and **Junhee Kim** won the bronze award 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정
 
 > <sup>†</sup> Corresponding author: 20201967@edu.hanbat.ac.kr
+
+---
+
+### :speech_balloon: Conference Proceedings
+
+* Kim, J.<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2022). [Development of a Construction Robot for Evaluation of Assembly Performance of Modular Steel Structures.](https://github.com/enfycius/enfycius/blob/main/assets/images/poster.JPG) Computational Structural Engineering Institute of Korea Symposium 2022, Goseong-gun, South Korea, November 11 - November 12, 2022. ![Poster](https://img.shields.io/badge/Poster-01DF74?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+> <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 건설환경공학과 부교수
+
+> <sup>†</sup> Corresponding author: hjeon@hanbat.ac.kr
+
+* Kim, J.<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Dimensional quality assessment for assembly part of prefabricated steel structures using a stereo vision sensor.](https://github.com/enfycius/enfycius/blob/main/assets/images/poster.JPG) Computational Structural Engineering Institute of Korea Conference 2024, Jeju Island, South Korea, April 17 - April 19, 2024. ![Poster](https://img.shields.io/badge/Poster-01DF74?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![Expected](https://img.shields.io/badge/Expected-C71585?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+> <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 건설환경공학과 부교수
+
+> <sup>†</sup> Corresponding author: hjeon@hanbat.ac.kr
+
+* Kim, J.<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Concrete cracks evaluation using a mobile robot and stereo vision system.](https://github.com/enfycius/enfycius/blob/main/assets/images/poster.JPG) Computational Structural Engineering Institute of Korea Conference 2024, Jeju Island, South Korea, April 17 - April 19, 2024. ![Presentation](https://img.shields.io/badge/Presentation-00BFFF?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![Expected](https://img.shields.io/badge/Expected-C71585?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+> <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 건설환경공학과 부교수
+
+> <sup>†</sup> Corresponding author: hjeon@hanbat.ac.kr
 
 ---
 
