@@ -284,7 +284,7 @@ Congratulations! My tutor-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 > <sup>†</sup> Corresponding author: hjeon@hanbat.ac.kr
 
-* Kim, J.<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Dimensional Quality Assessment for Assembly Part of Prefabricated Steel Structures using a Stereo Vision Sensor.]() Journal of the Computational Structural Engineering Institute of Korea. ![Expected](https://img.shields.io/badge/Expected-C71585?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* Kim, J.<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Dimensional Quality Assessment for Assembly Part of Prefabricated Steel Structures using a Stereo Vision Sensor.]() Journal of the Computational Structural Engineering Institute of Korea. ![Accepted](https://img.shields.io/badge/Accepted-%ff1709?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 건설환경공학과 부교수
 
