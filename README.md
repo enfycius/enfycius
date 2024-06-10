@@ -124,15 +124,15 @@ At the graduation ceremony, I received a diploma from the president of Hanbat Na
 
 ![President-2](./assets/images/graduation/president-2.jpeg)
 
-My tutor, **Daniel Son**, lives in Southern California, USA, and his sister is also taking my class, officially started working as an Android app developer at OwnLab since January 22, 2024.
+My tutee, **Daniel Son**, lives in Southern California, USA, and his sister is also taking my class, officially started working as an Android app developer at OwnLab since January 22, 2024.
 
 > I sincerely hope it's a good experience for you.
 
-My tutor, **Taewan Ko** officially started working as an Android app developer at OwnLab since November 8, 2023.
+My tutee, **Taewan Ko** officially started working as an Android app developer at OwnLab since November 8, 2023.
 
 > I sincerely hope it's a good experience for you.
 
-Congratulations! My tutor-**Taewan Ko** and **Junhee Kim** won the bronze award in [Korea Code Fair Competitions](https://kcf.or.kr/notice/?uid=6046&mod=document).
+Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award in [Korea Code Fair Competitions](https://kcf.or.kr/notice/?uid=6046&mod=document).
 
 > Your hard work has paid off. Keep up the good work to get into the high school of your choice!
 
