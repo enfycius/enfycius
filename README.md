@@ -283,7 +283,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 > <sup>†</sup> Corresponding author: hjeon@hanbat.ac.kr
 
-* Kim, J.<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Dimensional Quality Assessment for Assembly Part of Prefabricated Steel Structures using a Stereo Vision Sensor.]() Journal of the Computational Structural Engineering Institute of Korea. ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* Kim, J.<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Dimensional Quality Assessment for Assembly Part of Prefabricated Steel Structures using a Stereo Vision Sensor.](https://www.jcoseik.or.kr/articles/article/29KE/) Journal of the Computational Structural Engineering Institute of Korea. ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 건설환경공학과 부교수
 
@@ -317,7 +317,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 > <sup>†</sup> Corresponding author: hjeon@hanbat.ac.kr
 
-* Kim, J.<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Dimensional quality assessment for assembly part of prefabricated steel structures using a stereo vision sensor.](https://www.jcoseik.or.kr/articles/article/29KE/) Computational Structural Engineering Institute of Korea Conference 2024, Jeju Island, South Korea, April 17 - April 19, 2024. ![Poster](https://img.shields.io/badge/Poster-01DF74?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* Kim, J.<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Dimensional quality assessment for assembly part of prefabricated steel structures using a stereo vision sensor.]() Computational Structural Engineering Institute of Korea Conference 2024, Jeju Island, South Korea, April 17 - April 19, 2024. ![Poster](https://img.shields.io/badge/Poster-01DF74?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 건설환경공학과 부교수
 
