@@ -124,6 +124,16 @@ At the graduation ceremony, I received a diploma from the president of Hanbat Na
 
 ![President-2](./assets/images/graduation/president-2.jpeg)
 
+I received the Grand Prize at the Future Convergence Talent Discovery Software Challenge, hosted by Gyeongsan Innovation Academy, on my birthday, July 11.
+
+![Award-Ceremony-1](./assets/images/award/ceremony-1.png)
+
+> Our team name is "Friends on the Road," and we submitted our project titled "Is the Way Ahead Safe? StepGuard."
+
+> Thank you so much to my friends who worked hard alongside me.
+
+> I gathered a team with friends I know who are either currently studying at or have graduated from various universities (Hanbat National University, Jeonbuk National University, and Wonkwang University).
+
 My tutee, **Daniel Son**, lives in Southern California, USA, and his sister is also taking my class, officially started working as an Android app developer at OwnLab since January 22, 2024.
 
 > I sincerely hope it's a good experience for you.
