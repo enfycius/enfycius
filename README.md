@@ -14,7 +14,7 @@ Especially, based on deep learning, in the former lab, we'd been conducting rese
 
 Currently, I have been conducting various research attempts in the field of civil engineering, which is my main major and interests, in the fields of ConstructionIT, ROS-based robot, and sensor fusion by combining computer vision and artificial intelligence. In addition, I have recently joined various programs such as "소중한 봉사단", "Herald", and so forth at Hanbat National University to strengthen my skills.
 
-Also, I recently started coding tutoring. I have about 9 students so far. I mainly teach students the Python language and partly android, as well as machine learning and deep learning.
+Also, I recently started coding tutoring. I have 17 students so far. I mainly teach students the Python language and partly android, as well as machine learning and deep learning.
 
 I see teaching as another learning opportunity and a chance to be at the forefront of education. 
 
