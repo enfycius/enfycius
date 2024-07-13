@@ -124,7 +124,7 @@ At the graduation ceremony, I received a diploma from the president of Hanbat Na
 
 ![President-2](./assets/images/graduation/president-2.jpeg)
 
-I received the Grand Prize at the Future Convergence Talent Discovery Software Challenge, hosted by Gyeongsan Innovation Academy, on my birthday, July 11.
+I received the Grand Prize (Institute of Information & Communications Technology Planning & Evaluation (IITP) President's Award) at the Future Convergence Talent Discovery Software Challenge, hosted by Gyeongsan Innovation Academy, on my birthday, July 11.
 
 ![Award-Ceremony-1](./assets/images/award/ceremony-1.png)
 
@@ -181,7 +181,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 |     2022.11.25    |        Award        |                  Excellence Prize                 |           Hanbat National University           |
 |     2022.11.25    |        Award        |                  Excellence Prize                 |           Hanbat National University           |
 |     2024.02.16    |        Award        |                  Academic Excellence Award                 |           Hanbat National University           |
-| 2024.06.23 ~ 2024.07.11 |     Award     |     Grand Prize    | Gyeongsan Innovation Academy |
+| 2024.06.23 ~ 2024.07.11 |     Award     |     Grand Prize (Institute of Information & Communications Technology Planning & Evaluation (IITP) President's Award)    | Gyeongsan Innovation Academy |
 | 2021.06.23 ~ 2021.09.09 |     Competition     |      Open Source Software Developer Competition   | [Open Source Software Support Center](https://www.oss.kr/) |
 | 2021.10.25 ~ 2023.12.21 |     Competition     |      Data Analytics Competition 2021   | Hanbat National University |
 | 2021.12 |     Competition     |      Capstone Design Competition 2021   | Hanbat National University |
