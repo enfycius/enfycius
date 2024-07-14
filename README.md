@@ -124,7 +124,7 @@ At the graduation ceremony, I received a diploma from the president of Hanbat Na
 
 ![President-2](./assets/images/graduation/president-2.jpeg)
 
-I received the Grand Prize (Institute of Information & Communications Technology Planning & Evaluation (IITP) President's Award) at the Future Convergence Talent Discovery Software Challenge, hosted by Gyeongsan Innovation Academy, on my birthday, July 11.
+We received the Grand Prize (Institute of Information & Communications Technology Planning & Evaluation (IITP) President's Award) at the Future Convergence Talent Discovery Software Challenge, hosted by Gyeongsan Innovation Academy, on my birthday, July 11.
 
 ![Award-Ceremony-1](./assets/images/award/ceremony-1.png)
 
