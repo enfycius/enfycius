@@ -150,13 +150,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 ### :memo: References
 
-> My timeline can be found [here](https://enfycius.github.io/_enfycius/timeline).
-
-> My timetable and plans for future can be found [here](https://enfycius.github.io/_enfycius/plans).
-
-#### :books: [CV](https://gofile.me/77sqf/57CZhDxKy)
-
-![CV](./assets/images/qr/cv.png)
+#### :books: [CV](https://drive.google.com/file/d/1qdNqciJHsRwNTLXbAya1vh-_fknnwFl0/view?usp=share_link)
 
 #### 🎓 [Google Scholar](https://scholar.google.com/citations?user=6lUHV9sAAAAJ&hl=ko)
 
