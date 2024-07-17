@@ -158,7 +158,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 ### :blush: Teaching & Advising
 
-**Seoyoon Lee**, **Yujoon Han**, **Youngwoo Seo**, **Taewan Ko**, **Yeonwoo Joo**, **Jihan Lim**, **Daan Yu**, **Yerin Lee**, **Wooju Lee**, **Daniel Son**, **Abigail Son**, **Heewoo Kim**, **Wonje Lee**, **Yunseo Lee**, **Myungsoo Kim**, **Sungeun Jeon**, **Giyeon Kim**
+**Seoyoon Lee**, **Yujoon Han**, **Youngwoo Seo**, **Taewan Ko**, **Yeonwoo Joo**, **Jihan Lim**, **Daan Yu**, **Yerin Lee**, **Wooju Lee**, **Daniel Son**, **Abigail Son**, **Heewoo Kim**, **Wonje Lee**, **Yunseo Lee**, **Myungsoo Kim**, **Sungeun Jeon**, **Giyeon Kim**, **Ryeowon Lee**
 
 ---
 
