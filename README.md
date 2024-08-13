@@ -6,7 +6,7 @@
 
 <p align="center"> The profile of ENFYCIUS</p>
 
-:wave: Hello, I'm JongHyeok Kim, and I majored in Civil and Environmental Engineering at Hanbat National University in South Korea.
+:wave: Hello, I'm JongHyeok Kim, and I majored in Civil and Environmental Engineering at Hanbat National University in South Korea. I am excited to share that I have recently been accepted into the Master's program at Gwangju Institute of Science and Technology (GIST)'s School of Mechanical and Robotics Engineering (MRE). I will be conducting my research under the guidance of Professor Hyunseok Oh in his lab.
 
 I've been researching deep learning at the ConstructionIT lab and previously researched it at the Department of Basic Science, Hanbat National University.
 
