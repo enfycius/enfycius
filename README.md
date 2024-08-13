@@ -22,7 +22,7 @@ Recently, I rejoined the previous ConstructionIT lab, where I am getting ready f
 
 > Teaching is the beginning of enlightenment !
 
-These days I'm hosting a live broadcast on [my YouTube channel](https://youtube.com/@enfycius0131?feature=shared) titled "스터디윗미(Study with me)(Civil Engineering & Mathematics & Coding)".
+These days I'm hosting a live broadcast on [my YouTube channel](https://youtube.com/@enfycius0131?feature=shared) titled "스터디윗미(Study with me)(Civil Engineering & Mathematics & Coding)". Alongside my academic pursuits, I've also taken up golf recently, which has become a great way for me to relax and challenge myself outside of the lab. If you're curious, you can check out one of my golf videos here: [Watch my golf video](https://www.youtube.com/watch?v=7sSYykzI_kU)
 
 ---
 
