@@ -10,6 +10,8 @@
 
 I am incredibly grateful and excited to have the opportunity to become a graduate student at GIST. Although my cousin, who is currently working as a senior researcher at Korea Institute of Science and Technology Information (KISTI), pursued a different field in Computer Science, I am honored to follow a similar academic path at GIST. You can find his research work on [Google Scholar](https://scholar.google.com/citations?user=aW7jSykAAAAJ&hl=ko) and [ResearchGate](https://www.researchgate.net/profile/Ju-Won-Park).
 
+Additionally, I am thrilled to announce that I have also been accepted as a government scholarship recipient for the Master's program in Robotics and Mechatronics Engineering at Daegu Gyeongbuk Institute of Science and Technology (DGIST). This recent achievement adds to my excitement as I look forward to the next chapter of my academic journey.
+
 I've been researching deep learning at the ConstructionIT lab and previously researched it at the Department of Basic Science, Hanbat National University.
 
 Especially, based on deep learning, in the former lab, we'd been conducting research to detect extent of damage to the mooring facility until early 2023. As well as, as part of that research, I developed a ROS-based construction robot to perform such tasks in 2022. In the latter lab, An inverse problem, in science, is the process of calculating from a set of observations the causal factors that produced them, was selected as the topic of our research and we were studying it using **Deep Neural Network (DNN)** for about a year and a half. Even though it didn't result in any tangible breakthroughs, it was a rare glimpse into the intersection of artificial intelligence and math.
