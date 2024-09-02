@@ -275,15 +275,15 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 #### 📚 Academic Publications
 
-* Jang, D.<sup>1</sup>, Park, J.<sup>2</sup>, Choi, S.<sup>2</sup>, Bang, J.<sup>3</sup>, Choi, J.<sup>3</sup>, **Kim, J.**<sup>4</sup>, Yang, B.<sup>3*</sup>, & Jeon, H.<sup>4*</sup> (2024). [Novel approach for crack detections and rapid repairment methods in self-heating composites for smart infrastructures.]() Journal of Advanced Materials. ![In Preparation](https://img.shields.io/badge/In%20Preparation-FFA500?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* Jang, D.<sup>a,1</sup>, Park, J.<sup>b,1</sup>, Choi, S.<sup>b</sup>, Bang, J.<sup>c</sup>, Choi, J.<sup>c</sup>, **Kim, J.**<sup>d</sup>, Yang, B.<sup>c,\*</sup>, & Jeon, H.<sup>d,\*</sup> (2024). [Novel approach for crack detections and rapid repairment methods in self-heating composites for smart infrastructures.]() Journal of Advanced Materials. ![In Preparation](https://img.shields.io/badge/In%20Preparation-FFA500?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
-> <sup>1</sup> Center for Advanced Construction Materials, Department of Civil Engineering, The University of Texas at Arlington, TX, 76019, USA
+> <sup>a</sup> Center for Advanced Construction Materials, Department of Civil Engineering, The University of Texas at Arlington, TX, 76019, USA
 
-> <sup>2</sup> Department of Civil and Environmental Engineering, Korea Advanced Institute of Science and Technology (KAIST), 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea
+> <sup>b</sup> Department of Civil and Environmental Engineering, Korea Advanced Institute of Science and Technology (KAIST), 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea
 
-> <sup>3</sup> School of Civil Engineering, Chungbuk National University, 1 Chungdae-ro, Seowon-gu, Cheongju, Chungbuk 28644, Republic of Korea
+> <sup>c</sup> School of Civil Engineering, Chungbuk National University, 1 Chungdae-ro, Seowon-gu, Cheongju, Chungbuk 28644, Republic of Korea
 
-> <sup>4</sup> Department of Civil and Environmental Engineering, Hanbat National University, 125 Dongseodae-ro, Yuseong-gu, Daejeon 34158, Republic of Korea
+> <sup>d</sup> Department of Civil and Environmental Engineering, Hanbat National University, 125 Dongseodae-ro, Yuseong-gu, Daejeon 34158, Republic of Korea
 
 > <sup>1</sup> These authors contributed equally to this work.
 
