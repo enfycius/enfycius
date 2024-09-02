@@ -275,26 +275,40 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 #### 📚 Academic Publications
 
-* Kim, J.<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Autonomous Concrete Crack Monitoring using a Mobile Robot with Manipulator and Stereo Vision Sensors.]() Journal of Building Engineering. ![Expected](https://img.shields.io/badge/Expected-C71585?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* Jang, D.<sup>1</sup>, Park, J.<sup>2</sup>, Choi, S.<sup>2</sup>, Bang, J.<sup>3</sup>, Choi, J.<sup>3</sup>, **Kim, J.**<sup>4</sup>, Yang, B.<sup>3*</sup>, & Jeon, H.<sup>4*</sup> (2024). [Novel approach for crack detections and rapid repairment methods in self-heating composites for smart infrastructures.]() Journal of Advanced Materials. ![In Preparation](https://img.shields.io/badge/In%20Preparation-FFA500?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+> <sup>1</sup> Center for Advanced Construction Materials, Department of Civil Engineering, The University of Texas at Arlington, TX, 76019, USA
+
+> <sup>2</sup> Department of Civil and Environmental Engineering, Korea Advanced Institute of Science and Technology (KAIST), 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea
+
+> <sup>3</sup> School of Civil Engineering, Chungbuk National University, 1 Chungdae-ro, Seowon-gu, Cheongju, Chungbuk 28644, Republic of Korea
+
+> <sup>4</sup> Department of Civil and Environmental Engineering, Hanbat National University, 125 Dongseodae-ro, Yuseong-gu, Daejeon 34158, Republic of Korea
+
+> <sup>1</sup> These authors contributed equally to this work.
+
+> <sup>*</sup> Corresponding authors: B. Yang (byang@chungbuk.ac.kr), H. Jeon (hjeon@hanbat.ac.kr)
+
+* **Kim, J.**<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Autonomous Concrete Crack Monitoring using a Mobile Robot with Manipulator and Stereo Vision Sensors.]() Journal of Building Engineering. ![In Preparation](https://img.shields.io/badge/In%20Preparation-FFA500?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 건설환경공학과 부교수
 
 > <sup>†</sup> Corresponding author: hjeon@hanbat.ac.kr
 
-* Kim, J.<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Dimensional Quality Assessment for Assembly Part of Prefabricated Steel Structures using a Stereo Vision Sensor.](https://www.jcoseik.or.kr/articles/article/29KE/) Journal of the Computational Structural Engineering Institute of Korea. ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* **Kim, J.**<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Dimensional Quality Assessment for Assembly Part of Prefabricated Steel Structures using a Stereo Vision Sensor.](https://www.jcoseik.or.kr/articles/article/29KE/) Journal of the Computational Structural Engineering Institute of Korea. ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 건설환경공학과 부교수
 
 > <sup>†</sup> Corresponding author: hjeon@hanbat.ac.kr
 
-* Kim, J.<sup>1</sup>, Bang, J.<sup>2</sup>, & Jeon, H.<sup>3†</sup> (2023). [Multi-Directional Cement-Based Sensors with CNT@CIP Nanohybrids for Enhanced Sensing and Reliability.](https://www.jcoseik.or.kr/articles/article/0L17/) Journal of the Computational Structural Engineering Institute of Korea. (2024.02) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* **Kim, J.**<sup>1</sup>, Bang, J.<sup>2</sup>, & Jeon, H.<sup>3†</sup> (2023). [Multi-Directional Cement-Based Sensors with CNT@CIP Nanohybrids for Enhanced Sensing and Reliability.](https://www.jcoseik.or.kr/articles/article/0L17/) Journal of the Computational Structural Engineering Institute of Korea. (2024.02) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 충북대학교 토목공학부 박사과정, <sup>3</sup> 한밭대학교 건설환경공학과 부교수
 
 > <sup>†</sup> Corresponding author: hjeon@hanbat.ac.kr
 
 
-* Min, J.<sup>1</sup>, Yu, B.<sup>2</sup>, Kim, J.<sup>3</sup>, & Jeon, H.<sup>4*</sup> (2022). [Development of Fender Segmentation System for Port Structures using Vision Sensor and Deep Learning.](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) Journal of the Korea Institute for Structural Maintenance and Inspection, 26(2), 28-36. ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* Min, J.<sup>1</sup>, Yu, B.<sup>2</sup>, **Kim, J.**<sup>3</sup>, & Jeon, H.<sup>4*</sup> (2022). [Development of Fender Segmentation System for Port Structures using Vision Sensor and Deep Learning.](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) Journal of the Korea Institute for Structural Maintenance and Inspection, 26(2), 28-36. ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한국건설기술연구원 구조연구본부 수석연구원, <sup>2</sup> (주)스트라드비전 연구원, <sup>3</sup> 한밭대학교 건설환경공학과 학부생, <sup>4</sup> 한밭대학교 건설환경공학과 부교수
 
@@ -302,13 +316,13 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 #### 📰 Media Articles
 
-* Kim, J.<sup>1†</sup> (2023, December). Superconductor. The Hanbat Herald. [https://www.hanbat.ac.kr/thumbnail/dwld/news/THE%20HANBAT%20HERALD%20No.31.pdf](https://www.hanbat.ac.kr/thumbnail/dwld/news/THE%20HANBAT%20HERALD%20No.31.pdf) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* **Kim, J.**<sup>1†</sup> (2023, December). Superconductor. The Hanbat Herald. [https://www.hanbat.ac.kr/thumbnail/dwld/news/THE%20HANBAT%20HERALD%20No.31.pdf](https://www.hanbat.ac.kr/thumbnail/dwld/news/THE%20HANBAT%20HERALD%20No.31.pdf) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정
 
 > <sup>†</sup> Corresponding author: 20201967@edu.hanbat.ac.kr
 
-* Kim, J.<sup>1†</sup> (2023, July). Walking Trails around S-Buildings. The Hanbat Herald. [https://www.hanbat.ac.kr/thumbnail/dwld/news/THE_HANBAT_HERALD_No.30.pdf](https://www.hanbat.ac.kr/thumbnail/dwld/news/THE_HANBAT_HERALD_No.30.pdf) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* **Kim, J.**<sup>1†</sup> (2023, July). Walking Trails around S-Buildings. The Hanbat Herald. [https://www.hanbat.ac.kr/thumbnail/dwld/news/THE_HANBAT_HERALD_No.30.pdf](https://www.hanbat.ac.kr/thumbnail/dwld/news/THE_HANBAT_HERALD_No.30.pdf) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정
 
@@ -318,19 +332,19 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 ### :speech_balloon: Conference Proceedings
 
-* Kim, J.<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2022). [Development of a Construction Robot for Evaluation of Assembly Performance of Modular Steel Structures.](https://github.com/enfycius/enfycius/blob/main/assets/images/poster.JPG) Computational Structural Engineering Institute of Korea Symposium 2022, Goseong-gun, South Korea, November 11 - November 12, 2022. ![Poster](https://img.shields.io/badge/Poster-01DF74?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* **Kim, J.**<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2022). [Development of a Construction Robot for Evaluation of Assembly Performance of Modular Steel Structures.](https://github.com/enfycius/enfycius/blob/main/assets/images/poster.JPG) Computational Structural Engineering Institute of Korea Symposium 2022, Goseong-gun, South Korea, November 11 - November 12, 2022. ![Poster](https://img.shields.io/badge/Poster-01DF74?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 건설환경공학과 부교수
 
 > <sup>†</sup> Corresponding author: hjeon@hanbat.ac.kr
 
-* Kim, J.<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Dimensional quality assessment for assembly part of prefabricated steel structures using a stereo vision sensor.]() Computational Structural Engineering Institute of Korea Conference 2024, Jeju Island, South Korea, April 17 - April 19, 2024. ![Poster](https://img.shields.io/badge/Poster-01DF74?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* **Kim, J.**<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Dimensional quality assessment for assembly part of prefabricated steel structures using a stereo vision sensor.]() Computational Structural Engineering Institute of Korea Conference 2024, Jeju Island, South Korea, April 17 - April 19, 2024. ![Poster](https://img.shields.io/badge/Poster-01DF74?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 건설환경공학과 부교수
 
 > <sup>†</sup> Corresponding author: hjeon@hanbat.ac.kr
 
-* Kim, J.<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Concrete cracks evaluation using a mobile robot and stereo vision system.](https://github.com/enfycius/enfycius/blob/main/assets/images/poster.JPG) Computational Structural Engineering Institute of Korea Conference 2024, Jeju Island, South Korea, April 17 - April 19, 2024. ![Presentation](https://img.shields.io/badge/Presentation-00BFFF?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* **Kim, J.**<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Concrete cracks evaluation using a mobile robot and stereo vision system.](https://github.com/enfycius/enfycius/blob/main/assets/images/poster.JPG) Computational Structural Engineering Institute of Korea Conference 2024, Jeju Island, South Korea, April 17 - April 19, 2024. ![Presentation](https://img.shields.io/badge/Presentation-00BFFF?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 건설환경공학과 부교수
 
