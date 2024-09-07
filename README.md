@@ -16,15 +16,13 @@ I've been researching deep learning at the ConstructionIT lab and previously res
 
 Especially, based on deep learning, in the former lab, we'd been conducting research to detect extent of damage to the mooring facility until early 2023. As well as, as part of that research, I developed a ROS-based construction robot to perform such tasks in 2022. In the latter lab, An inverse problem, in science, is the process of calculating from a set of observations the causal factors that produced them, was selected as the topic of our research and we were studying it using **Deep Neural Network (DNN)** for about a year and a half. Even though it didn't result in any tangible breakthroughs, it was a rare glimpse into the intersection of artificial intelligence and math.
 
-Currently, I have been conducting various research attempts in the field of civil engineering, which is my main major and interests, in the fields of ConstructionIT, ROS-based robot, and sensor fusion by combining computer vision and artificial intelligence. In addition, I have recently joined various programs such as "소중한 봉사단", "Herald", and so forth at Hanbat National University to strengthen my skills.
-
-Also, I recently started coding tutoring. I have 17 students so far. I mainly teach students the Python language and partly android, as well as machine learning and deep learning.
-
-I see teaching as another learning opportunity and a chance to be at the forefront of education. 
-
-Recently, I rejoined the previous ConstructionIT lab, where I am getting ready for the 14th LH competition.
+Previously, I conducted various research in the fields of ConstructionIT, ROS-based robotics, sensor fusion, and the integration of computer vision and artificial intelligence. Additionally, I participated in programs such as ‘소중한 봉사단’ and ‘Herald’ at Hanbat National University to further enhance my skills. I also taught Python, Android, machine learning, and deep learning to 17 students.
 
 > Teaching is the beginning of **enlightenment** !
+
+> Also, I see teaching as another learning opportunity and a chance to be at the forefront of education.
+
+Now that these activities have come to an end, I am focusing on leveraging these experiences to plan new research and projects for the future.
 
 These days I'm hosting a live broadcast on [my YouTube channel](https://youtube.com/@enfycius0131?feature=shared) titled "스터디윗미(Study with me)(Civil Engineering & Mathematics & Coding)". Alongside my academic pursuits, I've also taken up golf recently, which has become a great way for me to relax and challenge myself outside of the lab. If you're curious, you can check out one of my golf videos here: [Watch my golf video](https://www.youtube.com/watch?v=7sSYykzI_kU)
 
