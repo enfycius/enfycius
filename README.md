@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ENFYCIUS&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Stay%20Hungry,%20Stay%20Foolish&descAlignY=55&descAlign=62)
 
 <p align="center">
-  <img width="45%" height="75%" src="./assets/images/enfycius/enfycius.png">
+  <img width="100%" height="100%" src="./assets/images/enfycius/enfycius.png">
 </p>
 
 <p align="center"> The profile of ENFYCIUS</p>
@@ -450,7 +450,6 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 ![Github Pages](https://img.shields.io/badge/Github%20Pages-ffffff?style=flat-style&logo=githubpages&logoColor=black)
 
-
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-style&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-style&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-style&logo=javascript&logoColor=#F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat-style&logo=typescript&logoColor=#3178C6)
 
 ![Bash](https://img.shields.io/badge/Bash-black.svg?style=flat-style&logo=gnubash&logoColor=#4EAA25)
@@ -462,7 +461,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 ### 🏖️ Outsourcing Projects
 
-#### [알바HR (알바하리)](https://github.com/enfycius/OwnLab-AClient "알바HR") 
+#### [알바HR (알바하리)](https://github.com/enfycius/OwnLab-AClient "알바HR") ![Completed](https://img.shields.io/badge/Completed-%ff1709?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 ##### Total amount: ₩ 7,200K
 
@@ -490,20 +489,92 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 > 알바HR [Google Play](https://play.google.com/store/apps/details?id=com.ownlab.ownlab_client) 출시 (24.01.02)
 
+#### [공정 및 품질관리 프로그램]() ![Completed](https://img.shields.io/badge/Completed-%ff1709?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+##### Total amount: Confidential
+
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat-style&logo=python&logoColor=3776AB) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-style&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/Github-181717?style=flat-style&logo=github&logoColor=white)
+
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+
+> C# 기반 (MVVM 패턴 적용) 공정 및 품질관리 프로그램 (OptiFlowPM)
+
+> 엑셀(Excel) 연동 및 XML 직렬화(Serialization) 및 역직렬화(Deserialization)
+
+#### [생산 공정 품질 예측 모델 및 프로그램]() ![Completed](https://img.shields.io/badge/Completed-%ff1709?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+##### Total amount: Confidential
+
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat-style&logo=python&logoColor=3776AB) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-style&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/Github-181717?style=flat-style&logo=github&logoColor=white)
+
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+
+> C# 기반 (MVVM 패턴 적용) 생산 공정 품질 예측 프로그램
+
+> 머신러닝 및 딥러닝 기반 생산 공정 품질 예측 모델
+
+#### [네이버 키워드 기반 수요 예측 모델 개발]() ![Completed](https://img.shields.io/badge/Completed-%ff1709?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+##### Total amount: Confidential
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-style&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/Github-181717?style=flat-style&logo=github&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat-style&logo=python&logoColor=3776AB)
+
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+
+![Django](https://img.shields.io/badge/Django--%ff1709?style=flat-style&logo=django&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![FlaskREST](https://img.shields.io/badge/Django-REST-ff1709?style=flat-style&logo=django&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+![Flask](https://img.shields.io/badge/Flask--%ff1709?style=flat-style&logo=flask&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![FlaskREST](https://img.shields.io/badge/Flask-REST-ff1709?style=flat-style&logo=flask&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=flat-style&logo=mysql&logoColor=4479A1)
+
+> 네이버 키워드 기반 수요량 예측 모델 개발
+
+> 머신러닝 및 딥러닝 기술 기반의 시계열 분석 모델 개발
+
+#### [스마트팜 IoT 제어 모델 및 모듈 개발]() ![Completed](https://img.shields.io/badge/Completed-%ff1709?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+##### Total amount: Confidential
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-style&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/Github-181717?style=flat-style&logo=github&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat-style&logo=python&logoColor=3776AB) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-style&logo=openjdk&logoColor=white)
+
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+
+![SpringBoot](https://img.shields.io/badge/Spring-Boot-%ff1709?style=flat-style&logo=spring-boot&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![SpringREST](https://img.shields.io/badge/SpringBoot-REST-ff1709?style=flat-style&logo=spring-boot&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=flat-style&logo=mysql&logoColor=4479A1)
+
+> SpringBoot 기반 스마트팜 IoT 제어 모델 및 모듈 개발
+
+> SpringBoot 기반 관리자 페이지 개발 및 각종 IoT 센서들 간의 유기적 통합
+
+> SpringBoot 기반 실시간 센서 제어를 위한 소켓 (Socket) 프로그래밍
+
 ---
 
 ### :star: Interests
 
+- Prognostics and Health Management (PHM)
 - ConstructionIT
-- Applications of computer vision and machine learning 
+- Applications of computer vision and machine learning
 - Sensor fusion and tracking
-- Stereo vision
+- Stereo vision sensor
+- 3D Point Cloud
 - Depth estimation
 - Development of construction robot based on ROS with various AI models
-- Automation
+- Construction Automation
 - Image stitching based on AR
 
-> 지금 현재 한밭대학교 건설IT 연구실에서 위의 관심주제들로 연구중
+> 지금까지 국립 한밭대학교 (HBNU) 건설IT 연구실에서 건설IT 분야 관련 연구들을 수행하였음.
+
+> 광주과학기술원 (GIST) SDDO 연구실에서 PHM 관련 연구를 수행하고자 함.
 
 ---
 
