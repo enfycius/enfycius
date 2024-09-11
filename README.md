@@ -58,6 +58,12 @@ Our journey has just begun, and with every step we take, we want to enrich the p
 
 Being composed of different majors allows us to look at what we are trying to do from different perspectives, which we believe will play to our strengths.
 
+> Sungji Lee: 😊 I’m so lucky to have an older brother who always supports me and guides me on the right path. Let’s make a lot of money and succeed together! 💪
+
+> Jongyeol Na: The best output of Hanbat National University, God Jongyeol 👑. A true hidden master who got accepted into the highly renowned AI graduate program at DGIST. Thank you for always looking out for me! 🙏
+
+> Minjoong Kim: 📝 He has the outstanding class of someone who’s published SCIE papers. With top-level creativity that others can’t even imagine, he’s truly one of a kind. 🎓 Thanks for everything 🎉
+
 ---
 
 ### 💡 Tip
