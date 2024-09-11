@@ -126,7 +126,7 @@ I graduated from Hanbat National University on February 16, 2024, with a degree 
 
 ---
 
-At the graduation ceremony, I received a diploma from the president of Hanbat National University as a representative of the Department of Civil and Environmental Engineering on February 16, 2024. I also received the Academic Excellence Award for graduating *summa cum laude* from the Department of Civil and Environmental Engineering at Hanbat National University.
+At the graduation ceremony, I received a diploma from the president of Hanbat National University as a representative of the Department of Civil and Environmental Engineering on February 16, 2024. I also received the Academic Excellence Award for graduating *summa cum laude* **(Rank: 1 / 87)** from the Department of Civil and Environmental Engineering at Hanbat National University.
 
 ![President-0](./assets/images/graduation/president-0.JPG)
 
