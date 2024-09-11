@@ -116,7 +116,7 @@ I graduated from Hanbat National University on February 16, 2024, with a degree 
 
 ![Graduation with Myeong-gyu](./assets/images/graduation/graduation.JPG)
 
-> Photo with Myeong-gyu Kim, a reporter for the the Herald, the English-language newspaper of Hanbat National University.
+> Photo with Myeong-gyu Kim, a reporter for the *The Herald*, the English-language newspaper of Hanbat National University.
 
 At the graduation ceremony, I received a diploma from the president of Hanbat National University as a representative of the Department of Civil and Environmental Engineering on February 16, 2024. I also received the Academic Excellence Award for graduating *summa cum laude* from the Department of Civil and Environmental Engineering at Hanbat National University.
 
