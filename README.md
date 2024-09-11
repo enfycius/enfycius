@@ -106,7 +106,7 @@ This is the place where my dreams, future, and aspirations align.
 
 ### :newspaper_roll: Announcements
 
-I graduated from Hanbat National University on February 16, 2024, with a degree in Civil and Environmental Engineering, summa cum laude.
+I graduated from Hanbat National University on February 16, 2024, with a degree in Civil and Environmental Engineering, *summa cum laude*.
 
 > My school life at Hanbat National University has been enjoyable throughout, and I have learned a lot of different things, which are my most precious memories.
 
@@ -118,7 +118,7 @@ I graduated from Hanbat National University on February 16, 2024, with a degree 
 
 > Photo with Myeong-gyu Kim, a reporter for the the Herald, the English-language newspaper of Hanbat National University.
 
-At the graduation ceremony, I received a diploma from the president of Hanbat National University as a representative of the Department of Civil and Environmental Engineering on February 16, 2024. I also received the Academic Excellence Award for graduating summa cum laude from the Department of Civil and Environmental Engineering at Hanbat National University.
+At the graduation ceremony, I received a diploma from the president of Hanbat National University as a representative of the Department of Civil and Environmental Engineering on February 16, 2024. I also received the Academic Excellence Award for graduating *summa cum laude* from the Department of Civil and Environmental Engineering at Hanbat National University.
 
 ![President-0](./assets/images/graduation/president-0.JPG)
 
