@@ -112,7 +112,7 @@ I graduated from Hanbat National University on February 16, 2024, with a degree 
 
 ![Graduation](./assets/images/graduation/herald.jpeg)
 
-> Photo with friends from the Herald, the English-language newspaper of Hanbat National University.
+> Photo with my friends from *The Herald*, the English-language newspaper at Hanbat National University.
 
 ![Graduation with Myeong-gyu](./assets/images/graduation/graduation.JPG)
 
