@@ -122,7 +122,7 @@ I graduated from Hanbat National University on February 16, 2024, with a degree 
 
 ![Graduation with Myeong-gyu](./assets/images/graduation/graduation.JPG)
 
-> Photo with Myeong-gyu Kim, a reporter for the *The Herald*, the English-language newspaper of Hanbat National University.
+> Photo with Myeong-gyu Kim, a reporter for *The Herald*, the English-language newspaper of Hanbat National University.
 
 ---
 
