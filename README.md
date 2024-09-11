@@ -92,15 +92,15 @@ First of all, I would like to express my sincere gratitude to Professor [Jaemin 
 
 Next, I would like to express my sincere gratitude to my professors in the Department of Civil Engineering at Hanbat National University for their encouragement and assistance in helping me learn Civil Engineering smoothly.
 
-In particular, I would like to thank Prof. [Haemin Jeon](https://haeminjeon.wixsite.com/hbnu), who has been very helpful in my career. To whom I will be eternally grateful. 
+I would also like to express my sincere gratitude to Prof. [Jongseok Lee](http://cafe.hanbat.ac.kr/cafe/19961001/) for always believing in, supporting me and caring about me. 
 
-Also, I would also like to express my sincere gratitude to Prof. [Jongseok Lee](http://cafe.hanbat.ac.kr/cafe/19961001/) for always believing in, supporting me and caring about me. 
+Furthermore, I would like to thank Professor [Taehwa Jung](https://sites.google.com/site/taehwajung/) for not only recognizing my potential and providing me with opportunities, such as arranging an internships at Korea University during the winter vacation, but also for always reminding me of the truth of learning.
 
-Moreover, I would like to thank Professor [Taehwa Jung](https://sites.google.com/site/taehwajung/) for not only recognizing my potential and providing me with opportunities, such as arranging an internships at Korea University during the winter vacation, but also for always reminding me of the truth of learning.
+Before closing, I must mention a special person, my girlfriend Lee Da-yoon, who has been my unwavering source of support and strength during the challenging times. Her presence brings light to every moment we share together.
 
-Finally, I would like to thank my old crush, Lee Da-yoon, who is now my girlfriend again, for always being there to support me whenever I am struggling.
+Finally, in particular, I would like to express my deepest appreciation to Prof. [Haemin Jeon](https://haeminjeon.wixsite.com/hbnu), whose mentorship and guidance have been a cornerstone of my career. *Would I be where I am today if I had not met her?* She is, without question, one of the most generous and influential people I have ever had the privilege to know. I aspire to give to others as much as she has given to me, and for that, I will be eternally grateful.
 
-This is my dream space, future and space for only her ❤️.
+This is the place where my dreams, future, and aspirations align.
 
 ---
 
