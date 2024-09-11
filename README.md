@@ -32,9 +32,9 @@ These days I'm hosting a live broadcast on [my YouTube channel](https://youtube.
 
 ![Labis](./assets/images/labis/team.JPG)
 
-> I have worked at LabIS as Back-End, AI Develeper until now.
+> I worked at LabIS as a back-end and AI developer.
 
-> Also, we have created an AI model that converts text into 3D, and we're currently developing a 2D AI model that modifies webtoon images.
+> During my time there, we developed an AI model that converted text into 3D and also worked on a 2D AI model that modified webtoon images.
 
 ---
 
