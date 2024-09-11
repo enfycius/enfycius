@@ -328,13 +328,13 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 #### 📰 Media Articles
 
-* **Kim, J.**<sup>1†</sup> (2023, December). Superconductor. The Hanbat Herald. [https://www.hanbat.ac.kr/thumbnail/dwld/news/THE%20HANBAT%20HERALD%20No.31.pdf](https://www.hanbat.ac.kr/thumbnail/dwld/news/THE%20HANBAT%20HERALD%20No.31.pdf) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* **Kim, J.**<sup>1†</sup> (2023). Superconductor. The Hanbat Herald. [https://www.hanbat.ac.kr/thumbnail/dwld/news/THE%20HANBAT%20HERALD%20No.31.pdf](https://www.hanbat.ac.kr/thumbnail/dwld/news/THE%20HANBAT%20HERALD%20No.31.pdf) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정
 
 > <sup>†</sup> Corresponding author: 20201967@edu.hanbat.ac.kr
 
-* **Kim, J.**<sup>1†</sup> (2023, July). Walking Trails around S-Buildings. The Hanbat Herald. [https://www.hanbat.ac.kr/thumbnail/dwld/news/THE_HANBAT_HERALD_No.30.pdf](https://www.hanbat.ac.kr/thumbnail/dwld/news/THE_HANBAT_HERALD_No.30.pdf) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* **Kim, J.**<sup>1†</sup> (2023). Walking Trails around S-Buildings. The Hanbat Herald. [https://www.hanbat.ac.kr/thumbnail/dwld/news/THE_HANBAT_HERALD_No.30.pdf](https://www.hanbat.ac.kr/thumbnail/dwld/news/THE_HANBAT_HERALD_No.30.pdf) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정
 
