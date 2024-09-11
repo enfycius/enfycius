@@ -118,6 +118,8 @@ I graduated from Hanbat National University on February 16, 2024, with a degree 
 
 > Photo with Myeong-gyu Kim, a reporter for the *The Herald*, the English-language newspaper of Hanbat National University.
 
+---
+
 At the graduation ceremony, I received a diploma from the president of Hanbat National University as a representative of the Department of Civil and Environmental Engineering on February 16, 2024. I also received the Academic Excellence Award for graduating *summa cum laude* from the Department of Civil and Environmental Engineering at Hanbat National University.
 
 ![President-0](./assets/images/graduation/president-0.JPG)
@@ -125,6 +127,8 @@ At the graduation ceremony, I received a diploma from the president of Hanbat Na
 ![President-1](./assets/images/graduation/president-1.jpeg)
 
 ![President-2](./assets/images/graduation/president-2.jpeg)
+
+---
 
 We received the Grand Prize (Institute of Information & Communications Technology Planning & Evaluation (IITP) President's Award) at the Future Convergence Talent Discovery Software Challenge, hosted by Gyeongsan Innovation Academy, on my birthday, July 11.
 
@@ -135,6 +139,8 @@ We received the Grand Prize (Institute of Information & Communications Technolog
 > Thank you so much to my friends who worked hard alongside me.
 
 > I gathered a team with friends I know who are either currently studying at or have graduated from various universities (Hanbat National University, Jeonbuk National University, and Wonkwang University).
+
+---
 
 My tutee, **Daniel Son**, lives in Southern California, USA, and his sister is also taking my class, officially started working as an Android app developer at OwnLab since January 22, 2024.
 
