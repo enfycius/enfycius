@@ -38,7 +38,7 @@ These days I'm hosting a live broadcast on [my YouTube channel](https://youtube.
 
 ---
 
-### :rose: Our Journey at Herald
+### :rose: Our Journey at *The Herald*
 
 ![home](./assets/images/herald/home.jpeg)
 
