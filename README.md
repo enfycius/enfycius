@@ -180,7 +180,8 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 |        Date       |         Type        |                      Contents                     |                  Organization                  |
 |:-----------------:|:-------------------:|:-------------------------------------------------:|:----------------------------------------------:|
-|     2020.03 ~ 2024.02    |      Education      | Department of Civil and Environmental Engineering |           Hanbat National University           |
+|     2020.03 ~ 2024.02    |      Education (B.S.)      | Department of Civil and Environmental Engineering | Hanbat National University (HBNU) [<sup>1</sup>](#1) |
+|     2025.03 ~ 2027.02 (Expected)    |      Education (M.S.)      | School of Mechanical and Robotics Engineering | Gwangju Institute of Science and Technology (GIST) [<sup>2</sup>](#2) |
 | 2014.03 ~ 2017.03 |   Gifted Education  |                    Certificated                   | Educational Research and Information Institute |
 |     2015.11.25    |        Award        |                     Gold Prize                    | Educational Research and Information Institute |
 |     2021.12.10    |        Award        |                  President's Award                |           Hanbat National University           |
@@ -199,10 +200,10 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 | 2023.07 ~ 2023.09 |     Competition     |      The 14th National Land Development Technology Competition   | Korea Land&Housing Corporation |
 | 2023.10.04 ~ 2023.11.22 |     Competition     |      [Data Analytics Competition 2023](https://github.com/enfycius/Miri-Su/blob/main/assets/pdfs/Flood%20Guardians%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_v9.pdf)   | Hanbat National University |
 | 2024.06.23 ~ 2024.07.11 |     Competition     |     Future Convergence Talent Discovery Software Challenge   | Gyeongsan Innovation Academy |
-|  2021.10 ~ 2022.09.10   |         Club        | Vice-chairman, [import(Coding Club)](https://import-hanbat.com/) |           Hanbat National University[<sup>1</sup>](#1)          |
-|      2023.03 ~ 2023.10     |         Club        | AI Developer, [Miracle](https://www.instagram.com/team_miracle_hbnu/) |           Hanbat National University[<sup>1</sup>](#1)          |
-|  2023.03 ~ 2024.02   | On-Campus Activities | [소중한 봉사단 2기](http://www.ccnnews.co.kr/news/articleView.html?idxno=288342) |           Hanbat National University[<sup>1</sup>](#1)          |
-|  2023.03 ~ 2024.01   | On-Campus Activities | [Cub Reporter](/assets/images/herald/) |           [Hanbat Herald]((https://www.hanbat.ac.kr/news/index.do)), Hanbat National University[<sup>1</sup>](#1)          |
+|  2021.10 ~ 2022.09.10   |         Club        | Vice-chairman, [import(Coding Club)](https://import-hanbat.com/) |           Hanbat National University          |
+|      2023.03 ~ 2023.10     |         Club        | AI Developer, [Miracle](https://www.instagram.com/team_miracle_hbnu/) |           Hanbat National University          |
+|  2023.03 ~ 2024.02   | On-Campus Activities | [소중한 봉사단 2기](http://www.ccnnews.co.kr/news/articleView.html?idxno=288342) |           Hanbat National University          |
+|  2023.03 ~ 2024.01   | On-Campus Activities | [Cub Reporter](/assets/images/herald/) |           [Hanbat Herald]((https://www.hanbat.ac.kr/news/index.do)), Hanbat National University          |
 |      2017.09      | External Activities |     Institute for Higher Education Innovation     |                Yonsei University               |
 | 2020.05 ~ 2020.12 | External Activities |                     Translator                    |                    JavaTPoint                  |
 |     2022.05 ~      | External Activities |     One Week One Blog Post     |                Non-Profit Organization               |
@@ -214,10 +215,10 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 | 2020.10 ~ 2021.02 |   Team Activities   |               Leader, APPSILON Team               |                       N/A                      |
 |     2021.02 ~ 2024.01    |   Team Activities   | Researcher, [Dropper Lab](https://dropper.tech)   |                    Halliance                   |
 | 2021.02 ~ 2021.07 |   Team Activities   |               App Developer, 과제 다했니             |                    과제 다했니                    |
-|     2022.01 ~ 2024.08    |   Start-up, Club    |                    OwnLab, CTO                  | Hanbat National University Start-up Support Foundation[<sup>2</sup>](#2), [KOSME](https://start.kosmes.or.kr/yh_mai001_001.do) |
-| 2022.01 ~ 2023.12 |       Start-up      |                  Developer, [LABis](https://www.saramin.co.kr/zf_user/company-info/view?csn=eWUwRXJzSm02Sm5OMUZISDFNbXVsQT09)                 | UNIST[<sup>3</sup>](#3), [KOSME](https://start.kosmes.or.kr/yh_mai001_001.do) |
-|     2024.03 ~ 2024.08    |       Start-up, Club      |                  Developer, [Integrity](./assets/pdf/hanyang.pdf)                 | Hanyang University ERICA[<sup>#</sup>](#) |
-| 2023.03 |   Work Experience   |                  Lecturer (C, Python, SQL)                 | [Hyosung Computer Academy](https://comgopa.co.kr/)[<sup>4</sup>](#4) |
+|     2022.01 ~ 2024.08    |   Start-up, Club    |                    OwnLab, CTO                  | Hanbat National University Start-up Support Foundation[<sup>3</sup>](#3), [KOSME](https://start.kosmes.or.kr/yh_mai001_001.do) |
+| 2022.01 ~ 2023.12 |       Start-up      |                  Developer, [LABis](https://www.saramin.co.kr/zf_user/company-info/view?csn=eWUwRXJzSm02Sm5OMUZISDFNbXVsQT09)                 | UNIST[<sup>4</sup>](#4), [KOSME](https://start.kosmes.or.kr/yh_mai001_001.do) |
+|     2024.03 ~ 2024.08    |       Start-up, Club      |                  Developer, [Integrity](./assets/pdf/hanyang.pdf)                 | Hanyang University ERICA[<sup>#5</sup>](#5) |
+| 2023.03 |   Work Experience   |                  Lecturer (C, Python, SQL)                 | [Hyosung Computer Academy](https://comgopa.co.kr/)[<sup>6</sup>](#6) |
 |     2023.03 ~ 2024.08    |   Work Experience   |                  Lecturer (C, Python, C++, Java) (₩ 15K ~ 30K per Hour)                 | N/A |
 | 2018.08 ~ 2018.09 |       Project       | The Recycle Project<br />(Haesung High School Notice App) |      Jeonju Haesung High School          |
 | 2020.05 ~ 2021.07 |       Project       | The Stellar Project<br />(One Commit per Day)     |                    PSG Team                    |
@@ -236,38 +237,45 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 |     2023.05       |       Project       | Development of a Shopping Malls <br />(Based on ReactJS, Typescript)<br />(₩ 100K ~ 150K per one copy)       |                    LABis                    |
 | 2023.06 ~ 2023.12 |       Project       | Development of a Text to 3D Rendering System <br />(Based on PyTorch3D)<br />(Confidential)       |                    LABis                    |
 | 2023.10 ~ 2024.01 |       Project       | Development of an OwnLab MVP Model <br />(Developing with separate technology stacks)<br />(₩ 6,600K ~ 7,200K)       |                    OwnLab                    |
-| 2021.07 ~ 2021.08 | Offline Internships | Image Classification with Toy Sets     | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
-| 2023.01.27 ~ 2023.02.20 | [Offline Internships](./assets/images/internships/KU/) | Analysis of the Extended Boussinesq Equations | [Coastal Hydrodynamics Lab, Korea Univ.](http://coastal.korea.ac.kr/)[<sup>6</sup>](#6) |
+| 2021.07 ~ 2021.08 | Offline Internships | Image Classification with Toy Sets     | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>7</sup>](#7) |
+| 2023.01.27 ~ 2023.02.20 | [Offline Internships](./assets/images/internships/KU/) | Analysis of the Extended Boussinesq Equations | [Coastal Hydrodynamics Laboratory (CHL), Korea Univ.](http://coastal.korea.ac.kr/)[<sup>8</sup>](#8) |
+| 2024.11 (Expected) | [Offline Internships]() | N/A | [Smart Diagnosis and Design Optimization Laboratory (SDDOL), GIST](https://sddo.gist.ac.kr/index.php)[<sup>9</sup>](#9) |
 | 2021.02 ~ 2022.08 | Research Activities | Resolving an Inverse Problem based on Deep Neural Networks | Mathematical Sciences Lab, Hanbat Nat'l Univ. |
-| 2021.08 ~ 2021.12 | Research Activities | Image Processing based on Deep Neural Networks for Detecting a Fender | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
-| 2021.12 ~ 2023.01 | Research Activities | Real-time Fenders Detection and Mapping System using Streo Vision and GPS | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
-| 2021.06 ~ 2023.01 | Research Activities | Object Detection for Multiple Types of Fenders | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
-| 2022.06 ~ 2023.01 | Research Activities | Laboratory Leader | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
-|     2023.01 ~ 2024.02    | Research Activities | Supporter, Developer | Hydraulic and Ecology-Environment Lab, Hanbat Nat'l Univ.[<sup>7</sup>](#7) |
-| 2022.04 | Papers | [Development of Fender Segmentation System for Port Structures using Vision Sensor and Deep Learning](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) | Journal of the Korea Institute for Structural Maintenance and Inspection[<sup>8</sup>](#8) |
-| 2023.12 | Papers | [Analysis of Piezoresistive Properties of Cement Composites with Fly Ash and Carbon Nanotubes Using Transformer Algorithm](https://www.jcoseik.or.kr/articles/article/0L17/) | Journal of the Computational Structural Engineering Institute of Korea[<sup>9</sup>](#9) |
-| 2022.11 | [Posters](https://www.coseik.or.kr/boards/notice/28995/detail/news/notice/)[<sup>9</sup>](#10) | [Development of a Construction Robot for Evaluation of Assembly Performance of Modular Steel Structures](./assets/images/poster.JPG) | Journal of the Computational Structural Engineering Institute of Korea[<sup>9</sup>](#9) |
+| 2021.08 ~ 2021.12 | Research Activities | Image Processing based on Deep Neural Networks for Detecting a Fender | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>7</sup>](#7) |
+| 2021.12 ~ 2023.01 | Research Activities | Real-time Fenders Detection and Mapping System using Streo Vision and GPS | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>7</sup>](#7) |
+| 2021.06 ~ 2023.01 | Research Activities | Object Detection for Multiple Types of Fenders | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>7</sup>](#7) |
+| 2022.06 ~ 2023.01 | Research Activities | Laboratory Leader | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>7</sup>](#7) |
+|     2023.01 ~ 2024.02    | Research Activities | Supporter, Developer | Hydraulic and Ecology-Environment Lab, Hanbat Nat'l Univ.[<sup>10</sup>](#10) |
+| 2022.04 | Papers | [Development of Fender Segmentation System for Port Structures using Vision Sensor and Deep Learning](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) | Journal of the Korea Institute for Structural Maintenance and Inspection[<sup>11</sup>](#11) |
+| 2023.12 | Papers | [Analysis of Piezoresistive Properties of Cement Composites with Fly Ash and Carbon Nanotubes Using Transformer Algorithm](https://www.jcoseik.or.kr/articles/article/0L17/) | Journal of the Computational Structural Engineering Institute of Korea[<sup>12</sup>](#12) |
+| 2022.11 | [Posters](https://www.coseik.or.kr/boards/notice/28995/detail/news/notice/)[<sup>13</sup>](#13) | [Development of a Construction Robot for Evaluation of Assembly Performance of Modular Steel Structures](./assets/images/poster.JPG) | Journal of the Computational Structural Engineering Institute of Korea[<sup>12</sup>](#12) |
 | 2021.03.22 ~ 2021.06.17 | Extracurricular Activities | Math Assistant | Nomad College, Hanbat Nat'l Univ. |  
 
-> <a id="1">[1]</a> Room 216, S12, 125, Dongseo-daero, Yuseong-gu, Daejeon, 34158, Republic of Korea
+> <a id="1">[1]</a> 125, Dongseo-daero, Yuseong-gu, Daejeon, Republic of Korea
 
-> <a id="2">[2]</a> Room 608, S5, 125, Dongseo-daero, Yuseong-gu, Daejeon, 34158, Republic of Korea
+> <a id="2">[2]</a> 123, Cheomdangwagi-ro, Buk-gu, Gwangju, Republic of Korea
 
-> <a id="3">[3]</a> 50, UNIST-gil, Eonyang-eup, Ulju-gun, Ulsan, Republic of Korea
+> <a id="3">[3]</a> Room 608, S5, 125, Dongseo-daero, Yuseong-gu, Daejeon, 34158, Republic of Korea
 
-> <a id="4">[4]</a> 5F, 134, Dunsan-ro, Seo-gu, Daejeon, Republic of Korea
+> <a id="4">[4]</a> 50, UNIST-gil, Eonyang-eup, Ulju-gun, Ulsan, Republic of Korea
 
-> <a id="5">[5]</a> Room 218, S8, 125, Dongseo-daero, Yuseong-gu, Daejeon, 34158, Republic of Korea
+> <a id="5">[5]</a> 55, Hanyangdaehak-ro, Sangnok-gu, Ansan-si, Gyeonggi-do, Republic of Korea
 
-> <a id="6">[6]</a> Eng. Bldg. Rm. 233, 73-15, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea
+> <a id="6">[6]</a> 5F, 134, Dunsan-ro, Seo-gu, Daejeon, Republic of Korea
 
-> <a id="7">[7]</a> Room 217, S8, 125, Dongseo-daero, Yuseong-gu, Daejeon, 34158, Republic of Korea
+> <a id="7">[7]</a> Room 218, S8, 125, Dongseo-daero, Yuseong-gu, Daejeon, 34158, Republic of Korea
 
-> <a id="8">[8]</a> Room 505, 15, Beobwon-ro 2-gil, Seocho-gu, Seoul, Republic of Korea
+> <a id="8">[8]</a> Eng. Bldg. Rm. 233, 73-15, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea
 
-> <a id="9">[9]</a> Room 808, Building 1 of the Korea Science and Technology Center, 22, Teheran-ro 7-gil, Gangnam-gu, Seoul
+> <a id="9">[9]</a> Room 317-318, School of Mechanical and Robotics Engineering (S1), 123, Cheomdangwagi-ro, Buk-gu, Gwangju, Republic of Korea
 
-> <a id="10">[10]</a> Tower B. B1F, 1153, Misiryeongyet-gil, Toseong-myeon, Goseong-gun, Gangwon-do, Republic of Korea
+> <a id="10">[10]</a> Room 217, S8, 125, Dongseo-daero, Yuseong-gu, Daejeon, 34158, Republic of Korea
+
+> <a id="11">[11]</a> Room 505, 15, Beobwon-ro 2-gil, Seocho-gu, Seoul, Republic of Korea
+
+> <a id="12">[12]</a> Room 808, Building 1 of the Korea Science and Technology Center, 22, Teheran-ro 7-gil, Gangnam-gu, Seoul
+
+> <a id="13">[13]</a> Tower B. B1F, 1153, Misiryeongyet-gil, Toseong-myeon, Goseong-gun, Gangwon-do, Republic of Korea
 
 ---
 
