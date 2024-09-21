@@ -181,7 +181,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 |        Date       |         Type        |                      Contents                     |                  Organization                  |
 |:-----------------:|:-------------------:|:-------------------------------------------------:|:----------------------------------------------:|
 |     2020.03 ~ 2024.02    |      Education (B.S.)      | Department of Civil and Environmental Engineering | Hanbat National University (HBNU) [<sup>1</sup>](#1) |
-|     2025.03 ~ 2027.02 (Expected)    |      Education (M.S.)      | School of Mechanical and Robotics Engineering | Gwangju Institute of Science and Technology (GIST) [<sup>2</sup>](#2) |
+|     2025.03 ~ 2027.02 (Expected)    |      Education (M.S.)      | School of Mechanical and Robotics Engineering | [Gwangju Institute of Science and Technology (GIST)](./assets/images/gist/gist.png) [<sup>2</sup>](#2) |
 | 2014.03 ~ 2017.03 |   Gifted Education  |                    Certificated                   | Educational Research and Information Institute |
 |     2015.11.25    |        Award        |                     Gold Prize                    | Educational Research and Information Institute |
 |     2021.12.10    |        Award        |                  President's Award                |           Hanbat National University           |
