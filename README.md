@@ -6,7 +6,7 @@
 
 <p align="center"> The profile of ENFYCIUS</p>
 
-:wave: Hello, I'm JongHyeok Kim, and I majored in Civil and Environmental Engineering at Hanbat National University in South Korea. I am excited to share that I have recently been accepted into the Master's program at Gwangju Institute of Science and Technology (GIST)'s School of Mechanical and Robotics Engineering (MRE). I will be conducting my research under the guidance of Professor Hyunseok Oh in his lab.
+:wave: Hello, I'm JongHyeok Kim, and I majored in Civil and Environmental Engineering at Hanbat National University in South Korea. I am excited to share that I have recently been accepted into the Master's program at [Gwangju Institute of Science and Technology (GIST)'s School of Mechanical and Robotics Engineering (MRE)](./assets/images/gist/gist.png). I will be conducting my research under the guidance of Professor Hyunseok Oh in his lab.
 
 I am incredibly grateful and excited to have the opportunity to become a graduate student at GIST. Although my cousin, who is currently working as a senior researcher at Korea Institute of Science and Technology Information (KISTI), pursued a different field in Computer Science, I am honored to follow a similar academic path at GIST. You can find his research work on [Google Scholar](https://scholar.google.com/citations?user=aW7jSykAAAAJ&hl=ko) and [ResearchGate](https://www.researchgate.net/profile/Ju-Won-Park).
 
