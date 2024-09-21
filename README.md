@@ -234,7 +234,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 | 2021.03 ~ 2021.07 |       Project       | The Pigbar Donut Project<br />(Information)       |                    과제 다했니                    |
 |     2023.03       |       Project       | Development of Instructor Management System<br />(Based on Spring Boot, EgovFramework, MariaDB)<br />(₩ 4,000K ~ 7,000K per one copy)       |                    LABis                    |
 |     2023.05       |       Project       | Development of a Shopping Malls <br />(Based on ReactJS, Typescript)<br />(₩ 100K ~ 150K per one copy)       |                    LABis                    |
-| 2023.06 ~ |       Project       | Development of a Text to 3D Rendering System <br />(Based on PyTorch3D)<br />(Confidential)       |                    LABis                    |
+| 2023.06 ~ 2023.12 |       Project       | Development of a Text to 3D Rendering System <br />(Based on PyTorch3D)<br />(Confidential)       |                    LABis                    |
 | 2023.10 ~ 2024.01 (Expected) |       Project       | Development of an OwnLab MVP Model <br />(Developing with separate technology stacks)<br />(₩ 6,600K ~ 7,200K)       |                    OwnLab                    |
 | 2021.07 ~ 2021.08 | Offline Internships | Image Classification with Toy Sets     | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
 | 2023.01.27 ~ 2023.02.20 | [Offline Internships](./assets/images/internships/KU/) | Analysis of the Extended Boussinesq Equations | [Coastal Hydrodynamics Lab, Korea Univ.](http://coastal.korea.ac.kr/)[<sup>6</sup>](#6) |
