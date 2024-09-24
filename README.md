@@ -96,6 +96,8 @@ I basically enjoy interacting with people, and the pleasure I get from that is i
 
 First of all, I would like to express my sincere gratitude to Professor [Jaemin Shin](https://sites.google.com/site/jaeminshin3/), who laid the foundation for all my learning.
 
+> Recently, my esteemed professor gave me a delicious box of chocolates to celebrate my admission to GIST graduate school, and I am truly grateful for this thoughtful gift.
+
 Next, I would like to express my sincere gratitude to my professors in the Department of Civil Engineering at Hanbat National University for their encouragement and assistance in helping me learn Civil Engineering smoothly.
 
 I would also like to express my sincere gratitude to Prof. [Jongseok Lee](http://cafe.hanbat.ac.kr/cafe/19961001/) for always believing in, supporting me and caring about me. 
