@@ -104,8 +104,6 @@ I would also like to express my sincere gratitude to Prof. [Jongseok Lee](http:/
 
 Furthermore, I would like to thank Professor [Taehwa Jung](https://sites.google.com/site/taehwajung/) for not only recognizing my potential and providing me with opportunities, such as arranging an internships at Korea University during the winter vacation, but also for always reminding me of the truth of learning.
 
-Before closing, I must mention a special person, my girlfriend Lee Da-yoon, who has been my unwavering source of support and strength during the challenging times. Her presence brings light to every moment we share together.
-
 Finally, in particular, I would like to express my deepest appreciation to Prof. [Haemin Jeon](https://haeminjeon.wixsite.com/hbnu), whose mentorship and guidance have been a cornerstone of my career. *Would I be where I am today if I had not met her?* She is, without question, one of the most generous and influential people I have ever had the privilege to know. I aspire to give to others as much as she has given to me, and for that, I will be eternally grateful.
 
 This is the place where my dreams, future, and aspirations align.
