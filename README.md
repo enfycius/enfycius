@@ -581,6 +581,18 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 > SpringBoot 기반 실시간 센서 제어를 위한 소켓 (Socket) 프로그래밍
 
+#### [토목 설계변경 프로그램 개발]() ![Completed](https://img.shields.io/badge/Completed-%ff1709?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+##### Total amount: Confidential
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-style&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/Github-181717?style=flat-style&logo=github&logoColor=white)
+
+![VBA](https://img.shields.io/badge/VBA-FFFFFF?style=flat-style&logo=vba&logoColor=3776AB)
+
+> VBA 기반 토목 설계변경 프로그램 개발 (당초, 변경, (증, 감))
+
+> 사용자 행(Rows) 지정 가능
+
 ---
 
 ### :star: Interests
