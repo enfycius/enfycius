@@ -581,7 +581,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 > SpringBoot 기반 실시간 센서 제어를 위한 소켓 (Socket) 프로그래밍
 
-#### [토목 설계변경 프로그램 개발]() ![Completed](https://img.shields.io/badge/Completed-%ff1709?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+#### [토목 설계변경 프로그램 개발](https://www.youtube.com/watch?v=lGqY5m_N7Xc) ![Completed](https://img.shields.io/badge/Completed-%ff1709?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 ##### Total amount: Confidential
 
