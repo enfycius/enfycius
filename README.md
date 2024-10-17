@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ENFYCIUS&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Stay%20Hungry,%20Stay%20Foolish&descAlignY=55&descAlign=62)
 
 <p align="center">
-  <img width="100%" height="100%" src="./assets/images/enfycius/enfycius.jpg">
+  <img width="35%" height="35%" src="./assets/images/enfycius/enfycius.jpg">
 </p>
 
 <p align="center"> The profile of ENFYCIUS</p>
