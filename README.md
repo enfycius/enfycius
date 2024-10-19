@@ -315,6 +315,12 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 #### 📑 KCI Publications
 
+* Kim, S.<sup>1</sup>, **Kim, J.**<sup>2</sup>, & Jeon, H.<sup>3†</sup> (2024). [Automated Crack Mapping Utilizing a Mobile Robot Equipped with a 2-DoF Manipulator]() Journal of the Computational Structural Engineering Institute of Korea. ![Expected](https://img.shields.io/badge/Expected-C71585?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+> <sup>1</sup> 한밭대학교 정보통신공학과 학부과정, <sup>2</sup> 한밭대학교 건설환경공학과 학부과정, <sup>3</sup> 한밭대학교 건설환경공학과 부교수
+
+> <sup>†</sup> Corresponding author: hjeon@hanbat.ac.kr
+
 * **Kim, J.**<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Dimensional Quality Assessment for Assembly Part of Prefabricated Steel Structures using a Stereo Vision Sensor.](https://www.jcoseik.or.kr/articles/article/29KE/) Journal of the Computational Structural Engineering Institute of Korea. ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 건설환경공학과 부교수
