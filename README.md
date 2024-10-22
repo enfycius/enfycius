@@ -293,7 +293,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 #### 🌍 SCIE Publications
 
-* Jang, D.<sup>a,1</sup>, Park, J.<sup>b,1</sup>, Choi, S.<sup>b</sup>, Bang, J.<sup>c</sup>, Choi, J.<sup>c</sup>, **Kim, J.**<sup>d</sup>, Yang, B.<sup>c,\*</sup>, & Jeon, H.<sup>d,\*</sup> (2024). [Novel approach for crack detections and rapid repairment methods in self-heating composites for smart infrastructures.]() Journal of Advanced Materials. ![Submitted](https://img.shields.io/badge/Under%20Revision-FFD700?style=flat-style&logoColor=#28A745&color=ff1709&labelColor=gray)
+* Jang, D.<sup>a,1</sup>, Park, J.<sup>b,1</sup>, Choi, S.<sup>b</sup>, Bang, J.<sup>c</sup>, Choi, J.<sup>c</sup>, **Kim, J.**<sup>d</sup>, Yang, B.<sup>c,\*</sup>, & Jeon, H.<sup>d,\*</sup> (2024). [Novel approach for crack detections and rapid repairment methods in self-heating composites for smart infrastructures.]() Journal of Advanced Materials. ![Submitted](https://img.shields.io/badge/Submitted-28A745?style=flat-style&logoColor=#28A745&color=ff1709&labelColor=gray)
 
 > <sup>a</sup> Center for Advanced Construction Materials, Department of Civil Engineering, The University of Texas at Arlington, TX, 76019, USA
 
@@ -307,7 +307,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 > <sup>*</sup> Corresponding authors: B. Yang (byang@chungbuk.ac.kr), H. Jeon (hjeon@hanbat.ac.kr)
 
-* **Kim, J.**<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Autonomous Concrete Crack Monitoring using a Mobile Robot with Manipulator and Stereo Vision Sensors.]() Measurement. ![Submitted](https://img.shields.io/badge/Submitted-28A745?style=flat-style&logoColor=#28A745&color=ff1709&labelColor=gray)
+* **Kim, J.**<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Autonomous Concrete Crack Monitoring using a Mobile Robot with Manipulator and Stereo Vision Sensors.]() Measurement. ![Under Revision](https://img.shields.io/badge/Under%20Revision-FFD700?style=flat-style&logoColor=#28A745&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 건설환경공학과 부교수
 
