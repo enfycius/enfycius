@@ -253,7 +253,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 | 2023.10 ~ 2024.01 |       Project       | Development of an OwnLab MVP Model <br />(Developing with separate technology stacks)<br />(₩ 6,600K ~ 7,200K)       |                    OwnLab                    |
 | 2021.07 ~ 2021.08 | Offline Internships | Image Classification with Toy Sets     | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>7</sup>](#7) |
 | 2023.01.27 ~ 2023.02.20 | [Offline Internships](./assets/images/internships/KU/) | Analysis of the Extended Boussinesq Equations | [Coastal Hydrodynamics Laboratory (CHL), Korea Univ.](http://coastal.korea.ac.kr/)[<sup>8</sup>](#8) |
-| 2024.10.24 ~ | [Offline Internships]() | N/A | [Smart Diagnosis and Design Optimization Laboratory (SDDOL), GIST](https://sddo.gist.ac.kr/index.php)[<sup>9</sup>](#9) |
+| 2024.10.24 ~ | [Offline Internships](./assets/images/internships/GIST/SDDO.png) | Prognostics and Health Management (PHM) | [Smart Diagnosis and Design Optimization Laboratory (SDDOL), GIST](https://sddo.gist.ac.kr/index.php)[<sup>9</sup>](#9) |
 | 2021.02 ~ 2022.08 | Research Activities | Resolving an Inverse Problem based on Deep Neural Networks | Mathematical Sciences Lab, Hanbat Nat'l Univ. |
 | 2021.08 ~ 2021.12 | Research Activities | Image Processing based on Deep Neural Networks for Detecting a Fender | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>7</sup>](#7) |
 | 2021.12 ~ 2023.01 | Research Activities | Real-time Fenders Detection and Mapping System using Streo Vision and GPS | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>7</sup>](#7) |
