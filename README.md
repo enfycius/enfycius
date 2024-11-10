@@ -148,6 +148,20 @@ We received the Grand Prize (Institute of Information & Communications Technolog
 
 ---
 
+I am currently interning at the SDDO Lab at GIST, where I plan to focus my research primarily on Prognostics and Health Management (PHM). The project assigned to me is a government-related research project focused on nuclear power, and it is likely that I will continue this work even after advancing to my Ph.D.
+
+![SDDO](./assets/images/internships/GIST/SDDO.png)
+
+---
+
+I was fortunate to be able to attend the lab’s Homecoming Day during my internship.
+
+It was a precious and invaluable experience for me, and I also felt a hopeful assurance that, with dedicated effort, I could achieve similar success, thanks to the inspiring paths paved by such accomplished seniors. Their presence motivated me deeply, and I am determined to strive toward becoming someone as admirable as they are.
+
+![Homecoming Day](./assets/images/internships/GIST/Homecoming.png)
+
+---
+
 My tutee, **Daniel Son**, lives in Southern California, USA, and his sister is also taking my class, officially started working as an Android app developer at OwnLab since January 22, 2024.
 
 > I sincerely hope it's a good experience for you.
