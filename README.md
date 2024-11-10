@@ -392,6 +392,44 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 ---
 
+### 📑 Research Projects
+
+#### 광통신에서 역산란 문제의 응용 ![Completed](https://img.shields.io/badge/Completed-%ff1709?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+**Participation Period:** 01/2021 - 08/2022
+
+> Government Project in Applied Backscattering Problems in Optical Communication  
+
+> Role: Research Assistant, focusing on data analysis and model development
+
+#### 영상 기반 계류시설 방충설비 검출기술 개발 용역 ![Completed](https://img.shields.io/badge/Completed-%ff1709?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+**Participation Period:** 07/2021 - 12/2021
+
+> Government Project on Development of Detection Technology for Mooring Facility Anti-Pest Equipment Using Video Analysis  
+
+> Role: Research Assistant - Built and optimized a Unet model, compared it with newly developed models, implemented data augmentation techniques, and developed custom labeling tools.
+
+#### 건설 구조물 조립성능 진단을 위한 지능형∙원격 건설로봇 기술 개발 ![Completed](https://img.shields.io/badge/Completed-%ff1709?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+**Participation Period:** 07/2021 - 12/2023
+
+> Government Project on Intelligent and Remote Construction Robotics Technology for Assembly Performance Diagnostics of Building Structures
+
+> Role: Lead Researcher - Independently implemented autonomous driving technologies, including SLAM, for Wego’s Scout-mini product using a ZED stereo vision sensor. Conducted experiments on an actual testbed, resulting in the publication of a KCI paper, with an SCIE paper currently under revision.
+
+#### 인공지능 기반 일차계통 고장진단 학습모델 개발 ![Expected](https://img.shields.io/badge/Expected-FFA500?style=flat-style&logoColor=#FFA500&color=FFA500&labelColor=gray)
+
+**Participation Period:** Current - 12/2029
+
+> Government Project on Developing AI-based Fault Diagnosis Learning Model for Primary Systems
+
+> Role: Lead Researcher - Expected to oversee and lead the development of the AI-based fault diagnosis learning model as the primary researcher.
+
+> Currently in the process of knowledge transfer and handover.
+
+---
+
 ### :boom: Team Projects (PSG)
 
 #### [The Stellar Project](https://github.com/psgstellar/Stellar "The Stellar Project")
@@ -405,6 +443,8 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 ![Spring](https://img.shields.io/badge/Spring-white?style=flat-style&logo=spring&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > 스터디그룹 내 스터디원들의 1일 1커밋을 체크해주는 전자정부프레임워크 기반 프로젝트
+
+---
 
 ### :boom: Competition Projects
 
@@ -422,6 +462,8 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 
 > 동기부여 교육 앱 (2021 공개SW 개발자 대회 출품작)
+
+---
 
 ### :telescope: Lab Projects
 
@@ -468,6 +510,8 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 > 대전광역시 유성구에 위치한 5개 지점의 교량들의 수위 예측 모델에 대한 연구 및 이에 대한 iOS 및 Android 기반 어플리케이션 개발
 
+---
+
 ### :fire: Side Projects
 
 #### [The Quick Project](https://github.com/enfycius/The-Quick-Project "The Quick Project")
@@ -500,6 +544,8 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 
 > Docu-Notion을 통해 노션 to 폴더로 마크다운 파일을 생성 및 이를 이동시키는 것에서 더 나아가, Github으로 커밋(Commit) 및 푸쉬(Push)를 자동으로 해주는 솔루션(Solution)
+
+---
 
 ### 🏖️ Outsourcing Projects
 
@@ -616,6 +662,13 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 ### :star: Interests
 
 - Prognostics and Health Management (PHM)
+- Domain Adaptation
+- Time Series
+- STFT
+- Regression
+
+#### Previous Research Areas
+
 - ConstructionIT
 - Applications of computer vision and machine learning
 - Sensor fusion and tracking
