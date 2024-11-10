@@ -397,6 +397,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 #### 광통신에서 역산란 문제의 응용 ![Completed](https://img.shields.io/badge/Completed-%ff1709?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 **Affiliation:** Hanbat National University (HBNU)
+
 **Participation Period:** 01/2021 - 08/2022
 
 > Government Project in Applied Backscattering Problems in Optical Communication  
@@ -406,6 +407,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 #### 영상 기반 계류시설 방충설비 검출기술 개발 용역 ![Completed](https://img.shields.io/badge/Completed-%ff1709?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 **Affiliation:** Hanbat National University (HBNU)
+
 **Participation Period:** 07/2021 - 12/2021
 
 > Government Project on Development of Detection Technology for Mooring Facility Anti-Pest Equipment Using Video Analysis  
@@ -415,6 +417,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 #### 건설 구조물 조립성능 진단을 위한 지능형∙원격 건설로봇 기술 개발 ![Completed](https://img.shields.io/badge/Completed-%ff1709?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 **Affiliation:** Hanbat National University (HBNU)
+
 **Participation Period:** 07/2021 - 12/2023
 
 > Government Project on Intelligent and Remote Construction Robotics Technology for Assembly Performance Diagnostics of Building Structures
@@ -424,6 +427,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 #### 인공지능 기반 일차계통 고장진단 학습모델 개발 ![Expected](https://img.shields.io/badge/Expected-FFA500?style=flat-style&logoColor=#FFA500&color=FFA500&labelColor=gray)
 
 **Affiliation:** Gwangju Institute of Science and Technology (GIST)  
+
 **Participation Period:** Current - 12/2029
 
 > Government Project on Developing AI-based Fault Diagnosis Learning Model for Primary Systems
