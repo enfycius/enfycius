@@ -670,6 +670,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 ### :star: Interests
 
 - Prognostics and Health Management (PHM)
+- Loose Parts Monitoring System (LPMS)
 - Domain Adaptation
 - Time Series
 - STFT
