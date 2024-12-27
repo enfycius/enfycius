@@ -162,6 +162,26 @@ It was a precious and invaluable experience for me, and I also felt a hopeful as
 
 ---
 
+During my internship, I was fortunate to attend the lab’s year-end party.
+Prior to the party, we held a Secret Santa event, and I was able to guess who had given me my gift based on the thoughtful choice.
+The gift turned out to be an Apple polishing cloth—something I had been wanting for a long time but hesitated to purchase due to its price.
+To my great surprise, the senior who played the role of my Secret Santa seemed to understand my unspoken wish, just like a real Santa Claus, and prepared the perfect gift for me.
+I couldn’t have been happier to discover that this was my gift.
+
+As I correctly guessed who my Secret Santa was, the professor rewarded me with a Starbucks coupon.
+Additionally, the professor generously gave each of us another Starbucks coupon as a separate gift for the lab members.
+
+![Secret Santa](./assets/images/internships/GIST/Secret-santa.png)
+
+One particularly memorable moment during the year-end party was when we gathered at a café after the main dinner to reflect on the year.
+Taking turns, each of us shared our thoughts and experiences.
+I expressed how grateful and joyful I felt to have been part of the SDDO lab this year.
+Thanks to the warm support of the professor and the wonderful lab members, the SDDO lab felt like a cozy haven, even during the cold winter season.
+
+![Year End Party](./assets/images/internships/GIST/Year-end-party.png)
+
+---
+
 My tutee, **Daniel Son**, lives in Southern California, USA, and his sister is also taking my class, officially started working as an Android app developer at OwnLab since January 22, 2024.
 
 > I sincerely hope it's a good experience for you.
