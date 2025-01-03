@@ -691,6 +691,9 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 - Prognostics and Health Management (PHM)
 - Loose Parts Monitoring System (LPMS)
+- Incremental Learning
+- Permanent Magnet Synchronous Motor (PMSM)
+- Interturn Short-Circuit Fault (ISCF)
 - Domain Adaptation
 - Time Series
 - STFT
