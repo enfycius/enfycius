@@ -694,6 +694,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 - Incremental Learning
 - Permanent Magnet Synchronous Motor (PMSM)
 - Interturn Short-Circuit Fault (ISCF)
+- Physics-Informed Neural Network (PINN)
 - Domain Adaptation
 - Time Series
 - STFT
