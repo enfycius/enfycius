@@ -456,6 +456,14 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 > Currently in the process of knowledge transfer and handover.
 
+#### LG전자(주), 컴프 고장 진단 모델 개발(2단계) ![In Progress](https://img.shields.io/badge/In%20Progress-007BFF?style=flat-style&logoColor=#FFFFFF&color=007BFF&labelColor=gray)
+
+**Affiliation:** Gwangju Institute of Science and Technology (GIST), LG Electronics Inc.
+
+**Participation Period:** 2024. 5 ~ 2025. 4
+
+> Role: Lead Researcher – Responsible for overseeing the development of an AI-based fault diagnosis learning model, with a future focus on designing and implementing Incremental Learning methods tailored for compressor fault diagnosis. As the primary researcher, expected to lead all aspects of the project’s advancement and innovation.
+
 ---
 
 ### :boom: Team Projects (PSG)
