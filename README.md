@@ -327,7 +327,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 #### 🌍 SCIE Publications
 
-* Jang, D.<sup>a,1</sup>, Park, J.<sup>b,1</sup>, Choi, S.<sup>b</sup>, Bang, J.<sup>c</sup>, Choi, J.<sup>c</sup>, **Kim, J.**<sup>d</sup>, Yang, B.<sup>c,\*</sup>, & Jeon, H.<sup>d,\*</sup> (2024). [Novel approach for crack detections and rapid repairment methods in self-heating composites for smart infrastructures.]() *Composites Part B: Engineering*. ![Accepted](https://img.shields.io/badge/Accepted-28A745?style=flat-style&logoColor=white&color=28A745&labelColor=gray)
+* Jang, D.<sup>a,1</sup>, Park, J.<sup>b,1</sup>, Choi, S.<sup>b</sup>, Bang, J.<sup>c</sup>, Choi, J.<sup>c</sup>, **Kim, J.**<sup>d</sup>, Yang, B.<sup>c,\*</sup>, & Jeon, H.<sup>d,\*</sup> (2024). [Novel approach for crack detections and rapid repairment methods in self-heating composites for smart infrastructures.](https://www.sciencedirect.com/science/article/pii/S1359836825000162) *Composites Part B: Engineering*. ![Accepted](https://img.shields.io/badge/Accepted-28A745?style=flat-style&logoColor=white&color=28A745&labelColor=gray)
 
 > <sup>a</sup> Center for Advanced Construction Materials, Department of Civil Engineering, The University of Texas at Arlington, TX, 76019, USA
 
