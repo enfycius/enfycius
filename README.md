@@ -182,6 +182,20 @@ Thanks to the warm support of the professor and the wonderful lab members, the S
 
 ---
 
+From January 22 to 23, our lab had the privilege of hosting a **Joint Workshop** with the KAIST iAI Lab.  
+
+This collaborative event provided an invaluable opportunity for the exchange of innovative ideas, fostering mutual growth and synergy between the two leading research institutions.
+
+The workshop featured thought-provoking presentations, engaging discussions, and a shared vision for advancing research in AI and Prognostics and Health Management (PHM).
+
+We deeply appreciated the insights and camaraderie shared during these two days, and we hope this marks the beginning of many fruitful collaborations between GIST and KAIST.
+
+Below is a group photo capturing the spirit of our meaningful time together:
+
+![Joint Workshop](./assets/images/workshops/gist-kaist-joint-workshop.png)
+
+---
+
 My tutee, **Daniel Son**, lives in Southern California, USA, and his sister is also taking my class, officially started working as an Android app developer at OwnLab since January 22, 2024.
 
 > I sincerely hope it's a good experience for you.
