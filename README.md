@@ -194,6 +194,14 @@ Below is a group photo capturing the spirit of our meaningful time together:
 
 ![Joint Workshop](./assets/images/workshops/gist-kaist-joint-workshop.png)
 
+During the workshop, we also took the opportunity to capture a special moment with just our **SDDO Lab members**.  
+
+This photo reflects the strong bond and teamwork that drives our research forward. It is a reminder of the collaborative spirit within our lab, which inspires us to continue pursuing innovative solutions in our respective fields.
+
+Here’s the SDDO Lab family:
+
+![SDDO Lab](./assets/images/workshops/sddo.png)
+
 ---
 
 My tutee, **Daniel Son**, lives in Southern California, USA, and his sister is also taking my class, officially started working as an Android app developer at OwnLab since January 22, 2024.
