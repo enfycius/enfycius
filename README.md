@@ -349,6 +349,14 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 #### 🌍 SCIE Publications
 
+* Hwang, M.<sup>a,1</sup>, **Kim, J.**<sup>a,1</sup>, Lee, H.<sup>a</sup>, & Oh, H.<sup>a,\*</sup> (2025). [Max-Min Crest Factor: Scale-Free Health Indicator for Interturn Short-Circuit Faults in Permanent Magnet Synchronous Motors](#). *IEEE Access*. ![To be submitted](https://img.shields.io/badge/To%20be%20submitted-lightgray?style=flat-square)
+
+> <sup>a</sup> School of Mechanical and Robotics Engineering, Gwangju Institute of Science and Technology, Gwangju 61005, Republic of Korea  
+
+> <sup>1</sup> These authors contributed equally to this work.
+  
+> \* Corresponding author: Hyunseok Oh (hsoh@gist.ac.kr) 
+
 * Jang, D.<sup>a,1</sup>, Park, J.<sup>b,1</sup>, Choi, S.<sup>b</sup>, Bang, J.<sup>c</sup>, Choi, J.<sup>c</sup>, **Kim, J.**<sup>d</sup>, Yang, B.<sup>c,\*</sup>, & Jeon, H.<sup>d,\*</sup> (2024). [Novel approach for crack detections and rapid repairment methods in self-heating composites for smart infrastructures.](https://www.sciencedirect.com/science/article/pii/S1359836825000162) *Composites Part B: Engineering*. ![Accepted](https://img.shields.io/badge/Accepted-28A745?style=flat-style&logoColor=white&color=28A745&labelColor=gray)
 
 > <sup>a</sup> Center for Advanced Construction Materials, Department of Civil Engineering, The University of Texas at Arlington, TX, 76019, USA
@@ -363,7 +371,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 > <sup>*</sup> Corresponding authors: B. Yang (byang@chungbuk.ac.kr), H. Jeon (hjeon@hanbat.ac.kr)
 
-* **Kim, J.**<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Autonomous Concrete Crack Monitoring using a Mobile Robot with Manipulator and Stereo Vision Sensors.]() Measurement. ![Under Revision](https://img.shields.io/badge/Under%20Revision-FFD700?style=flat-style&logoColor=#28A745&color=ff1709&labelColor=gray)
+* **Kim, J.**<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Autonomous Concrete Crack Monitoring using a Mobile Robot with Manipulator and Stereo Vision Sensors.](#) *Engineering Applications of Artificial Intelligence*. ![Under Review](https://img.shields.io/badge/Under%20Review-blue?style=flat-square)  
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 건설환경공학과 부교수
 
