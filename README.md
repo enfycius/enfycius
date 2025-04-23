@@ -381,7 +381,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 * Kim, S.<sup>1</sup>, **Kim, J.**<sup>2</sup>, & Jeon, H.<sup>3†</sup> (2024). [Automated Crack Mapping Utilizing a Mobile Robot Equipped with a 2-DoF Manipulator]() Journal of the Computational Structural Engineering Institute of Korea. ![Accepted](https://img.shields.io/badge/Accepted-28A745?style=flat-style&logoColor=white&color=28A745&labelColor=gray)
 
-> <sup>1</sup> 한밭대학교 정보통신공학과 학부과정, <sup>2</sup> 한밭대학교 건설환경공학과 학부과정, <sup>3</sup> 한밭대학교 건설환경공학과 부교수
+> <sup>1</sup> 광주과학기술원 AI융합학과 석사과정, <sup>2</sup> 광주과학기술원 기계로봇공학과 석사과정, <sup>3</sup> 한밭대학교 건설환경공학과 부교수
 
 > <sup>†</sup> Corresponding author: hjeon@hanbat.ac.kr
 
