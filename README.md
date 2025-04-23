@@ -371,7 +371,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 > <sup>*</sup> Corresponding authors: B. Yang (byang@chungbuk.ac.kr), H. Jeon (hjeon@hanbat.ac.kr)
 
-* **Kim, J.**<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Autonomous Concrete Crack Monitoring using a Mobile Robot with Manipulator and Stereo Vision Sensors.](#) *Engineering Applications of Artificial Intelligence*. ![Under Review](https://img.shields.io/badge/Under%20Review-blue?style=flat-square)  
+* **Kim, J.**<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2025). [Autonomous Concrete Crack Monitoring using a Mobile Robot with Manipulator and Stereo Vision Sensors.](#) *Engineering Applications of Artificial Intelligence*. ![Under Review](https://img.shields.io/badge/Under%20Review-blue?style=flat-square)  
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 건설환경공학과 부교수
 
