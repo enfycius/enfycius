@@ -422,6 +422,14 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 ### :speech_balloon: Conference Proceedings
 
+* Kim, N.<sup>1†</sup>, **Kim, J.**<sup>1</sup>, Park, J.<sup>2</sup>, Kim, T.<sup>2</sup>, Ahn, S.<sup>2</sup>, & Oh, H.<sup>1</sup> (2025). *Real-Time Fault Diagnosis of Compressors Using Incremental Gaussian Mixture Model.* The Korean Society of Mechanical Engineers Reliability Division Conference 2025, Gyeongju Kolon Hotel, South Korea, April 9 – April 11, 2025. ![Presentation](https://img.shields.io/badge/Presentation-00BFFF?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+> <sup>1</sup> Department of Mechanical and Robotics Engineering, Gwangju Institute of Science and Technology  
+
+> <sup>2</sup> LG Electronics Inc.
+
+> <sup>†</sup> Corresponding author: Nayeon Kim (navy8829@gm.gist.ac.kr)
+
 * **Kim, J.**<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2024). [Concrete cracks evaluation using a mobile robot and stereo vision system.](https://github.com/enfycius/enfycius/blob/main/assets/images/poster.JPG) Computational Structural Engineering Institute of Korea Conference 2024, Jeju Island, South Korea, April 17 - April 19, 2024. ![Presentation](https://img.shields.io/badge/Presentation-00BFFF?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 건설환경공학과 부교수
