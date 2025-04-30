@@ -349,7 +349,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 #### 🌍 SCIE Publications
 
-* Hwang, M.<sup>a,1</sup>, **Kim, J.**<sup>a,1</sup>, Lee, H.<sup>a</sup>, & Oh, H.<sup>a,\*</sup> (2025). [Max-Min Crest Factor: Scale-Free Health Indicator for Interturn Short-Circuit Faults in Permanent Magnet Synchronous Motors](#). *IEEE Access*. ![To be submitted](https://img.shields.io/badge/To%20be%20submitted-lightgray?style=flat-square)
+* Hwang, M.<sup>a,1</sup>, **Kim, J.**<sup>a,1</sup>, Lee, H.<sup>a</sup>, & Oh, H.<sup>a,\*</sup> (2025). [Max-Min Crest Factor: Scale-Free Health Indicator for Interturn Short-Circuit Faults in Permanent Magnet Synchronous Motors](#). *IEEE Access*. ![Submitted](https://img.shields.io/badge/Submitted-007BFF?style=flat-style&logoColor=white&color=007BFF&labelColor=gray)
 
 > <sup>a</sup> School of Mechanical and Robotics Engineering, Gwangju Institute of Science and Technology, Gwangju 61005, Republic of Korea  
 
@@ -357,7 +357,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
   
 > \* Corresponding author: Hyunseok Oh (hsoh@gist.ac.kr) 
 
-* Jang, D.<sup>a,1</sup>, Park, J.<sup>b,1</sup>, Choi, S.<sup>b</sup>, Bang, J.<sup>c</sup>, Choi, J.<sup>c</sup>, **Kim, J.**<sup>d</sup>, Yang, B.<sup>c,\*</sup>, & Jeon, H.<sup>d,\*</sup> (2024). [Novel approach for crack detections and rapid repairment methods in self-heating composites for smart infrastructures.](https://www.sciencedirect.com/science/article/pii/S1359836825000162) *Composites Part B: Engineering*. ![Accepted](https://img.shields.io/badge/Accepted-28A745?style=flat-style&logoColor=white&color=28A745&labelColor=gray)
+* Jang, D.<sup>a,1</sup>, Park, J.<sup>b,1</sup>, Choi, S.<sup>b</sup>, Bang, J.<sup>c</sup>, Choi, J.<sup>c</sup>, **Kim, J.**<sup>d</sup>, Yang, B.<sup>c,\*</sup>, & Jeon, H.<sup>d,\*</sup> (2024). [Novel approach for crack detections and rapid repairment methods in self-heating composites for smart infrastructures.](https://www.sciencedirect.com/science/article/pii/S1359836825000162) *Composites Part B: Engineering*. ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>a</sup> Center for Advanced Construction Materials, Department of Civil Engineering, The University of Texas at Arlington, TX, 76019, USA
 
