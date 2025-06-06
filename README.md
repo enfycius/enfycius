@@ -256,6 +256,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 | 2023.07 ~ 2023.09 |     Competition     |      The 14th National Land Development Technology Competition   | Korea Land&Housing Corporation |
 | 2023.10.04 ~ 2023.11.22 |     Competition     |      [Data Analytics Competition 2023](https://github.com/enfycius/Miri-Su/blob/main/assets/pdfs/Flood%20Guardians%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_v9.pdf)   | Hanbat National University |
 | 2024.06.23 ~ 2024.07.11 |     Competition     |     Future Convergence Talent Discovery Software Challenge   | Gyeongsan Innovation Academy |
+| 2025.06           |     Scholarship      |     Graduate Presidential Science Scholarship (대학원 대통령과학장학금)     | Korea Student Aid Foundation (한국장학재단) |
 |  2021.10 ~ 2022.09.10   |         Club        | Vice-chairman, [import(Coding Club)](https://import-hanbat.com/) |           Hanbat National University          |
 |      2023.03 ~ 2023.10     |         Club        | AI Developer, [Miracle](https://www.instagram.com/team_miracle_hbnu/) |           Hanbat National University          |
 |  2023.03 ~ 2024.02   | On-Campus Activities | [소중한 봉사단 2기](http://www.ccnnews.co.kr/news/articleView.html?idxno=288342) |           Hanbat National University          |
@@ -498,7 +499,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 **Affiliation:** Gwangju Institute of Science and Technology (GIST), LG Electronics Inc.
 
-**Participation Period:** 2024. 5 ~ 2025. 4
+**Participation Period:** 2025. 4 - Current
 
 > Role: Lead Researcher – Responsible for overseeing the development of an AI-based fault diagnosis learning model, with a future focus on designing and implementing Incremental Learning methods tailored for compressor fault diagnosis. As the primary researcher, expected to lead all aspects of the project’s advancement and innovation.
 
