@@ -204,6 +204,19 @@ Here’s the SDDO Lab family:
 
 ---
 
+From June 2025, I am honored to share that I have been selected as a recipient of the Graduate Presidential Science Scholarship (대학원 대통령과학장학금), awarded by the Korea Student Aid Foundation (한국장학재단).
+
+This prestigious scholarship recognizes graduate students in science and engineering across Korea who have demonstrated academic excellence and research potential. It is both a personal milestone and a meaningful encouragement to further contribute to the field of AI and Prognostics and Health Management (PHM).
+
+This announcement comes just a few months after our Joint Workshop with the KAIST iAI Lab, where collaboration and shared vision took center stage. The energy and synergy exchanged during that event reaffirmed the importance of growing not only as an individual researcher, but also as part of a community striving toward impactful innovation.
+
+I am sincerely grateful to my advisor, lab members, and colleagues for their unwavering support and belief in my journey.
+This achievement is not the end but a stronger beginning — one that motivates me to continue pushing the boundaries of research, especially in PHM, AI-driven diagnostics, and intelligent systems.
+
+Here’s to collective growth, and to the many challenges ahead that I now face with even greater purpose and determination.
+
+---
+
 My tutee, **Daniel Son**, lives in Southern California, USA, and his sister is also taking my class, officially started working as an Android app developer at OwnLab since January 22, 2024.
 
 > I sincerely hope it's a good experience for you.
