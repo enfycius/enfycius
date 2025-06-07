@@ -211,9 +211,12 @@ This prestigious scholarship recognizes graduate students in science and enginee
 This announcement comes just a few months after our Joint Workshop with the KAIST iAI Lab, where collaboration and shared vision took center stage. The energy and synergy exchanged during that event reaffirmed the importance of growing not only as an individual researcher, but also as part of a community striving toward impactful innovation.
 
 I am sincerely grateful to my advisor, lab members, and colleagues for their unwavering support and belief in my journey.
+
 This achievement is not the end but a stronger beginning — one that motivates me to continue pushing the boundaries of research, especially in PHM, AI-driven diagnostics, and intelligent systems.
 
 Here’s to collective growth, and to the many challenges ahead that I now face with even greater purpose and determination.
+
+![President](./assets/images/scholarships/president.png)
 
 ---
 
