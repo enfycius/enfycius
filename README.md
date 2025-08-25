@@ -366,7 +366,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 #### 🌍 SCIE Publications
 
-* Hwang, M.<sup>a,1</sup>, **Kim, J.**<sup>a,1</sup>, Lee, H.<sup>a</sup>, & Oh, H.<sup>a,\*</sup> (2025). [Max-Min Crest Factor: Scale-Free Health Indicator for Interturn Short-Circuit Faults in Permanent Magnet Synchronous Motors](#). *IEEE Access*. ![Submitted](https://img.shields.io/badge/Submitted-007BFF?style=flat-style&logoColor=white&color=007BFF&labelColor=gray)
+* Hwang, M.<sup>a,1</sup>, **Kim, J.**<sup>a,1</sup>, Lee, H.<sup>a</sup>, & Oh, H.<sup>a,\*</sup> (2025). [Scale-Free and Phase-Agnostic Detection of Interturn Short Circuit Faults in Permanent Magnet Synchronous Motors](#). *IEEE Access*. ![Accepted](https://img.shields.io/badge/Accepted-28A745?style=flat-style&logoColor=white&color=28A745&labelColor=gray)
 
 > <sup>a</sup> School of Mechanical and Robotics Engineering, Gwangju Institute of Science and Technology, Gwangju 61005, Republic of Korea  
 
@@ -396,7 +396,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 #### 📑 KCI Publications
 
-* Kim, S.<sup>1</sup>, **Kim, J.**<sup>2</sup>, & Jeon, H.<sup>3†</sup> (2024). [Automated Crack Mapping Utilizing a Mobile Robot Equipped with a 2-DoF Manipulator]() Journal of the Computational Structural Engineering Institute of Korea. ![Accepted](https://img.shields.io/badge/Accepted-28A745?style=flat-style&logoColor=white&color=28A745&labelColor=gray)
+* Kim, S.<sup>1</sup>, **Kim, J.**<sup>2</sup>, & Jeon, H.<sup>3†</sup> (2024). [Automated Crack Mapping Utilizing a Mobile Robot Equipped with a 2-DoF Manipulator](https://www.jcoseik.or.kr/articles/xml/AMzm/) Journal of the Computational Structural Engineering Institute of Korea. ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> 광주과학기술원 AI융합학과 석사과정, <sup>2</sup> 광주과학기술원 기계로봇공학과 석사과정, <sup>3</sup> 한밭대학교 건설환경공학과 부교수
 
