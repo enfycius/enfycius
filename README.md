@@ -368,7 +368,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 * Hwang, M.<sup>a,1</sup>, **Kim, J.**<sup>a,1</sup>, Lee, H.<sup>a</sup>, & Oh, H.<sup>a,\*</sup> (2025). [Scale-Free and Phase-Agnostic Detection of Interturn Short Circuit Faults in Permanent Magnet Synchronous Motors](#). *IEEE Access*. ![Accepted](https://img.shields.io/badge/Accepted-28A745?style=flat-style&logoColor=white&color=28A745&labelColor=gray)
 
-> <sup>a</sup> School of Mechanical and Robotics Engineering, Gwangju Institute of Science and Technology, Gwangju 61005, Republic of Korea  
+> <sup>a</sup> Department of Mechanical and Robotics Engineering, Gwangju Institute of Science and Technology, Gwangju 61005, Republic of Korea  
 
 > <sup>1</sup> These authors contributed equally to this work.
   
