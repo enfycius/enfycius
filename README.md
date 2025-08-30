@@ -204,6 +204,20 @@ Here’s the SDDO Lab family:
 
 ---
 
+From February 11, 2025, our lab had the privilege of attending the KSME 2025 Scientific Machine Learning Workshop held at the Posco Center in Seoul.
+
+This workshop was hosted by our professor, Prof. Hyunseok Oh, and organized by the Korean Society of Mechanical Engineers (KSME). It served as a platform for researchers and practitioners to exchange insights on physics-informed and knowledge-based AI approaches in mechanical engineering.
+
+As SDDO Lab members, we actively participated in the sessions, gaining valuable perspectives on the future directions of scientific machine learning and its applications in Prognostics and Health Management (PHM).
+
+Here’s a photo from the workshop that captures this meaningful experience:
+
+![KSME 2025 Workshop](./assets/images/물리지식기반%20인공지능/물리지식기반%20인공지능.png)
+
+![KSME 2025 Workshop 단체사진](./assets/images/물리지식기반%20인공지능/물리지식기반%20인공지능%20단체사진.png)
+
+---
+
 From June 2025, I am honored to share that I have been selected as a recipient of the Graduate Presidential Science Scholarship (대학원 대통령과학장학금), awarded by the Korea Student Aid Foundation (한국장학재단).
 
 This prestigious scholarship recognizes graduate students in science and engineering across Korea who have demonstrated academic excellence and research potential. It is both a personal milestone and a meaningful encouragement to further contribute to the field of AI and Prognostics and Health Management (PHM).
