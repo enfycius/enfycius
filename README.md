@@ -218,6 +218,18 @@ Here’s a photo from the workshop that captures this meaningful experience:
 
 ---
 
+From May 15, 2025, we celebrated Teachers’ Day at the SDDO Lab.
+
+On this meaningful day, we expressed our gratitude to our professor, Prof. Hyunseok Oh, by presenting a bouquet of flowers. It was a small gesture, but it carried our sincere appreciation for his continuous guidance, encouragement, and dedication to nurturing us as researchers.
+
+The moment was both heartwarming and memorable, reminding us of the importance of mentorship in our academic journey. Teachers’ Day served as an opportunity to reflect on how fortunate we are to learn and grow under the leadership of such an inspiring mentor.
+
+Here is a photo from that special occasion:
+
+![Teachers day](./assets/images/Teachers%20day/Teachers%20day.png)
+
+---
+
 From June 2025, I am honored to share that I have been selected as a recipient of the Graduate Presidential Science Scholarship (대학원 대통령과학장학금), awarded by the Korea Student Aid Foundation (한국장학재단).
 
 This prestigious scholarship recognizes graduate students in science and engineering across Korea who have demonstrated academic excellence and research potential. It is both a personal milestone and a meaningful encouragement to further contribute to the field of AI and Prognostics and Health Management (PHM).
