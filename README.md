@@ -254,6 +254,19 @@ Here’s a photo capturing the memorable experience from PHM Korea 2025:
 
 ---
 
+From July 2025, I had the privilege of attending the KSME Mechanical AI Expert Symposium (기계인공지능 전문가 심포지엄), hosted by the Mechanical AI Research Group of the Korean Society of Mechanical Engineers (KSME).
+
+The symposium focused on two pivotal themes shaping the future of mechanical engineering and AI: Large Language Models (LLMs) and Physics-Informed Machine Learning (PIML). It was an inspiring opportunity to hear from leading experts at the forefront of integrating AI with mechanical engineering, and to reflect on the transformative impact of these technologies on both academia and industry.
+
+Beyond attending the sessions, I was also honored to contribute in another meaningful way:
+As a member of the SDDO Lab, I have been responsible for designing the posters used for our lab’s academic and external events. For this symposium as well, I created the official poster, which represented both our lab’s creative spirit and its dedication to communicating research in a professional and impactful manner.
+
+Here is the symposium poster that I designed, which also serves as a reminder of this special occasion:
+
+![기계인공지능 전문가 심포지엄 포스터](./assets/images/기계인공지능%20전문가%20심포지엄/기계인공지능%20전문가%20심포지엄%20포스터.png)
+
+---
+
 My tutee, **Daniel Son**, lives in Southern California, USA, and his sister is also taking my class, officially started working as an Android app developer at OwnLab since January 22, 2024.
 
 > I sincerely hope it's a good experience for you.
