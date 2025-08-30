@@ -234,6 +234,26 @@ Here’s to collective growth, and to the many challenges ahead that I now face 
 
 ---
 
+From June 23 to 25, 2025, our SDDO Lab members had the honor of attending the PHM Korea 2025 Conference, held at the Booyoung Hotel in Jeju, Korea.
+
+This annual conference brought together leading experts, researchers, and practitioners in the field of Prognostics and Health Management (PHM) to exchange cutting-edge ideas and foster collaboration.
+
+During this event, I had the privilege of delivering a presentation titled:
+
+“Towards Open-Set Fault Diagnosis under Undefined Fault Modes.”
+
+In my talk, I shared our lab’s latest research on applying open-set recognition (OSR) techniques to fault diagnosis problems, addressing the challenge of detecting previously undefined fault modes in complex engineering systems. This work highlights how AI-driven approaches can improve the reliability and safety of critical infrastructures, such as nuclear power plants, by moving beyond traditional closed-set assumptions.
+
+The conference provided an invaluable opportunity not only to present our findings but also to engage with scholars and industry experts, receiving insightful feedback that will guide future directions of our work.
+
+Here’s a photo capturing the memorable experience from PHM Korea 2025:
+
+![PHM Korea 단체사진](./assets/images/PHM%20Korea/PHM%20Korea%20단체사진.png)
+
+![PHM Korea](./assets/images/PHM%20Korea/PHM%20Korea.png)
+
+---
+
 My tutee, **Daniel Son**, lives in Southern California, USA, and his sister is also taking my class, officially started working as an Android app developer at OwnLab since January 22, 2024.
 
 > I sincerely hope it's a good experience for you.
