@@ -228,6 +228,14 @@ Here is a photo from that special occasion:
 
 ![Teachers day](./assets/images/Teachers%20day/Teachers%20day.png)
 
+On this special day, we were also honored to welcome Dr. Chungeon Kim and Master Jungsik Choi, who visited our lab to celebrate Teacher’s Day together.
+
+Their presence made the occasion even more meaningful, as we were able to share warm moments of gratitude and camaraderie beyond our daily research activities. It was a reminder that the SDDO Lab is not only a place for academic pursuit, but also a true community where relationships and mentorship flourish.
+
+Here’s the group photo capturing this memorable gathering:
+
+![Teachers day 단체사진](./assets/images/Teachers%20day/Teachers%20day%20단체사진.png)
+
 ---
 
 From June 2025, I am honored to share that I have been selected as a recipient of the Graduate Presidential Science Scholarship (대학원 대통령과학장학금), awarded by the Korea Student Aid Foundation (한국장학재단).
