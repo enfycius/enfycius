@@ -254,7 +254,7 @@ Here’s a photo capturing the memorable experience from PHM Korea 2025:
 
 ---
 
-From July 2025, I had the privilege of attending the KSME Mechanical AI Expert Symposium (기계인공지능 전문가 심포지엄), hosted by the Mechanical AI Research Group of the Korean Society of Mechanical Engineers (KSME).
+From August 2025, I had the privilege of attending the KSME Mechanical AI Expert Symposium (기계인공지능 전문가 심포지엄), hosted by the Mechanical AI Research Group of the Korean Society of Mechanical Engineers (KSME).
 
 The symposium focused on two pivotal themes shaping the future of mechanical engineering and AI: Large Language Models (LLMs) and Physics-Informed Machine Learning (PIML). It was an inspiring opportunity to hear from leading experts at the forefront of integrating AI with mechanical engineering, and to reflect on the transformative impact of these technologies on both academia and industry.
 
