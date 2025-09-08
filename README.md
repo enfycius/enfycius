@@ -256,7 +256,7 @@ Featured on the official GIST website, highlighting my award of the Graduate Pre
 
 ![President2](./assets/images/scholarships/president-2.png)
 
-Posted on the alumni page of Hanbat National University, where I shared words of encouragement for younger students after receiving the scholarship.
+Posted on [the alumni page of Hanbat National University](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000055/view.do?nttId=B000000156554Os8qY3f), where I shared words of encouragement for younger students after receiving the scholarship.
 
 ![President3](./assets/images/scholarships/president-3.png)
 
