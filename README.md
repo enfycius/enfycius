@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ENFYCIUS&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Stay%20Hungry,%20Stay%20Foolish&descAlignY=55&descAlign=62)
 
 <p align="center">
-  <img width="35%" height="35%" src="./assets/images/enfycius/enfycius.jpg">
+  <img width="35%" height="35%" src="./assets/images/enfycius/profile_final.png">
 </p>
 
 <p align="center"> The profile of ENFYCIUS</p>
@@ -505,6 +505,13 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 ---
 
 ### :speech_balloon: Conference Proceedings
+
+* **Kim, J.**<sup>1†</sup>, Oh, J.<sup>1</sup>, & Oh, H.<sup>1</sup> (2025). *Towards Open-Set Fault Diagnosis under Undefined Fault Modes.* PHM Korea 2025 Conference, Booyoung Hotel, Jeju, South Korea, June 23 – June 25, 2025. ![Presentation](https://img.shields.io/badge/Presentation-00BFFF?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+> <sup>1</sup> Department of Mechanical and Robotics Engineering, Gwangju Institute of Science and Technology  
+
+> <sup>†</sup> Corresponding author: Jonghyeok Kim (enfycius@gm.gist.ac.kr)
+
 
 * Kim, N.<sup>1†</sup>, **Kim, J.**<sup>1</sup>, Park, J.<sup>2</sup>, Kim, T.<sup>2</sup>, Ahn, S.<sup>2</sup>, & Oh, H.<sup>1</sup> (2025). *Real-Time Fault Diagnosis of Compressors Using Incremental Gaussian Mixture Model.* The Korean Society of Mechanical Engineers Reliability Division Conference 2025, Gyeongju Kolon Hotel, South Korea, April 9 – April 11, 2025. ![Presentation](https://img.shields.io/badge/Presentation-00BFFF?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
