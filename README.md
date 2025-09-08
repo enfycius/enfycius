@@ -252,6 +252,8 @@ Here’s to collective growth, and to the many challenges ahead that I now face 
 
 ![President](./assets/images/scholarships/president.png)
 
+![President2](./assets/images/scholarships/president-2.png)
+
 ---
 
 From June 23 to 25, 2025, our SDDO Lab members had the honor of attending the PHM Korea 2025 Conference, held at the Booyoung Hotel in Jeju, Korea.
