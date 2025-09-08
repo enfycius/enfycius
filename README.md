@@ -252,7 +252,13 @@ Here’s to collective growth, and to the many challenges ahead that I now face 
 
 ![President](./assets/images/scholarships/president.png)
 
+Featured on the official GIST website, highlighting my award of the Graduate Presidential Science Scholarship (대학원 대통령과학장학금).
+
 ![President2](./assets/images/scholarships/president-2.png)
+
+Posted on the alumni page of Hanbat National University, where I shared words of encouragement for younger students after receiving the scholarship.
+
+![President3](./assets/images/scholarships/president-3.png)
 
 ---
 
