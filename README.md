@@ -297,6 +297,18 @@ Here is the symposium poster that I designed, which also serves as a reminder of
 
 ---
 
+From September 2025, our SDDO Lab members came together for a memorable MT (Membership Training) trip to **Gosapo Beach**.
+
+After months of intense research and academic activities, this retreat provided us with a chance to set aside the challenges of our work for a while and simply refresh ourselves in each other's company. Surrounded by the ocean and nature, we enjoyed a much-needed moment of relaxation that reminded us of the importance of balance in our journey as researchers.
+
+One highlight of the trip was capturing a group photo at the pension overlooking the sea, a scene that perfectly reflected both the calm beauty of Gosapo Beach and the warm, family-like spirit of our SDDO Lab.
+
+Here's the photo that will remain as a special memory of our time together:
+
+![고사포 해수욕장 MT 단체사진](./assets/images/gist/MT/Beach/MT-1.png)
+
+---
+
 My tutee, **Daniel Son**, lives in Southern California, USA, and his sister is also taking my class, officially started working as an Android app developer at OwnLab since January 22, 2024.
 
 > I sincerely hope it's a good experience for you.
