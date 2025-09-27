@@ -546,6 +546,12 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 ### :speech_balloon: Conference Proceedings
 
+* **Kim, J.**<sup>1†</sup>, Oh, J.<sup>1</sup>, & Oh, H.<sup>1</sup> (2025). *Towards Open-Set Fault Diagnosis for Reactor Coolant Pumps under Unknown Fault Conditions.* PHM-AP 2025 Conference, Singapore Management University, Singapore, December 10 – December 12, 2025. ![Presentation](https://img.shields.io/badge/Presentation-00BFFF?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![Expected](https://img.shields.io/badge/Expected-FFA500?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+
+> <sup>1</sup> Department of Mechanical and Robotics Engineering, Gwangju Institute of Science and Technology  
+
+> <sup>†</sup> Corresponding author: Jonghyeok Kim (enfycius@gm.gist.ac.kr)
+
 * **Kim, J.**<sup>1†</sup>, Oh, J.<sup>1</sup>, & Oh, H.<sup>1</sup> (2025). *Towards Open-Set Fault Diagnosis under Undefined Fault Modes.* PHM Korea 2025 Conference, Booyoung Hotel, Jeju, South Korea, June 23 – June 25, 2025. ![Presentation](https://img.shields.io/badge/Presentation-00BFFF?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> Department of Mechanical and Robotics Engineering, Gwangju Institute of Science and Technology  
