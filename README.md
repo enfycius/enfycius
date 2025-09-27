@@ -455,6 +455,20 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 #### 🌍 SCIE Publications
 
+
+* Oh, J.<sup>1</sup>, **Kim, J.<sup>1</sup>**, & Oh, H.<sup>1*</sup> (2025). [Enhanced Fault Diagnosis of Reactor Coolant Pumps Using Multi-Modal Vibration Features and Open-Set Recognition Technique.](#) *Journal TBD*. ![In Preparation](https://img.shields.io/badge/In%20Preparation-lightgrey?style=flat-square)  
+
+> <sup>1</sup> Department of Mechanical Engineering, Gwangju Institute of Science and Technology (GIST), Republic of Korea  
+
+> <sup>*</sup> Corresponding author: hsoh@gist.ac.kr  
+
+* Lee, D.<sup>1</sup>, **Kim, J.<sup>1</sup>**, Choi, M.<sup>1</sup>, Park, C.<sup>2</sup>, Kim, C. W.<sup>2</sup>, & Oh, H.<sup>1*</sup> (2025). *[Title TBD].* *Journal TBD*. ![In Preparation](https://img.shields.io/badge/In%20Preparation-lightgrey?style=flat-square)  
+
+> <sup>1</sup> Department of Mechanical Engineering, Gwangju Institute of Science and Technology (GIST), 123 Cheomdangwagi-ro, Buk-gu, Gwangju 61005, Republic of Korea  
+> <sup>2</sup> Department of Mechanical Engineering, Konkuk University, 120 Neungdong-ro, Gwangjin-gu, Seoul 05029, Republic of Korea  
+
+> <sup>*</sup> Corresponding author: hsoh@gist.ac.kr  
+
 * **Yang, S.**<sup>1†</sup>, **Jang, D.**<sup>2†</sup>, Kim, J.<sup>3</sup>, & Jeon, H.<sup>4*</sup> (2025). [Autonomous Concrete Crack Monitoring using a Mobile Robot with 2-DoF Manipulator and Stereo Vision Sensors.](#) *Sensors* (MDPI). ![Accepted](https://img.shields.io/badge/Accepted-green?style=flat-square)  
 
 > <sup>1</sup> Department of Civil and Environmental Engineering, Hanbat National University, Republic of Korea  
