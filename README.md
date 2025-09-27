@@ -455,6 +455,16 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 #### 🌍 SCIE Publications
 
+* **Yang, S.**<sup>1†</sup>, **Jang, D.**<sup>2†</sup>, Kim, J.<sup>3</sup>, & Jeon, H.<sup>4*</sup> (2025). [Autonomous Concrete Crack Monitoring using a Mobile Robot with 2-DoF Manipulator and Stereo Vision Sensors.](#) *Sensors* (MDPI). ![Accepted](https://img.shields.io/badge/Accepted-green?style=flat-square)  
+
+> <sup>1</sup> Department of Civil and Environmental Engineering, Hanbat National University, Republic of Korea  
+> <sup>2</sup> Department of Civil Engineering, University of Texas at Arlington, USA  
+> <sup>3</sup> Department of Mechanical and Robotics Engineering, Gwangju Institute of Science and Technology (GIST), Republic of Korea  
+> <sup>4</sup> Department of Civil and Environmental Engineering, Hanbat National University, Republic of Korea  
+
+> <sup>†</sup> These authors contributed equally to this work  
+> <sup>*</sup> Corresponding author: haemin.jeon@gmail.com
+
 * Hwang, M.<sup>a,1</sup>, **Kim, J.**<sup>a,1</sup>, Lee, H.<sup>a</sup>, & Oh, H.<sup>a,\*</sup> (2025). [Scale-Free and Phase-Agnostic Detection of Interturn Short Circuit Faults in Permanent Magnet Synchronous Motors](https://ieeexplore.ieee.org/document/11146749). *IEEE Access*. ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>a</sup> Department of Mechanical and Robotics Engineering, Gwangju Institute of Science and Technology, Gwangju 61005, Republic of Korea  
@@ -476,12 +486,6 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 > <sup>1</sup> These authors contributed equally to this work.
 
 > <sup>*</sup> Corresponding authors: B. Yang (byang@chungbuk.ac.kr), H. Jeon (hjeon@hanbat.ac.kr)
-
-* **Kim, J.**<sup>1</sup>, & Jeon, H.<sup>2†</sup> (2025). [Autonomous Concrete Crack Monitoring using a Mobile Robot with Manipulator and Stereo Vision Sensors.](#) *Engineering Applications of Artificial Intelligence*. ![Under Review](https://img.shields.io/badge/Under%20Review-blue?style=flat-square)  
-
-> <sup>1</sup> 한밭대학교 건설환경공학과 학부과정, <sup>2</sup> 한밭대학교 건설환경공학과 부교수
-
-> <sup>†</sup> Corresponding author: hjeon@hanbat.ac.kr
 
 #### 📑 KCI Publications
 
