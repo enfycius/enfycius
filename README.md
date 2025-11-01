@@ -469,7 +469,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 > <sup>*</sup> Corresponding author: hsoh@gist.ac.kr  
 
-* **Yang, S.**<sup>1†</sup>, **Jang, D.**<sup>2†</sup>, Kim, J.<sup>3</sup>, & Jeon, H.<sup>4*</sup> (2025). [Autonomous Concrete Crack Monitoring using a Mobile Robot with 2-DoF Manipulator and Stereo Vision Sensors.](#) *Sensors* (MDPI). ![Accepted](https://img.shields.io/badge/Accepted-green?style=flat-square)  
+* **Yang, S.**<sup>1†</sup>, **Jang, D.**<sup>2†</sup>, Kim, J.<sup>3</sup>, & Jeon, H.<sup>4*</sup> (2025). [Autonomous Concrete Crack Monitoring using a Mobile Robot with 2-DoF Manipulator and Stereo Vision Sensors.](#) *Sensors* (MDPI). ![Published](https://img.shields.io/badge/Published-00599C?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
 
 > <sup>1</sup> Department of Civil and Environmental Engineering, Hanbat National University, Republic of Korea  
 > <sup>2</sup> Department of Civil Engineering, University of Texas at Arlington, USA  
@@ -546,7 +546,7 @@ Congratulations! My tutee-**Taewan Ko** and **Junhee Kim** won the bronze award 
 
 ### :speech_balloon: Conference Proceedings
 
-* **Kim, J.**<sup>1†</sup>, Oh, J.<sup>1</sup>, & Oh, H.<sup>1</sup> (2025). *Towards Open-Set Fault Diagnosis for Reactor Coolant Pumps under Unknown Fault Conditions.* PHM-AP 2025 Conference, Singapore Management University, Singapore, December 10 – December 12, 2025. ![Presentation](https://img.shields.io/badge/Presentation-00BFFF?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![Expected](https://img.shields.io/badge/Expected-FFA500?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray)
+* **Kim, J.**<sup>1†</sup>, Oh, J.<sup>1</sup>, & Oh, H.<sup>1</sup> (2025). *Towards Open-Set Fault Diagnosis for Reactor Coolant Pumps under Unknown Fault Conditions.* PHM-AP 2025 Conference, Singapore Management University, Singapore, December 10 – December 12, 2025. ![Presentation](https://img.shields.io/badge/Presentation-00BFFF?style=flat-style&logoColor=#6DB33F&color=ff1709&labelColor=gray) ![Accepted](https://img.shields.io/badge/Accepted-green?style=flat-square)  
 
 > <sup>1</sup> Department of Mechanical and Robotics Engineering, Gwangju Institute of Science and Technology  
 
