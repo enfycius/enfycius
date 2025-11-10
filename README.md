@@ -309,6 +309,16 @@ Here's the photo that will remain as a special memory of our time together:
 
 ---
 
+On November 4th, I had the opportunity to return to Hanbat National University as an invited speaker, not as a student, but as a graduate researcher from GIST. During this 50-minute talk, I introduced my academic journey, including how I joined Gwangju Institute of Science and Technology (GIST) as a master’s course student and how I later received the Presidential Science Scholarship. I mainly shared the past research experiences that shaped my current research direction, and explained how continuous involvement in real projects eventually led me to advanced graduate-level research. Rather than focusing on competition or comparison, my goal in this lecture was to show students that stable growth in research ability naturally opens new academic doors, as long as one keeps learning and improving with consistency.
+
+![한밭대 특강-1](./assets/images/한밭대%20특강/한밭대%20특강-1.jpeg)
+
+![한밭대 특강-2](./assets/images/한밭대%20특강/한밭대%20특강-2.jpeg)
+
+![한밭대 특강-3](./assets/images/한밭대%20특강/한밭대%20특강-3.jpeg)
+
+---
+
 My tutee, **Daniel Son**, lives in Southern California, USA, and his sister is also taking my class, officially started working as an Android app developer at OwnLab since January 22, 2024.
 
 > I sincerely hope it's a good experience for you.
