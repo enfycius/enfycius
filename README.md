@@ -319,6 +319,16 @@ On November 4th, I had the opportunity to return to Hanbat National University a
 
 ---
 
+From December 7th to 12th, I attended PHM-AP 2025, an international conference held in Singapore, where researchers from academia and industry gathered to discuss recent advances in Prognostics and Health Management (PHM). During the conference, I had the opportunity to present our research, sharing our approach and findings with an international audience. Presenting at PHM-AP allowed me to receive valuable feedback from experts working on related problems and to reflect on how my current work fits into the broader PHM research landscape. Beyond the presentation itself, the conference experience reaffirmed the importance of continuously refining research ideas through discussion, critique, and exposure to diverse perspectives.
+
+![PHM-AP](./assets/images/PHM-AP/2025/PHMAP.JPG)
+
+Outside the conference sessions, I also had time to experience Singapore more personally. One memorable moment was visiting the Singapore Botanic Gardens together with Jeongmin Oh, a Ph.D. candidate and the senior lab member (lab lead) in our research group. Walking through the gardens provided a brief but meaningful break from the intensive academic schedule, and it was a chance to have informal conversations about research, graduate life, and future directions. These moments outside the conference venue often become just as meaningful as the sessions themselves, reminding me that research is shaped not only by experiments and papers, but also by shared experiences and discussions with colleagues.
+
+![보타닉 가든](./assets/images/PHM-AP/2025/Botanic%20Gardens.JPG)
+
+---
+
 My tutee, **Daniel Son**, lives in Southern California, USA, and his sister is also taking my class, officially started working as an Android app developer at OwnLab since January 22, 2024.
 
 > I sincerely hope it's a good experience for you.
