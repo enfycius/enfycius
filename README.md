@@ -323,7 +323,9 @@ From December 7th to 12th, I attended PHM-AP 2025, an international conference h
 
 ![PHM-AP](./assets/images/PHM-AP/2025/PHMAP.JPG)
 
-![PHM-AP-2](./assets/images/PHM-AP/2025/PHM-AP2025-COA_Jonghyeok%20Kim.png)
+![PHM-AP-2](./assets/images/PHM-AP/2025/presentation.jpg)
+
+![PHM-AP-3](./assets/images/PHM-AP/2025/PHM-AP2025-COA_Jonghyeok%20Kim.png)
 
 Outside the conference sessions, I also had time to experience Singapore more personally. One memorable moment was visiting the Singapore Botanic Gardens together with Jeongmin Oh, a Ph.D. candidate and the senior lab member (lab lead) in our research group. Walking through the gardens provided a brief but meaningful break from the intensive academic schedule, and it was a chance to have informal conversations about research, graduate life, and future directions. These moments outside the conference venue often become just as meaningful as the sessions themselves, reminding me that research is shaped not only by experiments and papers, but also by shared experiences and discussions with colleagues.
 
