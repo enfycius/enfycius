@@ -333,6 +333,24 @@ Outside the conference sessions, I also had time to experience Singapore more pe
 
 ---
 
+On February 5, 2026, I attended the Graduate Presidential Science Scholarship Award Ceremony at the Yeongbingwan (State Guest House) of the Blue House, where President Lee Jae-myung personally presented the scholarships to recipients across the nation.
+
+This ceremony was not only a formal recognition of academic achievement, but also a deeply meaningful moment that reminded me of the responsibility that comes with such honor. Standing in the historic venue where Korea's most significant state events take place, I felt both humbled and inspired to contribute more meaningfully to the advancement of science and technology in Korea.
+
+Meeting the President in person and hearing his words of encouragement reinforced my commitment to research that serves society—particularly in fields like PHM and AI-driven safety systems that directly impact people's lives.
+
+This experience will remain a lasting motivation throughout my academic journey.
+
+The scholarship award included a certificate, a commemorative watch, and a medal:
+
+![President4](./assets/images/scholarships/president-4.png)
+
+For those interested, the full ceremony was livestreamed and is available on YouTube:
+
+[![Award Ceremony](https://img.youtube.com/vi/F9EriScSAIo/0.jpg)](https://www.youtube.com/watch?v=F9EriScSAIo)
+
+---
+
 My tutee, **Daniel Son**, lives in Southern California, USA, and his sister is also taking my class, officially started working as an Android app developer at OwnLab since January 22, 2024.
 
 > I sincerely hope it's a good experience for you.
