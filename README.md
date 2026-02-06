@@ -349,6 +349,10 @@ For those interested, the full ceremony was livestreamed and is available on You
 
 [![Award Ceremony](https://img.youtube.com/vi/F9EriScSAIo/0.jpg)](https://www.youtube.com/watch?v=F9EriScSAIo)
 
+After the ceremony, all scholarship recipients gathered for a group photo at the Yeongbingwan. It was inspiring to stand alongside fellow researchers from diverse fields across Korea, each committed to advancing science and technology in their own way. This moment reminded me that research is not a solitary journey, but a collective effort toward a better future:
+
+![President5](./assets/images/scholarships/president-5.png)
+
 ---
 
 My tutee, **Daniel Son**, lives in Southern California, USA, and his sister is also taking my class, officially started working as an Android app developer at OwnLab since January 22, 2024.
